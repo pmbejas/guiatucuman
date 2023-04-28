@@ -1,0 +1,38 @@
+[
+    {
+        "id" : "1",
+        "nombre" : "Bandurrias",
+        "slug":"bandurrias",
+        "linea1" : "+75 vías entre 4º y 7b+/c.",
+        "linea2" : "Placas aplomadas y verticales de regletas y fisuras.",
+        "linea3" : "",
+        "imagen" : "bandurrias"
+    },
+    {
+        "id" : "2",
+        "nombre" : "Covisal",
+        "slug":"covisal",
+        "linea1" : "+65 vías entre 4º y 8c.",
+        "linea2" : "Desde aplomes fáciles hasta tremendos desplomes. Cuernitos y agujeritos.",
+        "linea3" : "",
+        "imagen" : "covisal"
+    },
+    {
+        "id" : "3",
+        "nombre" : "Los Riscos",
+        "slug":"los-riscos",
+        "linea1" : "~20 vías cortas y desplomadas desde 5+ hasta 7c+.",
+        "linea2" : "",
+        "linea3" : "",
+        "imagen" : "losriscos"
+    },
+    {
+        "id" : "4",
+        "nombre" : "Potrero Alto",
+        "slug":"potrero-alto",
+        "linea1" : "15 vías desde 5+/6a hasta 7b+.",
+        "linea2" : "Placas verticales con agujeritos.",
+        "linea3" : "",
+        "imagen" : "potreroalto"
+    }
+]

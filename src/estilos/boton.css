@@ -1,0 +1,20 @@
+.boton {
+    background-color: rgb(39, 165, 211);
+    height: 40px;
+    border-radius: 5px;
+    padding: 10px 25px;
+    border: none;
+    cursor: pointer;
+    opacity: 1;
+    transition: opacity .2s ease-in-out;
+}
+
+.boton:hover {
+    opacity: .8;
+}
+
+.texto-boton {
+    color: white;
+    font-size: 1.1em;
+    font-weight: 600;
+}

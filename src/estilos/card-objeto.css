@@ -1,0 +1,17 @@
+.contenedor-objeto {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.texto-contenedor-objeto {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 5px;
+}
+
+.texto-contenedor-objeto > p {
+    color: var(--color-texto-claro);
+}

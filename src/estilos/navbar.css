@@ -1,0 +1,82 @@
+:root {
+    --color-fondo-menu: rgb(0, 0, 0);
+    --color-fondo: rgb(34, 34, 34);
+}
+
+.barra-navegacion {
+    display: flex;
+    flex-direction: row;
+    background-color: var(--color-fondo);
+    width: 90vw;
+    height: 76px;
+    justify-content: space-around;
+}
+
+.seccion-barra {
+    width: 33%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 25px;
+}
+
+.barra1 {
+    justify-content: start;
+
+}
+
+.barra2 {
+    justify-content: center;
+}
+
+.con-submenu {
+    display: block;
+}
+
+.barra3 {
+    justify-content: end;
+}
+
+.logo {
+    height: 40px;
+}
+
+.texto-menu {
+    font-size: .9em;
+    color: rgb(255, 255, 255);
+    opacity: .8;
+    transition: opacity .2s ease-in-out;
+}
+
+.texto-menu-small {
+    font-size: .6em;
+    color: rgb(255, 255, 255);
+    margin-left: 5px;
+}
+
+.texto-menu:hover, texto-menu-peque:hover {
+    opacity: 1;
+    cursor: pointer;
+}
+
+.imagen-redes-sociales {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    opacity: 1;
+    transition: opacity .2s ease-in-out;
+}
+
+.imagen-redes-sociales:hover {
+    opacity: .8;   
+}
+
+.sub-menu {
+    position: relative;
+    display: block;
+    flex-direction: column;
+    background-color: var(--color-fondo-menu);
+    padding: 10px 20px;
+    opacity: 1;
+    gap: 15px;
+}
