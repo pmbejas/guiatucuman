@@ -1,0 +1,119 @@
+.seccion-titulo-sector {
+    display: flex;
+    flex-direction: column;
+    width: 55%;
+    background-color: var(--color-fondo);
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.texto-link-sector {
+    color: rgb(40,181,231);
+    font-size: 1em;
+    align-self: flex-start;
+    padding: 20px 0px;
+    text-decoration: underline;
+}
+
+.seccion-titulo-sector > h1 {
+    color: white;
+    font-size: 3em;
+    align-self: flex-start;
+}
+
+.seccion-titulo-sector > p {
+    font-size: 1.2em;
+    color: var(--color-texto-claro-titulo);
+    line-height: 1.7;
+    margin-top:10px;
+    align-self: flex-start;
+}
+
+.seccion-vias-sector {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    align-items: center;
+    gap: 30px;
+}
+
+.seccion-vias-sector > img {
+    width: 70%;
+
+}
+
+.seccion-listado-vias-sector {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 30px 0px;
+}
+
+.contenedor-seccion-acceso-sector {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: var(--color-fondo-blanco);
+    width: 100%;
+}
+
+
+.seccion-acceso-sector {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    width: var(--ancho-interno);
+    background-color: var(--color-fondo-blanco);
+    padding: 30px 0px;
+}
+
+.seccion-acceso-sector > img {
+    width: 50%;
+}
+
+.seccion-texto-acceso-sector {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
+
+.seccion-texto-acceso-sector > p {
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: var(--color-texto-claro);
+}
+
+@media (max-width: 768px) {
+    .seccion-titulo-sector {
+        width: 95%;
+    }
+
+    .seccion-vias-sector {
+        margin-bottom: 15px;
+    }
+
+    .seccion-vias-sector > img {
+        width: 95%;
+        margin-bottom: 0px;
+    }
+
+    .seccion-listado-vias-sector {
+        width: 95%;
+        padding: 0px;
+    }
+
+    .seccion-acceso-sector {
+        flex-direction: column;
+    }
+
+    .seccion-acceso-sector > img {
+        width: 100%;
+    }
+
+    .seccion-texto-acceso-sector > p {
+        font-size: 1em;
+    }
+}

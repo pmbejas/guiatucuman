@@ -1,0 +1,82 @@
+.contenedor-card-via {
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    padding: 10px 0px;
+    border-top: solid 1px rgba(0, 0, 0, 0.300)
+}
+.seccion-numero-via {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 10%;
+    font-size: 1.2em;
+    color: var(--color-texto-claro)
+}
+.seccion-nombre-via {
+    display: flex;
+    flex-direction: column;
+    width: 55%;
+}
+
+.seccion-datos-via {
+    display: flex;
+    flex-direction: row;
+    width: 40%;
+     justify-content: flex-end;
+    gap: 30px;
+}
+
+.seccion-datos-via > p {
+    width: 32%;
+    align-self: center;
+    text-align: center;
+    font-size: 1.2em;
+    color: var(--color-texto-claro)
+}
+
+.nombre-via {
+    font-weight: bold;
+    font-size: 1.3em;
+    color: black;
+}
+
+.subtitulo-via {
+    font-style: italic;
+    color: var(--color-texto-claro);
+    font-size: 1em;
+    margin-top: 5px;
+}
+
+.strong {
+    font-weight: bold;
+    color: black;
+}
+
+@media (max-width: 768px) {
+    .contenedor-card-via {
+        width: 100%;
+    }
+
+    .seccion-nombre-via {
+        width: 67%;
+    }
+
+    .seccion-numero-via {
+        width: 8%;
+        font-size: 1em;
+    }
+
+    .seccion-datos-via {
+        width: 25%;
+        gap: 10px;
+    }
+    
+    .nombre-via {
+        font-size: 1.1em;
+    }
+    .seccion-datos-via > p {
+        font-size: 1em;
+    }
+}

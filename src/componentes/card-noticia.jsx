@@ -1,4 +1,5 @@
 import React from "react";
+import  parse from "html-react-parser";
 import '../estilos/card-noticia.css'
 
 export const CardNoticia = (props) => {
@@ -8,7 +9,7 @@ export const CardNoticia = (props) => {
                 alt="" />
             <span>{props.fecha}</span>
             <h3>{props.titulo}</h3>
-            <p>{props.contenido}</p>
+            <p>{parse(props.contenido)}</p>
         </div>
     );
 }

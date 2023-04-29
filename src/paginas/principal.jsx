@@ -22,7 +22,7 @@ export const Principal = () => {
                     <p>
                         Toda la recaudación de la guía es destinada a la compra de anclajes para el mantenimiento y apertura de nuevas vías.
                     </p>
-                    <Boton texto="Guia Online" />
+                    <Boton className="boton" texto="Guia Online" />
                 </div>
                 <div className="contenedor-mitad">
                     <img src={require("../img/img-phone-escalada.png")} 
@@ -62,7 +62,7 @@ export const Principal = () => {
                         imagen="nota-1"
                         fecha="01/01/2023"
                         titulo="Lanzamiento del Sitio de Guias de Tafi del Valle"
-                        contenido="Se lanzó el nuevo sitio de la Asociacion Argentina de Montaña, en donde vas a encontrar toda la informacion de los lugares para hacer escaladas. Lanzamiento del Sitio de Guias de Tafi del Valle. Se lanzó el nuevo sitio de la Asociacion Argentina de Montaña, en donde vas a encontrar toda la informacion de los lugares para hacer escaladas." />
+                        contenido="Se lanzó el nuevo sitio de la <strong>Asociacion Argentina de Montaña</strong>, en donde vas a encontrar toda la informacion de los lugares para hacer escaladas. <br>Lanzamiento del Sitio de Guias de Tafi del Valle. Se lanzó el nuevo sitio de la Asociacion Argentina de Montaña, en donde vas a encontrar toda la informacion de los lugares para hacer escaladas." />
                         <CardNoticia
                             imagen="nota-1"
                             fecha="01/01/2023"

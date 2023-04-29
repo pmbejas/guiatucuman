@@ -1,0 +1,98 @@
+[
+    {
+        "id" : "1",
+        "idZona": "1",
+        "nombreZona": "Bandurrias",
+        "slugZona": "bandurrias",
+        "nombre" : "Rincón",
+        "slug":"rincon",
+        "subtitulo" : "9 vías entre 5+ y 7a",
+        "imagen" : "bandurrias",
+        "imagenSector": "rincon",
+        "imagen3": "",
+        "imagenLlegar": "bandurrias",
+        "imagenMapa": "",
+        "descripcion": "9 vías entre 5+ y 7a | 13 a 16mts | 7 a 9 cintas",
+        "llegar": "Desde el estacionamiento, volver unos 20m y en la primer curva entrar entre el cerco y la pared; justo al lado de un cartel de Prefectura.",
+        "vias": [
+                {
+                    "nombre": "Rock star 👍",
+                    "subtitulo": "Escuela de Montaña Club Lacar, 2014",
+                    "largo": "13m",
+                    "categoria1": "6+R",
+                    "categoria2": "6b"
+                },
+                {
+                    "nombre": "Delirios de grandeza 🟢",
+                    "subtitulo": "Eric Sweet y Marcelo Parada, 1999",
+                    "largo": "13m",
+                    "categoria1": "6+R",
+                    "categoria2": "5+"
+                }
+        ]
+    },
+    {
+        "id" : "2",
+        "idZona": "1",
+        "nombreZona": "Bandurrias",
+        "slugZona": "bandurrias",
+        "nombre" : "Al toque",
+        "slug":"al-toque",
+        "subtitulo" : "4 vías entre 6b y 7a",
+        "imagen" : "al-toque",
+        "imagenSector": "al-toque",
+        "imagen3": "",
+        "imagenLlegar": "al-toque",
+        "imagenMapa": "al-toque",
+        "descripcion": "4 vías entre 6b y 7a | 14 a 18mts | 7 a 8 cintas",
+        "llegar": "Desde el estacionamiento, volver unos 20m y en la primer curva entrar entre el cerco y la pared; justo al lado de un cartel de Prefectura.",
+        "vias": [
+            {
+                "nombre": "Tetra Brick",
+                "subtitulo": "Maxi Gutiérrez, 2001",
+                "largo": "14m",
+                "categoria1": "5+R",
+                "categoria2": "6b"
+            },
+            {
+                "nombre": "Toty el rey de los teresos 👍",
+                "subtitulo": "Jano y Maxi Gutiérrez, 2001",
+                "largo": "17m",
+                "categoria1": "5+R",
+                "categoria2": "6c+"
+            }
+    ]
+    },
+    {
+        "id" : "3",
+        "idZona": "2",
+        "nombreZona": "Covisal",
+        "slugZona": "covisal",
+        "nombre" : "Casita del árbol",
+        "slug":"sectores/casita-del-arbol",
+        "subtitulo" : "8 vías deportivas entre 6a+ y 7b+; y 3 multilargos",
+        "imagen" : "bandurrias",
+        "imagenSector": "casita-del-arbol",
+        "imagen3": "",
+        "imagenLlegar": "",
+        "imagenMapa": "",
+        "descripcion": "9 vías deportivas entre 6a+ y 7b+ | 12 a 30mts | 6 a 10 cintas <br>3 multilargos",
+        "llegar": "Desde el acceso principal doblar a la derecha antes de llegar al sector '20 años'; poco después del desvío a la izquierda que lleva a los sectores 'El ciprés' hasta 'La cueva'.<br> La primer vía se encuentra en una placa clara después de una subida. Desde este mismo pie de vía comienza el multilargo A.<br>Las vías #2 y #3 están justo a la derecha pero el pie de vía es más bajo y para llegar hay que dar una pequeña vuelta. Desde esta zona salen también los multilargos B y C.<br>Las vías #4 a #7 se encuentran subiendo un poco a los restos de una casita del árbol en un pie de vía más elevado.<br>Las vías #8 y #9 están justo pasando la casita del árbol.",
+        "vias": [
+            {
+                "nombre": "No se jode con lo que no entendemos 👍🔵",
+                "subtitulo": "Gaspar Laprida y Hernán Signorini, 2018",
+                "largo": "15m",
+                "categoria1": "6+R",
+                "categoria2": "6c"
+            },
+            {
+                "nombre": "Atado nunca más (L1)🔵",
+                "subtitulo": "Juan de la Canal y Hernan Signorini, 2020",
+                "largo": "30m",
+                "categoria1": "8+2",
+                "categoria2": "6b/+"
+            }
+    ]
+    }
+]

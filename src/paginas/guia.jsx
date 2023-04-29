@@ -1,22 +1,40 @@
 import React, {useState,useEffect} from 'react';
-import '../estilos/guia.css'
 import { Link } from "react-router-dom";
+import '../estilos/guia.css'
+
 import { CardZona } from '../componentes/card-zona';
 
 export const Guias = () => {
     const [data,setData]=useState([]);
-    const getData=()=>{
-      fetch('./data/zonas.json')
-        .then( response => response.json())
-        .then(myJson => {
-          console.log(myJson);
-          setData(myJson)
-        });
+    const [error, setError]=useState(null);
+    const getData = async ()=>{
+        await fetch('../data/zonas.json')
+            .then( response => response.json())
+            .then(datos => {
+                    setData(datos)
+            })
+            .catch (err => {
+                setError(err);
+            });
     }
+
     useEffect(()=>{
       getData()
     },[])
     
+    if (error) {
+        return (
+            <div className="contenedor">
+                <div className="seccion-titulo-guias">
+                    <h1>Guia Online</h1>
+                    <p>
+                        ERROR: {error.message} 
+                    </p>
+                </div>
+            </div> 
+        )
+    }
+
     return (
         <div className="contenedor">
             <div className="seccion-titulo-guias">
@@ -75,13 +93,14 @@ export const Guias = () => {
                     src={require('../img/mapa-zonas.png')}
                     alt="Mapa de la Zona" />
                 <div className="seccion-card-zonas">
-                    { data && data.length>0 && data.map((item)=><CardZona 
-                        imagen={item.imagen}
-                        nombre={item.nombre}
-                        slug={item.slug}
-                        linea1={item.linea1}
-                        linea2={item.linea2}
-                        linea3={item.linea3}/> )
+                    { data && data.length>0 && data.map((item)=>
+                        <CardZona
+                            key={item.id}
+                            imagen={item.imagen}
+                            nombre={item.nombre}
+                            slug={item.slug}
+                            subtitulo={item.subtitulo}
+                        /> )
                     }
                 </div>
             </div>

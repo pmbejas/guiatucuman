@@ -8,7 +8,7 @@
 
 .seccion-titulo-guias > h1 {
     margin-top: 70px;
-    color: var(--color-texto);
+    color: var(--color-texto-blanco);
     font-size: 3em;
 }
 
@@ -131,4 +131,72 @@
     justify-content: center;
     padding-top: 30px;
     gap: 20px;
+}
+
+@media (max-width: 768px) {
+
+    .seccion-titulo-guias {
+        flex-direction: column;
+        width: 90%;
+        padding-bottom: 20px;
+        align-items: center;
+    }
+
+    .seccion-titulo-guias > p {
+        font-size: 1.1em;
+        width: 100%;
+        text-align: justify;
+    }
+
+    .seccion-titulo-guias > h1 {
+        align-self: flex-start;
+    }
+    
+    .seccion-alerta-guias {
+        width: 98%;
+    }
+    
+    .seccion-alerta-contenido-guias {
+        width: 90%;
+        align-items: flex-start;
+    }
+
+    .seccion-alerta-contenido-guias {
+        text-align: justify;
+    }
+ 
+    .seccion-alerta-card-informacion {
+        flex-direction: column;
+        gap: 0px;
+        width: 90%;
+        margin: 20px 0px;
+    }
+    
+    .contenedor-alerta-card-informacion {
+        gap: 10px;
+        width: 100%;
+        padding-top: 30px;
+    }
+
+    .contenedor-alerta-card-informacion > p {
+        margin: 0px 0px;
+    }
+
+    .separador-guias {
+        display: none;    }
+    
+    .seccion-zonas-escalada-guias {
+        width: 100%;
+    }
+    
+    .seccion-zonas-escalada-guias > img {
+        width: 100%;
+    }
+    
+    .seccion-card-zonas {
+        width: 98%;
+        grid-template-columns: repeat(auto-fill, minmax(48%, 48%));
+        gap: 10px;
+    }
+
 }

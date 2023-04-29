@@ -1,0 +1,142 @@
+.error > h1 {
+    align-self: center;
+    margin: 0;
+    padding: 0;
+    color: rgb(185, 89, 89);
+}
+
+.seccion-titulo-zonas {
+    display: flex;
+    flex-direction: column;
+    width: 55%;
+    background-color: var(--color-fondo);
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+.seccion-titulo-zonas > h1 {
+    margin-top: 70px;
+    color: white;
+    font-size: 3em;
+    align-self: flex-start;
+}
+
+.seccion-titulo-zonas > p {
+    font-size: 1.2em;
+    color: var(--color-texto-claro-titulo);
+    line-height: 1.7;
+    margin-top:10px;
+}
+
+.contenedor-contenido-zonas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100;
+    background-color: var(--color-fondo-claro);
+}
+
+.seccion-acceso-zonas {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    gap: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.seccion-acceso-zonas > img {
+    width: 50%;
+}
+
+.seccion-texto-acceso-zonas {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
+
+.seccion-texto-acceso-zonas > p {
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: var(--color-texto-claro);
+}
+
+.boton-maps {
+    min-width: 300px;
+
+}
+
+.error {
+    margin-bottom: 40px;
+    margin-top: 100px;
+}
+
+.seccion-sectores-zonas {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    background-color: var(--color-fondo-claro);
+    align-items: center;
+    margin-top: 20px;
+}
+
+.seccion-card-sectores-zonas-error {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    margin-top:30px;
+    margin-bottom: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: pink;
+    width: 100%;
+}
+
+.seccion-card-sectores-zonas {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 23%));
+    justify-content: center;
+    padding-top: 30px;
+    gap: 20px;
+}
+
+@media (max-width: 768px) {
+    .seccion-titulo-zonas {
+        flex-direction: column;
+        width: 90%;
+        padding-bottom: 20px;
+        align-items: center;
+    }
+
+    .seccion-titulo-zonas > p {
+        font-size: 1.1em;
+        width: 100%;
+        text-align: justify;
+    }
+
+    .seccion-titulo-zonas > h1 {
+        align-self: flex-start;
+    }
+    
+    .seccion-acceso-zonas {
+        flex-direction: column;
+    }
+
+    .seccion-acceso-zonas > img {
+        width: 100%
+    }
+
+    .seccion-sectores-zonas {
+        width: 100%;
+    }
+    
+    .seccion-card-sectores-zonas {
+        width: 100%;
+        grid-template-columns: repeat(auto-fill, minmax(220px, 47%));
+        gap: 10px;
+    }
+
+}

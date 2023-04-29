@@ -5,6 +5,8 @@ import { Principal } from './paginas/principal';
 import { Guias } from './paginas/guia';
 import { Proyecto } from './paginas/proyecto';
 import { Layout } from './paginas/layout';
+import { Zona } from './paginas/zona';
+import { Sector } from './paginas/sector';
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
           <Route path="/guia" element={<Guias />} />
           <Route path="/" element={<Principal />} />
           <Route path="/proyecto" element={<Proyecto />} />
+          <Route path="/guia/:slug" element={<Zona />} />
+          <Route path="/guia/sectores/:slug" element={<Sector />} />
         </Route>
       </Routes>      
     </Router>
