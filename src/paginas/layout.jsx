@@ -1,8 +1,10 @@
 import React from "react";
 import '../estilos/layout.css'
-
 import { Outlet } from 'react-router-dom';
-import { NavBar } from '../componentes/navbar.jsx';
+
+import { NavBar } from '../componentes/navbar';
+import { Apoyo } from '../componentes/apoyo';
+import { Footer } from '../componentes/footer';
 
 export const Layout = () => {
     return (
@@ -14,21 +16,8 @@ export const Layout = () => {
                 <Outlet />
             </main>
             <footer>
-                <div className="seccion-apoyo">
-                    <p>APOYAN ESTE PROYECTO</p>
-                    <div className="seccion-contenedor-apoyo">
-                        <img className="icono-apoyo" src={require("../img/apoyos/icono1.png")} alt="" />
-                        <img className="icono-apoyo" src={require("../img/apoyos/icono2.png")} alt="" />
-                        <img className="icono-apoyo" src={require("../img/apoyos/icono3.png")} alt="" />
-                        <img className="icono-apoyo" src={require("../img/apoyos/icono4.png")} alt="" />
-                        <img className="icono-apoyo" src={require("../img/apoyos/icono5.png")} alt="" />
-                        <img className="icono-apoyo" src={require("../img/apoyos/icono6.png")} alt="" />
-                        <img className="icono-apoyo" src={require("../img/apoyos/icono7.png")} alt="" />
-                        <img className="icono-apoyo" src={require("../img/apoyos/icono8.png")} alt="" />
-                        <img className="icono-apoyo" src={require("../img/apoyos/icono9.png")} alt="" />
-                        <img className="icono-apoyo" src={require("../img/apoyos/icono10.png")} alt="" />
-                    </div>
-                </div>
+                <Apoyo />
+                <Footer />
             </footer>
         </div>
     );       

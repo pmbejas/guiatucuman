@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from "react";
 import '../estilos/sector.css'
 import { useParams, Link } from "react-router-dom";
-import { CardVia } from '../componentes/card-via'
+import { CardVia } from '../componentes/card-via';
+import { CardZona } from '../componentes/card-zona';
 import  parse from "html-react-parser";
 
 export const Sector = () => {
@@ -9,16 +10,20 @@ export const Sector = () => {
     const [error, setError] = useState(null);
     const [isLoading, setIsLoading] = useState(false);
     const [sector, setSector] = useState([]);
-    
+    const [otrosSectores, setOtrosSectores] = useState([]);
+
     useEffect(()=>{
         const getData = async () => {
             setIsLoading(true);
             await fetch('/data/sectores.json')
                 .then (response => response.json())
                 .then (data => {
-                    let sector = data.find(sector => sector.slug === slug);
+                    let sector = data.find(sector => sector.slug === slug);                    
                     if (sector) {
                         setSector(sector);
+                        console.log(sector.slugZona);
+                        let otrosSectores = data.filter(sectores => sectores.idZona === sector.idZona && sectores.id !== sector.id)
+                        setOtrosSectores(otrosSectores);
                         setError("");
                     } else {
                         setError("Sector No encontrado");
@@ -29,7 +34,7 @@ export const Sector = () => {
                 })
                 setIsLoading(false);
         }
-        
+
         getData();
     }, [slug]);
 
@@ -82,23 +87,23 @@ export const Sector = () => {
                         </div>
                     </div>
                 </div>
-                {/* <div className="seccion-sectores-zonas">
-                    <h1>Sectores</h1>
-                    { errorSectores &&
-                        <div className="seccion-card-sectores-zonas-error">
-                            <h1>Aún no cargamos los sectores de esta zona</h1> 
+                <div className="seccion-sectores-sectores">
+                    <h1>Otros Sectores</h1>
+                    { error &&
+                        <div className="seccion-card-sectores-sectores-error">
+                            <h1>Aún no cargamos los otros sectores de esta zona</h1> 
                             <h1>En unos dias estará listo</h1> 
                         </div>
                     }
-                    <div className="seccion-card-sectores-zonas">
-                        { sectores && sectores.length>0 && sectores.map((item)=><CardZona 
+                    <div className="seccion-card-sectores-sectores">
+                        { otrosSectores && otrosSectores.length>0 && otrosSectores.map((item)=><CardZona 
                             imagen={item.imagen}
                             nombre={item.nombre}
-                            slug={item.slug}
+                            slug={"sectores/"+item.slug}
                             subtitulo={item.subtitulo}/> )
                         }
                     </div>
-                </div> */}
+                </div>
             </div>
         </div>
     )

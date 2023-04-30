@@ -8,7 +8,16 @@ export const NavBar = () => {
     const [error, setError] = useState(null);
     const [zonas, setZonas] = useState([]);
 
-    useEffect(() => {
+    const handleClickMenu = () => {
+        const iconoHamburger = document.getElementById('iconHamburger');
+        iconoHamburger.classList.toggle('ocultar');
+        const iconoX = document.getElementById('iconX');
+        iconoX.classList.toggle('ocultar');
+        const menuMovil = document.getElementById('menuMovil');
+        menuMovil.classList.toggle('ocultar');
+    }
+
+    useEffect(() => {        
         setError("");
         setZonas([]);
         const fetchZonas = async () => {
@@ -47,6 +56,7 @@ export const NavBar = () => {
                     </img>
                 </Link>
             </div>
+    
             <div className="seccion-barra barra2">
                 <div className="con-submenu">
                     <Link to="/guia" style={{ textDecoration: 'none' }}>
@@ -93,6 +103,50 @@ export const NavBar = () => {
                         src={require('../img/instagram.png')} 
                         alt="Pagina de Instagram" />
                 </a>
+            </div>
+            <div className="barraMovil">
+                <img 
+                    className="hamburger"
+                    id="iconHamburger"
+                    onClick={handleClickMenu}
+                    src={require("../img/iconos/hamburger.png")}
+                    alt="Hamburger Icon"/>
+                <img 
+                    className="menu-x ocultar"
+                    id="iconX"
+                    onClick={handleClickMenu}
+                    src={require("../img/iconos/menu-x.png")}
+                    alt="Hamburger Icon"/>
+                
+                <div className="barraMovilMenu ocultar" id="menuMovil" onClick={handleClickMenu}>
+                    <div className="con-submenu">
+                        <Link to="/guia" style={{ textDecoration: 'none' }}>
+                            <div className="texto-menu">
+                                <span className="">Guia</span>
+                                <span className="texto-menu-small">▼</span>
+                            </div>
+                        </Link>
+                        <div className="contenedor-submenu">
+                            <div className="submenu">
+                                { zonas && zonas.length> 0 && zonas.map((zona)=>
+                                    <Link to={`/guia/${zona.slug}`} style={{ textDecoration: 'none'}}>
+                                        <p className="opciones-submenu">{zona.nombre}</p>
+                                    </Link>
+                                )}
+                            </div>  
+                        </div>
+                    </div>
+                    <Link to="/proyecto" style={{ textDecoration: 'none' }}>
+                        <div className="texto-menu">
+                            <span className="">El proyecto</span>
+                        </div>
+                    </Link>
+                    <Link to="/notas" style={{ textDecoration: 'none' }}>
+                        <div className="texto-menu">
+                            <span className="">Notas</span>
+                        </div>
+                    </Link>
+                </div>
             </div>
         </nav>
     );

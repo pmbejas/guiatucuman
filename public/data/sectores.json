@@ -1,7 +1,7 @@
 [
     {
-        "id" : "1",
-        "idZona": "1",
+        "id" :1,
+        "idZona": 1,
         "nombreZona": "Bandurrias",
         "slugZona": "bandurrias",
         "nombre" : "Rincón",
@@ -32,8 +32,8 @@
         ]
     },
     {
-        "id" : "2",
-        "idZona": "1",
+        "id" : 2,
+        "idZona": 1,
         "nombreZona": "Bandurrias",
         "slugZona": "bandurrias",
         "nombre" : "Al toque",
@@ -64,8 +64,8 @@
     ]
     },
     {
-        "id" : "3",
-        "idZona": "2",
+        "id" : 3,
+        "idZona": 2,
         "nombreZona": "Covisal",
         "slugZona": "covisal",
         "nombre" : "Casita del árbol",

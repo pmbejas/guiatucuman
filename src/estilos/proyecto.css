@@ -94,4 +94,25 @@
 }
 
 
+@media (max-width: 768px) {
+    .seccion-titulo-proyecto {
+        width: 95%;
+        height: 150px;
+        justify-content: center;
+    }
+    
+    .seccion-titulo-proyecto > h1 {
+        margin-top: 0px;
+        font-size: 2.5em;
+    }
 
+    .contenido-proyecto {
+        width: 100%;
+        top: 0px;
+    }
+
+    .contenedor-texto-proyecto {
+        width: 100%;
+    }
+
+}

@@ -10,7 +10,6 @@
     --color-texto-claro: rgb(92, 92, 92);
     --color-texto-claro-titulo: rgb(176, 176, 176);
     --ancho-interno: 90%;
-    --max-width-screen: 768px;
 }
 
 * {
@@ -34,33 +33,4 @@ footer {
     width: 100vw;
     min-height: 500px;
     background-color: var(--color-fondo-footer);
-}
-
-.seccion-apoyo {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100vw;
-    padding: 30px 0px;
-    background-color: var(--color-fondo-claro);
-}
-
-.seccion-apoyo > p {
-    margin-top: 20px;
-    margin-bottom: 30px;
-    color: var(--color-texto-claro);
-}
-.seccion-contenedor-apoyo {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 40px;
-    margin-bottom: 20px;
-    width: 90%;
-}
-
-.icono-apoyo {
-    height: 40px;
 }

@@ -86,6 +86,37 @@
     color: var(--color-texto-claro);
 }
 
+.seccion-sectores-sectores {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    background-color: var(--color-fondo-claro);
+    align-items: center;
+    margin-top: 20px;
+}
+
+.seccion-card-sectores-sectores-error {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    margin-top:30px;
+    margin-bottom: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: pink;
+    width: 100%;
+}
+
+.seccion-card-sectores-sectores {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 23%));
+    justify-content: center;
+    padding-top: 30px;
+    gap: 20px;
+}
+
 @media (max-width: 768px) {
     .seccion-titulo-sector {
         width: 95%;
@@ -115,5 +146,9 @@
 
     .seccion-texto-acceso-sector > p {
         font-size: 1em;
+    }
+
+    .seccion-card-sectores-sectores {
+        grid-template-columns: repeat(auto-fill, minmax(220px, 47%));
     }
 }

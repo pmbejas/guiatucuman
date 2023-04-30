@@ -33,6 +33,38 @@
     justify-content: end;
 }
 
+.barraMovil {
+    display: none;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.barraMovilMenu {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    top: 75px;
+    left: 0px;
+    width: 100vw;
+    height: 100vh;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: var(--color-fondo);
+    opacity: 1;
+    z-index: 3;
+    padding-top: 20px;
+    gap: 20px;
+}
+
+.hamburger {
+    height: 25px;
+}
+
+.menu-x {
+    height: 25px;
+}
+
 .logo {
     height: 40px;
 }
@@ -87,7 +119,6 @@
     position: relative;
     z-index: 3;
     left: -10px;
-
 }
 
 .opciones-submenu {
@@ -102,8 +133,50 @@
     color: var(--color-texto-blanco);
 }
 
+.ocultar {
+    display: none;
+}
+
+
 @media (max-width: 768px) {
     .barra-navegacion {
+        width: 90%;
+        height: 75px;
+        justify-content: space-between;
+    }
+
+    .barra2, .barra3 {
         display: none
     }
+
+    .barraMovil {
+        display: flex;
+    }
+
+    .contenedor-submenu {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        width: 90%;
+    }
+
+    .submenu {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: var(--color-fondo-menu);
+        padding: 15px 10px;
+        margin-top: 20px;
+        gap: 5px;
+        width: 100%;
+        position: relative;
+    }
+
+    .con-submenu {
+        display: flex;
+        flex-direction: column;
+        width: 90%;
+        align-items: center;
+    }
+    
 }

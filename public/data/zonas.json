@@ -1,6 +1,6 @@
 [
     {
-        "id" : "1",
+        "id" : 1,
         "nombre" : "Bandurrias",
         "slug":"bandurrias",
         "subtitulo" : "+75 vías entre 4º y 7b+/c. <br>Placas aplomadas y verticales de regletas y fisuras.",
@@ -9,7 +9,7 @@
         "llegar": "Para acceder a los sectores de escalada del Cerro Bandurrias, cruzar el puente de Juez del Valle y tomar la calle de ripio en dirección al lago que lleva a la planta de tratamiento de efluentes. Continuar rodeando la planta, hasta llegar al sector de estacionamiento justo antes del sendero."
     },
     {
-        "id" : "2",
+        "id" : 2,
         "nombre" : "Covisal",
         "slug":"covisal",
         "subtitulo" : "+65 vías entre 4º y 8c.<br>Desde aplomes fáciles hasta tremendos desplomes. Cuernitos y agujeritos.",
@@ -18,7 +18,7 @@
         "llegar": "Desde el centro, tomar la Ruta 40 en dirección a La Vega y en la rotonda que se encuentra antes de llegar a la policía caminera doblar a la derecha para tomar la subida al barrio Los Radales (también conocido como barrio Covisal). Al llegar al barrio, subir a la calle más alta y seguirla hasta el fondo (donde comienza el camino a Valle Escondido y Miralejos). Donde terminan las casas y comienzan las retamas se encuentra un lugar para estacionar a mano izquierda. Las paredes están detrás del bosque y de las últimas casas. También se puede llegar al barrio por medio del transporte urbano."
     },
     {
-        "id" : "3",
+        "id" : 3,
         "nombre" : "Los Riscos",
         "slug":"los-riscos",
         "subtitulo" : "~20 vías cortas y desplomadas desde 5+ hasta 7c+.",
@@ -27,7 +27,7 @@
         "llegar": "Desde el centro, tomar la Ruta 40 en dirección a La Vega y pasar las tres rotondas y la policía caminera. Pasando La Anónima, doblar la derecha para entrar a la subida de Los Riscos justo después de unas grandes paredes. Es un camino de ripio en el que hay que hacer 4 curvas en subida hasta llegar al estacionamiento al lado de un tanque de agua con capacidad para 2 autos. <strong>Si no hay más lugar estacioná en otro lado</strong>. <br>Desde ahí sale un sendero bordeando la montaña. <br>Caminar aproximadamente 100 metros para llegar a la primer pared aplomada del Mantecol, y unos 20 metros más para llegar a la pared principal. Para llegar al Bonobón continuar la senda pasando este sector. Primero se va pegado a la pared y luego se abre hacia un pedrero con un árbol al borde a la vista. Pasar por debajo de este árbol hasta el siguiente valle y un poco más."
     },
     {
-        "id" : "4",
+        "id" : 4,
         "nombre" : "Potrero Alto",
         "slug":"potrero-alto",
         "subtitulo" : "15 vías desde 5+/6a hasta 7b+.<br>Placas verticales con agujeritos.",
@@ -36,7 +36,7 @@
         "llegar": "Desde el centro tomar la Ruta 40 en dirección a Junín y doblar a la derecha sobre la calle Guillermo Hudson (hay un cartel de madera con el nombre de la calle). Es una calle de ripio justo antes de un semáforo. Continuar por esa calle varias curvas en subida, luego una recta y el camino dobla a la izquierda hacia el loteo Huepil. Estacionar al lado de la marca de Bomberos <b>(Si no hay sitio, tener cuidado de no obstruir la calle al estacionar, o buscar otro lugar para dejar el auto)</b>. El inicio de la senda hacia la pared está marcado con una pirca. Caminar 100 metros hasta llegar a las vías de más a la derecha, luego se puede recorrer toda la pared por el pie de vía."
     },
     {
-        "id" : "5",
+        "id" : 5,
         "nombre" : "Laguna Rosales",
         "slug":"laguna-rosales",
         "subtitulo" : "+15 vías deportivas desde 6a hasta 7a y 4 vías de fisura con seguros móviles. Placas aplomadas y verticales con cuernitos, agujeros y regletas.<br>Vías de fisura de 6a con descuelges con argollas",
@@ -45,7 +45,7 @@
         "llegar": "Para llegar a la laguna desde San Martín, tomar la Ruta 62 rumbo a Lolog y aproximadamente a 8km del pueblo tomar el desvío al barrio Caleuche. A 300mts por la calle principal entrar en el predio de Laguna Rosales pasando una tranquera y un cartel de parques. 200 metros más adelante se encuentra el estacionamiento.<br>Continuar a pie 2.5km por el sendero de huella andina hasta llegar a una playa de pasto. Desde este punto se puede subir por una senda secundaria hasta el gran paredón del Ciprés.<br>Para ir al sector de Fisuras, continuar 1km por la senda principal antes de desviarse hacia la izquierda a una senda secundaria que conduce a la pared."
     },
     {
-        "id" : "6",
+        "id" : 6,
         "nombre" : "Jardín del Colorado",
         "slug":"jardin-del-colorado",
         "subtitulo" : "6 vías cortitas y verticales desde 5º hasta 6a/+.<br>Gran opción para grupos de iniciación.",
@@ -54,7 +54,7 @@
         "llegar": "Desde el centro tomar la Ruta 40 en dirección a Junín y luego de la Cuesta de los Andes tomar la rotonda de la virgen hacia el noroeste. Pasar la rotonda del hospital y en la siguiente rotonda tomar la primera salida en dirección a Hua Hum. Pasar un arco de madera del Parque Nacional Lanín y continuar por la calle de ripio en subida y curvas durante 5km.<br>Estacionar en una bajada suave cerca de un portón azul (a mano izquierda) justo antes de una recta larga. Caminar unos 5 minutos hacia el noreste aproximándose al arroyo hasta llegar a las piedras."
     },
     {
-        "id" : "7",
+        "id" : 7,
         "nombre" : "Pichi Traful",
         "slug":"pichi-traful",
         "subtitulo" : "4 vías de multilargos en increíbles paredones tumbados de 5º hasta 6b; y +20 vías deportivas en desplomes fanáticos desde 7b hasta 8c y proyectos de potencial 9º.",
@@ -63,7 +63,7 @@
         "llegar": "Desde el centro de San Martín de los Andes, tomar la Ruta 40 rumbo a Villa la Angostura por la famosa Ruta de los 7 lagos. Manejar durante 50 minutos hasta que el camino bordea el río Pichi Traful."
     },
     {
-        "id" : "8",
+        "id" : 8,
         "nombre" : "Pilolil",
         "slug":"pilolil",
         "subtitulo" : "20 vías mayormente deportivas y alguna vía mixta de 5+ a 7c+. Paredes verticales con regletas y agujeros, también algunas fisuras.",
