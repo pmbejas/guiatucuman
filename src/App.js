@@ -1,6 +1,6 @@
 import './App.css';
 
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import { Principal } from './paginas/principal';
 import { Guias } from './paginas/guia';
 import { Proyecto } from './paginas/proyecto';
@@ -10,7 +10,6 @@ import { Sector } from './paginas/sector';
 
 function App() {
   return (
-    <Router>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route path="/guia" element={<Guias />} />
@@ -20,7 +19,6 @@ function App() {
           <Route path="/guia/sectores/:slug" element={<Sector />} />
         </Route>
       </Routes>      
-    </Router>
   );
 }
 
