@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/guiatucuman/static/css/main.cbad98f8.css",
-    "main.js": "/guiatucuman/static/js/main.ac2c7c51.js",
+    "main.js": "/guiatucuman/static/js/main.aa49ecdb.js",
     "static/media/proyecto.webp": "/guiatucuman/static/media/proyecto.2ce9f0dfbfbd319d01b1.webp",
     "static/media/al-toque.png": "/guiatucuman/static/media/al-toque.18ddec634ccdf353d802.png",
     "static/media/imagen-sector-al-toque.png": "/guiatucuman/static/media/imagen-sector-al-toque.7c4c9ca533d605273b32.png",
@@ -39,10 +39,10 @@
     "static/media/icono6.png": "/guiatucuman/static/media/icono6.9689424e7d779cb09230.png",
     "index.html": "/guiatucuman/index.html",
     "main.cbad98f8.css.map": "/guiatucuman/static/css/main.cbad98f8.css.map",
-    "main.ac2c7c51.js.map": "/guiatucuman/static/js/main.ac2c7c51.js.map"
+    "main.aa49ecdb.js.map": "/guiatucuman/static/js/main.aa49ecdb.js.map"
   },
   "entrypoints": [
     "static/css/main.cbad98f8.css",
-    "static/js/main.ac2c7c51.js"
+    "static/js/main.aa49ecdb.js"
   ]
 }
