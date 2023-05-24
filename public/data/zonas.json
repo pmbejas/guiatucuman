@@ -1,12 +1,12 @@
 [
     {
         "id" : 1,
-        "nombre" : "Bandurrias",
-        "slug":"bandurrias",
+        "nombre" : "El Rincón",
+        "slug":"el-rincon",
         "subtitulo" : "+75 vías entre 4º y 7b+/c. <br>Placas aplomadas y verticales de regletas y fisuras.",
         "imagen" : "bandurrias",
-        "descripcion": "Paredes de roca granodiorita de muy buena calidad, aplomadas y verticales, de hasta unos 25mts. Predominan las regletas con canto y las fisuras. Con más de 70 vías entre deportivas y clásicas, es el sector más grande de San Martín de los Andes. La mayoría de las paredes están a la sombra, lo que lo hace un gran sector para escalar los días calurosos de verano. Las paredes se encuentran dentro del área del Parque Nacional Lanín y se llega fácilmente caminando desde el centro a todos los sectores.",
-        "llegar": "Para acceder a los sectores de escalada del Cerro Bandurrias, cruzar el puente de Juez del Valle y tomar la calle de ripio en dirección al lago que lleva a la planta de tratamiento de efluentes. Continuar rodeando la planta, hasta llegar al sector de estacionamiento justo antes del sendero."
+        "descripcion": "Se trata de la zona con mayor cantidad y mas visitado, debido a la amplia oferta de grados y su cercania con la ruta 325. Sirvió como escenario de un curso de equipadores gestionado por la <strong>AAM</strong> en el año 2016, donde se equiparon gran parte de los sectores. Las vías mas antiguas son las del sector <i>La calavera y alrededores</i>. Cuenta en su gran mayoria con vías de poca altura, pero desplomadas. La roca predominante es el <strong>gneiss metamorfico</strong>. Se encuentra en los faldeos del Cerro Muñoz.",
+        "llegar": "Para acceder a esta zona de escalada, desde El Mollar, se avanza hacia el poblado de El Rincón, siguiendo la ruta 325, la cual rodea al Cerro Pelao y atraviesa el valle de Las Carreras hasta llegar a Tafi del Valle. Siguiendo este camino turístico, justo despues de cruzar el rio El Mollar, se debe dejar el vehiculo. Desde aqui se asciende caminando hacia los sectores. Si se continua 600mt por la ruta, como yendo hacia el mirador del condor, se encuentra el sector La Escuelita"
     },
     {
         "id" : 2,

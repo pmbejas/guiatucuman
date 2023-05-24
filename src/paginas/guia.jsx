@@ -40,10 +40,10 @@ export const Guias = () => {
             <div className="seccion-titulo-guias">
                 <h1>Guia Online</h1>
                 <p>
-                    En <strong>Tafi del Valle</strong> hay más de 200 vías de escalada deportiva distribuidas en 8 zonas principales, de las cuales 3 se encuentran dentro del Parque Nacional Lanín. Contamos con variedad de grados y estilos de escalada debido a los diferentes tipos de roca.
+                    En <strong>Tafi del Valle</strong> hay casi 150 vías de escalada distribuidas en 7 sectores, entre los que se destacan particularmente 2 de ellos, El Rincon y Los Corpitos, debido a que son los que aglomeran la mayor cantidad de vias. El resto de los sectores se encuentran distribuidos a lo largo del valle y en la zona del Abra del Infiernillo.
                 </p>
                 <p>
-                    También se puede escalar en los muros del Club Lacar y Club Embajador de los Andes.
+                    Toda la escalada es practicada por arriba de los 2000 mts de altitud, pudiendo llegar a los 2900 en el Infiernillo e incluso superar ampliamente los 3000 mt en la Quebrada del Baron. La mayoria de éstos se encuentran en los faldeos del Cerro Muñoz
                 </p>
             </div>
             <div className="seccion-sugerencias-guias">
