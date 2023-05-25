@@ -117,7 +117,7 @@
 }
 
 .seccion-card-sectores-sectores {
-    width: 100%;
+    width: 90%;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(150px, 23%));
     justify-content: center;
@@ -157,6 +157,6 @@
     }
 
     .seccion-card-sectores-sectores {
-        grid-template-columns: repeat(auto-fill, minmax(220px, 47%));
+        grid-template-columns: repeat(auto-fill, minmax(95%, 95%));
     }
 }

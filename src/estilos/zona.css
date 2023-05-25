@@ -134,8 +134,8 @@
     }
     
     .seccion-card-sectores-zonas {
-        width: 100%;
-        grid-template-columns: repeat(auto-fill, minmax(220px, 47%));
+        width: 95%;
+        grid-template-columns: repeat(auto-fill, minmax(95%, 95%));
         gap: 10px;
     }
 

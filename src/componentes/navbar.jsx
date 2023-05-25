@@ -22,7 +22,7 @@ export const NavBar = () => {
         setZonas([]);
         const fetchZonas = async () => {
             setIsLoading(true)
-            await fetch('/data/zonas.json')
+            await fetch('data/zonas.json')
                 .then(response => response.json())
                 .then(data => {
                     setZonas(data);

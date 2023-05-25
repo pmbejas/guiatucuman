@@ -20,8 +20,11 @@ export const Guias = (props) => {
                 <h1>Aclaraciones y sugerencias</h1>
                 <div className="seccion-alerta-guias">
                     <div className="seccion-alerta-contenido-guias">
-                        <h1>⚠️</h1>
-                        <p><span>La escalada es un deporte de riesgo</span>. Se necesitan los conocimientos, material, entrenamiento y experiencia suficientes para ser autónomos y críticos acerca de qué vía escalar o cuál no. Se recomienda a los principiantes realizar la actividad con una persona experimentada y debidamente calificada. </p>
+                        <div className="seccion-alerta-contenido-guias-titulo">
+                            <h1>⚠️</h1>
+                            <p><span>La escalada es un deporte de riesgo</span>.</p>
+                        </div>
+                        <p>Se necesitan los conocimientos, material, entrenamiento y experiencia suficientes para ser autónomos y críticos acerca de qué vía escalar o cuál no. Se recomienda a los principiantes realizar la actividad con una persona experimentada y debidamente calificada. </p>
                         <div className="link-alerta-guias">
                             <Link to="/guias-titulados" style={{ textDecoration: 'none' }}>
                                 Ver Guías Titulados

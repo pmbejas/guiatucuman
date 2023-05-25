@@ -58,7 +58,9 @@ export const Zona = (props) => {
                         <h2>Como Llegar</h2>
                         {error === "" &&  <p>{parse(zonas.llegar)}</p>}
                         <div className="boton-maps">
-                            <Boton texto="Abrir en Google Maps" />
+                            <a href={zonas.googleMaps} target="_blank" rel="noreferrer noopener">
+                                <Boton texto="Abrir en Google Maps" />
+                            </a>
                         </div>
                     </div>
                 </div>
