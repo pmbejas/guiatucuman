@@ -17,7 +17,7 @@ function App() {
   const [isLoading, setIsLoading] = useState(false);
 
   const getZonas = async ()=>{
-    await fetch('./data/zonas.json')
+    await fetch('guiatucuman/data/zonas.json')
       .then( response => response.json())
       .then(datos => {
               setZonas(datos)
@@ -28,7 +28,7 @@ function App() {
   }
   
   const getSectores = async () => {
-    await fetch('./data/sectores.json')
+    await fetch('guiatucuman/data/sectores.json')
       .then(response => response.json())
       .then(datos => {
               setSectores(datos);
