@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/guiatucuman/static/css/main.11b1f887.css",
-    "main.js": "/guiatucuman/static/js/main.0d0a8f31.js",
+    "main.js": "/guiatucuman/static/js/main.789e0ed4.js",
     "static/media/imagen-sector-cuevita-abajo.png": "/guiatucuman/static/media/imagen-sector-cuevita-abajo.e3999bc624c27267d850.png",
     "static/media/imagen-sector-mogote-frente.png": "/guiatucuman/static/media/imagen-sector-mogote-frente.b058a92f434c3aa72d4b.png",
     "static/media/imagen-sector-mogote-izquierda.png": "/guiatucuman/static/media/imagen-sector-mogote-izquierda.ddca0e0abd43681601b1.png",
@@ -29,10 +29,10 @@
     "static/media/icono6.png": "/guiatucuman/static/media/icono6.9689424e7d779cb09230.png",
     "index.html": "/guiatucuman/index.html",
     "main.11b1f887.css.map": "/guiatucuman/static/css/main.11b1f887.css.map",
-    "main.0d0a8f31.js.map": "/guiatucuman/static/js/main.0d0a8f31.js.map"
+    "main.789e0ed4.js.map": "/guiatucuman/static/js/main.789e0ed4.js.map"
   },
   "entrypoints": [
     "static/css/main.11b1f887.css",
-    "static/js/main.0d0a8f31.js"
+    "static/js/main.789e0ed4.js"
   ]
 }
