@@ -38,9 +38,17 @@
     gap: 30px;
 }
 
-.seccion-vias-sector > img {
-    width: 70%;
+.seccion-imagenes-vias-sector > img {
+    width: 90%;
+}
 
+.seccion-imagenes-vias-sector {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(10%, 50%));
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
 }
 
 .seccion-listado-vias-sector {

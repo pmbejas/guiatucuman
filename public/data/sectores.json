@@ -8,7 +8,11 @@
         "slug":"pasillo",
         "subtitulo" : "2 vías 6a",
         "imagen" : "pasillo",
-        "imagenSector": "pasillo",
+        "imagenSector": 
+            [ {
+                "nombreImagen": "pasillo"
+                }
+        ],
         "imagen3": "",
         "imagenLlegar": "corrales-del-infiernillo",
         "imagenMapa": "",
@@ -39,18 +43,42 @@
         "idZona": 1,
         "nombreZona": "Corrales Del infiernillo",
         "slugZona": "corrales-del-infiernillo",
-        "nombre" : "Mogote Izquierda",
-        "slug":"mogote-izquierda",
-        "subtitulo" : "1 vía 6b+",
-        "imagen" : "mogote-izquierda",
-        "imagenSector": "mogote-izquierda",
+        "nombre" : "Mogote",
+        "slug":"mogote",
+        "subtitulo" : "3 vías entre 6a+ y 6c",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "mogote-frente"
+            },
+            {
+                "nombreImagen": "mogote-izquierda"
+            }
+        ],
         "imagen3": "",
         "imagenLlegar": "corrales-del-infiernillo",
         "imagenMapa": "",
-        "descripcion": "1 vias 6b+ | 16mts",
+        "descripcion": "3 vías entre 6a+ y 6c | 16mts",
         "llegar": "Desde el infiernillo y siguiendo aprox 5 km la ruta 307 hacia Amaicha del valle, se continua gasta el punto. desde aqui la caminata nos lleva a descender hacia el rio de amaicha y remontarlo a este unos 100 mts . doblar a la derecha por la quebrada secundaria que aparece. alli se encuentran las vias.",
         "vias": 
         [
+            {
+                "nombre": "Los ñoquis del Conicet",
+                "subtitulo": "Roberto Sanchez",
+                "largo": "16m",
+                "categoria1": "9+2",
+                "categoria2": "6c",
+                "observaciones":""
+            },
+            {
+                "nombre": "Tranca Palanca",
+                "subtitulo": "Roberto Sanchez",
+                "largo": "16m",
+                "categoria1": "7+2",
+                "categoria2": "6a+",
+                "observaciones":""
+            },
             {
                 "nombre": "Keterolac para mi muela",
                 "subtitulo": "Roberto Sanchez",
@@ -66,32 +94,48 @@
         "idZona": 1,
         "nombreZona": "Corrales Del infiernillo",
         "slugZona": "corrales-del-infiernillo",
-        "nombre" : "Mogote Frente",
-        "slug":"mogote-frente",
-        "subtitulo" : "2 vias 6a+ y 6c",
-        "imagen" : "mogote-frente",
-        "imagenSector": "mogote-frente",
+        "nombre" : "Cuevita",
+        "slug":"cuevita",
+        "subtitulo" : "3 vías entre 5+ y 7a+",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
         "imagen3": "",
         "imagenLlegar": "corrales-del-infiernillo",
         "imagenMapa": "",
-        "descripcion": "2 vias 6a+ y 6c | 16mts",
+        "descripcion": "3 vías entre 5+ y 7a+ | mts",
         "llegar": "Desde el infiernillo y siguiendo aprox 5 km la ruta 307 hacia Amaicha del valle, se continua gasta el punto. desde aqui la caminata nos lleva a descender hacia el rio de amaicha y remontarlo a este unos 100 mts . doblar a la derecha por la quebrada secundaria que aparece. alli se encuentran las vias.",
         "vias": 
         [
             {
-                "nombre": "Tranca Palanca",
+                "nombre": "Todas tiran",
                 "subtitulo": "Roberto Sanchez",
-                "largo": "16m",
-                "categoria1": "7+2",
-                "categoria2": "6a+",
+                "largo": "m",
+                "categoria1": "",
+                "categoria2": "7a+",
                 "observaciones":""
             },
             {
-                "nombre": "Los ñoquis del Conicet",
+                "nombre": "Pinche pincho compinche",
                 "subtitulo": "Roberto Sanchez",
-                "largo": "16m",
-                "categoria1": "9+2",
-                "categoria2": "6c",
+                "largo": "m",
+                "categoria1": "5+2",
+                "categoria2": "6a",
+                "observaciones":""
+            },
+            {
+                "nombre": "No Somos Nada",
+                "subtitulo": "Roberto Sanchez, Alexis Coronel",
+                "largo": "m",
+                "categoria1": "3+2",
+                "categoria2": "5+",
                 "observaciones":""
             }
         ]

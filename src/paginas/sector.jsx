@@ -40,7 +40,11 @@ export const Sector = (props) => {
             </div>
             <div className="contenedor-contenido-zonas">
                 <div className="seccion-vias-sector">
-                    {error === "" && <img src={require(`../img/zonas/imagen-sector-${sector.imagenSector}.png`)} alt="" /> }
+                    <div className="seccion-imagenes-vias-sector">
+                        { sector.imagenSector && sector.imagenSector.length>0 && sector.imagenSector.map((item, index)=> (
+                            <img src={require(`../img/zonas/imagen-sector-${item.nombreImagen}.png`)} alt="" />) 
+                        )}
+                    </div>
                     <div className="seccion-listado-vias-sector">
                         { sector.vias && sector.vias.length>0 && sector.vias.map((item, index)=><CardVia
                             numero={index}
