@@ -3,7 +3,6 @@ import { Boton } from './boton.jsx'
 import { Link } from "react-router-dom";
 import '../estilos/navbar.css'
 
-
 export const NavBar = () => {
     const [isLoading, setIsLoading] = useState(null);
     const [error, setError] = useState(null);

@@ -5,55 +5,28 @@ import { CardVia } from '../componentes/card-via';
 import { CardZona } from '../componentes/card-zona';
 import  parse from "html-react-parser";
 
-export const Sector = () => {
+export const Sector = (props) => {
     const { slug } = useParams();
     const [error, setError] = useState(null);
-    const [isLoading, setIsLoading] = useState(false);
     const [sector, setSector] = useState([]);
     const [otrosSectores, setOtrosSectores] = useState([]);
 
     useEffect(()=>{
-        const getData = async () => {
-            setIsLoading(true);
-            await fetch('/data/sectores.json')
-                .then (response => response.json())
-                .then (data => {
-                    let sector = data.find(sector => sector.slug === slug);                    
-                    if (sector) {
-                        setSector(sector);
-                        console.log(sector.slugZona);
-                        let otrosSectores = data.filter(sectores => sectores.idZona === sector.idZona && sectores.id !== sector.id)
-                        setOtrosSectores(otrosSectores);
-                        setError("");
-                    } else {
-                        setError("Sector No encontrado");
-                    }
-                }).catch(err => {
-                    console.log(err);
-                    setError("Error al Leer el archivo JSON");
-                })
-                setIsLoading(false);
+        const getSector = () => {
+            let sector = props.sectores.find(sector => sector.slug === slug);                    
+            if (sector) {
+                setSector(sector);
+                console.log(sector.slugZona);
+                let otrosSectores = props.sectores.filter(sectores => sectores.idZona === sector.idZona && sectores.id !== sector.id)
+                setOtrosSectores(otrosSectores);
+                setError("");
+            } else {
+                setError("Sector No encontrado");
+            }
         }
 
-        getData();
-    }, [slug]);
-
-    if (error) {
-        return (
-            <div>
-                Error: {error}
-            </div>
-        )
-    }
-    
-    if (isLoading) {
-        return (
-            <div>
-                Cargando...
-            </div>
-    
-        )
-    }
+        getSector();
+    }, [slug,props]);
 
     return (
         <div className="contenedor">

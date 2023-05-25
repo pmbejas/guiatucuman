@@ -8,13 +8,12 @@ import { CardZona } from "../componentes/card-zona";
 
 import '../estilos/zona.css';
 
-export const Zona = () => {
-    const [isLoading, setIsLoading] = useState(false)
+export const Zona = (props) => {
     const {slug} = useParams();
-    const [zonas, setData] = useState({});
-    const [error, setError] = useState(null);
+    const [zonas, setZonas] = useState({});
     const [sectores, setSectores] = useState([]);
-    const [errorSectores, setErrorSectores] = useState(null);
+    const [error, setError]=useState(null);
+    const [errorSectores, setErrorSectores]=useState(null);
     
     window.scrollTo({
         top: 0,
@@ -22,66 +21,29 @@ export const Zona = () => {
       });
     
     useEffect(()=>{
-        setErrorSectores("");
         setSectores([]);
         const fetchSectores = async (id) => {
-            setIsLoading(true)
-            await fetch('../data/sectores.json')
-                .then(response => response.json())
-                .then(data => {
-                    let sectores = data.filter(sector => sector.idZona === id);
-                    if (sectores && sectores.length>0) {
-                        setSectores(sectores);
-                    } else {
-                        setErrorSectores("No se encontraron sectores en esta zona");
-                    }
-                })
-                .catch (err => {
-                    setErrorSectores("Error en la lectura del Archivo");
-                });
-            setIsLoading(false)
+            let sectores = props.sectores.filter(sector => sector.idZona === id);
+            if (sectores && sectores.length>0) {
+                setSectores(sectores);
+            } else {
+                setErrorSectores("No se encontraron sectores en esta zona");
+            }
         }
 
-        const fetchData = async () => {
-            setIsLoading(true)
-                await fetch('../data/zonas.json')
-                .then( response => response.json())
-                .then(data => {
-                    let zona = data.find(zona => zona.slug === slug);
-                    if (zona) {
-                        setData(zona);
-                        fetchSectores(zona.id);
-                        setError("")
-                    } else {
-                        setError("Zona no encontrada")
-                    }
-                }).catch (err => {
-                    setError(err)
-                });
-            setIsLoading(false)
+        const fetchZona = async () => {
+            let zona = props.zonas.find(zona => zona.slug === slug);
+            if (zona) {
+                setZonas(zona);
+                fetchSectores(zona.id);
+                setError("")
+            } else {
+                setError("Zona no encontrada")
+            }
         }
 
-        fetchData();
-    }, [slug]);
-
-    if (isLoading) {
-        return (
-            <div className="seccion-titulo-zonas">
-                <h1>CARGANDO DATOS</h1>
-            </div>
-        )
-    }
-    
-    if (error) {
-        return (
-            <div className="contenedor">
-                <div className="seccion-titulo-zonas error">
-                    <h1>ERROR</h1>
-                    <h1>{error}</h1>
-                </div>
-            </div>
-        )
-    }
+        fetchZona();
+    }, [slug, props]);
 
     return (
         <div className="contenedor">
