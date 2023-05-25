@@ -1,11 +1,11 @@
 [
     {
         "id" : 1,
-        "nombre" : "El Rincón",
-        "slug":"el-rincon",
-        "subtitulo" : "+75 vías entre 4º y 7b+/c. <br>Placas aplomadas y verticales de regletas y fisuras.",
-        "imagen" : "bandurrias",
-        "descripcion": "Se trata de la zona con mayor cantidad y mas visitado, debido a la amplia oferta de grados y su cercania con la ruta 325. Sirvió como escenario de un curso de equipadores gestionado por la <strong>AAM</strong> en el año 2016, donde se equiparon gran parte de los sectores. Las vías mas antiguas son las del sector <i>La calavera y alrededores</i>. Cuenta en su gran mayoria con vías de poca altura, pero desplomadas. La roca predominante es el <strong>gneiss metamorfico</strong>. Se encuentra en los faldeos del Cerro Muñoz.",
-        "llegar": "Para acceder a esta zona de escalada, desde El Mollar, se avanza hacia el poblado de El Rincón, siguiendo la ruta 325, la cual rodea al Cerro Pelao y atraviesa el valle de Las Carreras hasta llegar a Tafi del Valle. Siguiendo este camino turístico, justo despues de cruzar el rio El Mollar, se debe dejar el vehiculo. Desde aqui se asciende caminando hacia los sectores. Si se continua 600mt por la ruta, como yendo hacia el mirador del condor, se encuentra el sector La Escuelita"
+        "nombre" : "Corrales del Infiernillo",
+        "slug":"corrales-del-infiernillo",
+        "subtitulo" : "",
+        "imagen" : "corrales-del-infiernillo",
+        "descripcion": "Esta zona se encuentra muy cerca de la ruta 307, debiendo caminar unos minutos y cruzar el río para llegar a el. <br>Posee 3 sectores, todos cercanos. Se encuentra casi a los 3000 mt. La roca predominante es el granito.",
+        "llegar": "Para llegar a esta zona, desde el infiernillo y siguiendo aprox 5 km la ruta 307 hacia Amaicha del Valle, se continua gasta el punto. Desde aqui la caminata nos lleva a descender hacia el río de Amaicha y remontarlo a este unos 100 mts., doblar a la derecha por la quebrada secundaria que aparece. Alli se encuentran las vias."
     }
 ]

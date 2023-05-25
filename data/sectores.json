@@ -1,134 +1,99 @@
 [
     {
-        "id" :1,
+        "id" : 1,
         "idZona": 1,
-        "nombreZona": "El Rincón",
-        "slugZona": "el-rincon",
-        "nombre" : "Nido de águila",
-        "slug":"nido-de-aguila",
-        "subtitulo" : "6 vías entre 5+ y 7b+",
-        "imagen" : "bandurrias",
-        "imagenSector": "rincon",
+        "nombreZona": "Corrales Del infiernillo",
+        "slugZona": "corrales-del-infiernillo",
+        "nombre" : "Pasillo",
+        "slug":"pasillo",
+        "subtitulo" : "2 vías 6a",
+        "imagen" : "pasillo",
+        "imagenSector": "pasillo",
         "imagen3": "",
-        "imagenLlegar": "el-rincon",
+        "imagenLlegar": "corrales-del-infiernillo",
         "imagenMapa": "",
-        "descripcion": "6 vías entre 5+ y 7b+ | xx a xxmts | x a x cintas",
-        "llegar": "XXX",
-        "vias": [
-                {
-                    "nombre": "Vachota",
-                    "subtitulo": "",
-                    "largo": "xxm",
-                    "categoria1": "xx",
-                    "categoria2": "4+",
-                    "observaciones":"Multilargo"
-                },
-                {
-                    "nombre": "Mano, Mano, Cabeza Afuera",
-                    "subtitulo": "",
-                    "largo": "XXm",
-                    "categoria1": "xx",
-                    "categoria2": "7b+",
-                    "observaciones":"Multilargo"
-                },
-                {
-                    "nombre": "Bachata",
-                    "subtitulo": "",
-                    "largo": "XXm",
-                    "categoria1": "xx",
-                    "categoria2": "5+",
-                    "observaciones":""
-                },
-                {
-                    "nombre": "Travesia Para llegar a Pie de Vía",
-                    "subtitulo": "",
-                    "largo": "XXm",
-                    "categoria1": "5?",
-                    "categoria2": "4-5?",
-                    "observaciones":"Este se usa para llegar a un pie de via para hacer la Cascadisimo Forever y Gacela del hielo. En este pie de vía se debe estar asegurado todo el tiempo"
-                },
-                {
-                    "nombre": "Cascadismo Forever",
-                    "subtitulo": "",
-                    "largo": "XXm",
-                    "categoria1": "9?",
-                    "categoria2": "6a",
-                    "observaciones":"En el pie de vía se debe estar asegurado todo el tiempo"
-                },
-                {
-                    "nombre": "La Gacela del Hielo",
-                    "subtitulo": "",
-                    "largo": "XXm",
-                    "categoria1": "11?",
-                    "categoria2": "6b+",
-                    "observaciones":"En el pie de vía se debe estar asegurado todo el tiempo"
-                }
+        "descripcion": "2 vias 6a | xx a 25mts",
+        "llegar": "Desde el infiernillo y siguiendo aprox 5 km la ruta 307 hacia Amaicha del valle, se continua gasta el punto. desde aqui la caminata nos lleva a descender hacia el rio de amaicha y remontarlo a este unos 100 mts . doblar a la derecha por la quebrada secundaria que aparece. alli se encuentran las vias.",
+        "vias": 
+        [
+            {
+                "nombre": "Chimuelo Calchaqui",
+                "subtitulo": "Roberto Sanchez, Patricio Rodriguez",
+                "largo": "XXm",
+                "categoria1": "3+2",
+                "categoria2": "6a",
+                "observaciones":""
+            },
+            {
+                "nombre": "Dejalo pastar que engorde",
+                "subtitulo": "Oscar Zavala, Alexis Coronel",
+                "largo": "XXm",
+                "categoria1": "4+2",
+                "categoria2": "6a",
+                "observaciones":""
+            }
         ]
     },
     {
-        "id" : 1,
+        "id" : 2,
         "idZona": 1,
-        "nombreZona": "El Rincón",
-        "slugZona": "el-rincon",
-        "nombre" : "Placas Naranjas",
-        "slug":"placas-naranjas",
-        "subtitulo" : "4 vías entre 6a+ y 6c",
-        "imagen" : "bandurrias",
-        "imagenSector": "rincon",
+        "nombreZona": "Corrales Del infiernillo",
+        "slugZona": "corrales-del-infiernillo",
+        "nombre" : "Mogote Izquierda",
+        "slug":"mogote-izquierda",
+        "subtitulo" : "1 vía 6b+",
+        "imagen" : "mogote-izquierda",
+        "imagenSector": "mogote-izquierda",
         "imagen3": "",
-        "imagenLlegar": "el-rincon",
+        "imagenLlegar": "corrales-del-infiernillo",
         "imagenMapa": "",
-        "descripcion": "4 vías entre 6a+ y 6c | xx a 25mts | x a x cintas",
-        "llegar": "XXX",
-        "vias": [
-                {
-                    "nombre": "Senpai",
-                    "subtitulo": "Matías Rohmer - Luis González",
-                    "largo": "25m",
-                    "categoria1": "xx",
-                    "categoria2": "6a+",
-                    "observaciones":"Multilargo"
-                },
-                {
-                    "nombre": "Mano, Mano, Cabeza Afuera",
-                    "subtitulo": "",
-                    "largo": "XXm",
-                    "categoria1": "xx",
-                    "categoria2": "7b+",
-                    "observaciones":"Multilargo"
-                },
-                {
-                    "nombre": "Bachata",
-                    "subtitulo": "",
-                    "largo": "XXm",
-                    "categoria1": "xx",
-                    "categoria2": "5+",
-                    "observaciones":""
-                },
-                {
-                    "nombre": "Travesia Para llegar a Pie de Vía",
-                    "subtitulo": "",
-                    "largo": "XXm",
-                    "categoria1": "5?",
-                    "categoria2": "4-5?",
-                    "observaciones":"Este se usa para llegar a un pie de via para hacer la Cascadisimo Forever y Gacela del hielo. En este pie de vía se debe estar asegurado todo el tiempo"
-                },
-                {
-                    "nombre": "Cascadismo Forever",
-                    "subtitulo": "",
-                    "largo": "XXm",
-                    "categoria1": "9?",
-                    "categoria2": "6a",
-                    "observaciones":"En el pie de vía se debe estar asegurado todo el tiempo"
-                },
-                {
-                    "nombre": "La Gacela del Hielo",
-                    "subtitulo": "",
-                    "largo": "XXm",
-                    "categoria1": "11?",
-                    "categoria2": "6b+",
-                    "observaciones":"En el pie de vía se debe estar asegurado todo el tiempo"
-                }
+        "descripcion": "1 vias 6b+ | 16mts",
+        "llegar": "Desde el infiernillo y siguiendo aprox 5 km la ruta 307 hacia Amaicha del valle, se continua gasta el punto. desde aqui la caminata nos lleva a descender hacia el rio de amaicha y remontarlo a este unos 100 mts . doblar a la derecha por la quebrada secundaria que aparece. alli se encuentran las vias.",
+        "vias": 
+        [
+            {
+                "nombre": "Keterolac para mi muela",
+                "subtitulo": "Roberto Sanchez",
+                "largo": "16m",
+                "categoria1": "6+2",
+                "categoria2": "6b+",
+                "observaciones":""
+            }
+        ]
+    },
+    {
+        "id" : 3,
+        "idZona": 1,
+        "nombreZona": "Corrales Del infiernillo",
+        "slugZona": "corrales-del-infiernillo",
+        "nombre" : "Mogote Frente",
+        "slug":"mogote-frente",
+        "subtitulo" : "2 vias 6a+ y 6c",
+        "imagen" : "mogote-frente",
+        "imagenSector": "mogote-frente",
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "2 vias 6a+ y 6c | 16mts",
+        "llegar": "Desde el infiernillo y siguiendo aprox 5 km la ruta 307 hacia Amaicha del valle, se continua gasta el punto. desde aqui la caminata nos lleva a descender hacia el rio de amaicha y remontarlo a este unos 100 mts . doblar a la derecha por la quebrada secundaria que aparece. alli se encuentran las vias.",
+        "vias": 
+        [
+            {
+                "nombre": "Tranca Palanca",
+                "subtitulo": "Roberto Sanchez",
+                "largo": "16m",
+                "categoria1": "7+2",
+                "categoria2": "6a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Los ñoquis del Conicet",
+                "subtitulo": "Roberto Sanchez",
+                "largo": "16m",
+                "categoria1": "9+2",
+                "categoria2": "6c",
+                "observaciones":""
+            }
         ]
     }
 ]
