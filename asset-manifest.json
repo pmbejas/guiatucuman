@@ -1,38 +1,32 @@
 {
   "files": {
-    "main.css": "/guiatucuman/static/css/main.1f57b557.css",
-    "main.js": "/guiatucuman/static/js/main.11dbfd92.js",
+    "main.css": "/guiatucuman/static/css/main.e5179ab4.css",
+    "main.js": "/guiatucuman/static/js/main.c4794e2d.js",
+    "static/media/mogote.png": "/guiatucuman/static/media/mogote.d82411cab4c2a7421fe6.png",
     "static/media/imagen-sector-cuevita-abajo.png": "/guiatucuman/static/media/imagen-sector-cuevita-abajo.e3999bc624c27267d850.png",
     "static/media/imagen-sector-mogote-frente.png": "/guiatucuman/static/media/imagen-sector-mogote-frente.b058a92f434c3aa72d4b.png",
     "static/media/imagen-sector-mogote-izquierda.png": "/guiatucuman/static/media/imagen-sector-mogote-izquierda.ddca0e0abd43681601b1.png",
     "static/media/imagen-sector-cuevita-arriba.png": "/guiatucuman/static/media/imagen-sector-cuevita-arriba.5185e050bece1345911f.png",
-    "static/media/proyecto.webp": "/guiatucuman/static/media/proyecto.2ce9f0dfbfbd319d01b1.webp",
     "static/media/imagen-sector-pasillo.png": "/guiatucuman/static/media/imagen-sector-pasillo.4d771d733e5dfb5a489f.png",
-    "static/media/imagen-nota-1.png": "/guiatucuman/static/media/imagen-nota-1.fc02e1860ef594c980d2.png",
     "static/media/corrales-del-infiernillo.png": "/guiatucuman/static/media/corrales-del-infiernillo.87aa528bf686d9b2e305.png",
     "static/media/cuevita.png": "/guiatucuman/static/media/cuevita.87aa528bf686d9b2e305.png",
     "static/media/mapa-corrales-del-infiernillo.png": "/guiatucuman/static/media/mapa-corrales-del-infiernillo.87aa528bf686d9b2e305.png",
-    "static/media/mogote.png": "/guiatucuman/static/media/mogote.87aa528bf686d9b2e305.png",
+    "static/media/mogote - copia.png": "/guiatucuman/static/media/mogote - copia.87aa528bf686d9b2e305.png",
     "static/media/pasillo.png": "/guiatucuman/static/media/pasillo.87aa528bf686d9b2e305.png",
+    "static/media/nosotros.jpg": "/guiatucuman/static/media/nosotros.ce9e8d154a06c7229794.jpg",
     "static/media/mapa-zonas.png": "/guiatucuman/static/media/mapa-zonas.55a961aee3f5e8a992e6.png",
-    "static/media/img-phone-escalada.png": "/guiatucuman/static/media/img-phone-escalada.4ababc402ad5063b2d01.png",
-    "static/media/aclaracion-img2.png": "/guiatucuman/static/media/aclaracion-img2.9b01c35334ccc02d3a3b.png",
-    "static/media/aclaracion-img3.png": "/guiatucuman/static/media/aclaracion-img3.37c969528893489216ee.png",
-    "static/media/aclaracion-img1.png": "/guiatucuman/static/media/aclaracion-img1.5bb50f16b73ff0ef0069.png",
     "static/media/instagram.png": "/guiatucuman/static/media/instagram.23932ef58e5829b2aac4.png",
-    "static/media/svg3_ImgID1.png": "/guiatucuman/static/media/svg3_ImgID1.de13e410e665338af0ef.png",
     "static/media/menu-x.png": "/guiatucuman/static/media/menu-x.e622371ced84e3aaf169.png",
     "static/media/logo.png": "/guiatucuman/static/media/logo.60bcff7faa667c3dc345.png",
     "static/media/hamburger.png": "/guiatucuman/static/media/hamburger.8289271c20061931812c.png",
     "static/media/youtube.png": "/guiatucuman/static/media/youtube.7145b3ee9706a0d6ebc7.png",
-    "static/media/icono1.png": "/guiatucuman/static/media/icono1.9d0ec9747c641c997e12.png",
-    "static/media/icono6.png": "/guiatucuman/static/media/icono6.9689424e7d779cb09230.png",
+    "static/media/warning-sign.png": "/guiatucuman/static/media/warning-sign.11cd04b72c1aa270ffeb.png",
     "index.html": "/guiatucuman/index.html",
-    "main.1f57b557.css.map": "/guiatucuman/static/css/main.1f57b557.css.map",
-    "main.11dbfd92.js.map": "/guiatucuman/static/js/main.11dbfd92.js.map"
+    "main.e5179ab4.css.map": "/guiatucuman/static/css/main.e5179ab4.css.map",
+    "main.c4794e2d.js.map": "/guiatucuman/static/js/main.c4794e2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f57b557.css",
-    "static/js/main.11dbfd92.js"
+    "static/css/main.e5179ab4.css",
+    "static/js/main.c4794e2d.js"
   ]
 }
