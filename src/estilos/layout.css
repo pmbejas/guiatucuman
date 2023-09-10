@@ -2,12 +2,14 @@
 
 :root {
     --color-fondo-footer: rgb(7,55,99);
-    --color-fondo-menu: rgb(0, 0, 0);
-    --color-fondo: rgb(34, 34, 34);
+    --color-fondo-menu: rgb(7,55,99);
+    --color-fondo-submenu: rgba(1, 26, 49, .400);
+    --color-fondo: rgb(7,55,99);
     --color-fondo-claro: rgb(245, 245, 245);
     --color-fondo-blanco: rgb(255, 255, 255);
     --color-texto-blanco: rgb(255,255,255);
-    --color-texto-claro: rgb(92, 92, 92);
+    --color-texto-claro: rgb(236, 236, 236);
+    --color-texto-oscuro: rgb(64, 64, 64);
     --color-texto-claro-titulo: rgb(176, 176, 176);
     --ancho-interno: 90%;
 }

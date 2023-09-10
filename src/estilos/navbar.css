@@ -1,8 +1,3 @@
-:root {
-    --color-fondo-menu: rgb(0, 0, 0);
-    --color-fondo: rgb(34, 34, 34);
-}
-
 .barra-navegacion {
     display: flex;
     flex-direction: row;
@@ -70,14 +65,14 @@
 }
 
 .texto-menu {
-    font-size: .9em;
+    font-size: 1.1em;
     color: rgb(255, 255, 255);
     opacity: .8;
     transition: opacity .2s ease-in-out;
 }
 
 .texto-menu-small {
-    font-size: .6em;
+    font-size: .8em;
     color: rgb(255, 255, 255);
     margin-left: 5px;
 }
@@ -111,7 +106,8 @@
 .submenu {
     display: flex;
     flex-direction: column;
-    background-color: var(--color-fondo-menu);
+    background-color: var(--color-fondo-submenu);
+    border-radius: 5px;
     padding: 15px 10px;
     margin-top: 20px;
     padding-right: 40px;
@@ -122,15 +118,15 @@
 }
 
 .opciones-submenu {
-    color: var(--color-texto-claro);
+    color: var(--color-texto-blanco);
     cursor: pointer;
     margin: 3px 0px;
-    font-size: .9em;
+    font-size: 1.1em;
     font-weight: 600;
 }
 
 .opciones-submenu:hover {
-    color: var(--color-texto-blanco);
+    color: var(--color-texto-oscuro);
 }
 
 .ocultar {

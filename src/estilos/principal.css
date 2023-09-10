@@ -3,7 +3,7 @@
     flex-direction: row;
     width: 90vw;
     background-color: var(--color-fondo);
-    margin-top: 25px;
+/*     margin-top: 25px; */
     padding: 30px 0px;
 }
 
@@ -33,7 +33,7 @@
 .seccion-medio {
     display: flex;
     flex-direction: column;
-    background-color: #f5f5f5;
+    background-color: white;
     width: 100%;
 }
 
@@ -59,6 +59,118 @@
     width: 95%;
     justify-content: space-around;
     align-items: center;
+}
+
+.seccion-alerta-card-informacion {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    width: 85%;
+    justify-content: space-around;
+    margin: 0px 0px;
+    flex-wrap: wrap;
+    border: solid 1px rgba(0,0,0, .500);
+    border-radius: 5px;
+}
+
+.contenedor-alerta-card-informacion {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    width: 32%;
+    padding-top: 30px;
+}
+
+.contenedor-alerta-card-informacion > img {
+    width: 50px;
+    height: 50px;
+}
+
+.contenedor-alerta-card-informacion > p {
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: var(--color-texto-oscuro);
+    margin: 20px 0px;
+}
+
+.seccion-sugerencias-guias {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    background-color: white;
+    padding-top: 40px;
+    align-items: center;
+}
+
+.seccion-sugerencias-guias > h1 {
+    font-size: 2em;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+
+.seccion-alerta-guias {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    background-color: white;
+    align-items: center;
+    padding: 30px 0px;
+    border-radius: 5px;
+    border: none;
+/*     margin-bottom: 25px; */
+
+}
+
+
+.seccion-alerta-contenido-guias {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    align-items: flex-start;
+}
+
+.seccion-alerta-contenido-guias-titulo {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+}
+
+.seccion-alerta-contenido-guias > h1 {
+/*     margin-top: 20px; */
+    font-size: 2.5em;
+}
+
+.seccion-alerta-contenido-guias-titulo > p > span {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: black
+}
+
+.seccion-alerta-contenido-guias-titulo > p {
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: var(--color-texto-oscuro);}
+
+.seccion-alerta-contenido-guias > p {
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: var(--color-texto-oscuro);
+/*     margin: 20px 0px; */
+}
+
+.link-alerta-guias {
+    margin-bottom: 20px;
+}
+
+.bg-green {
+    background-color: white;
+}
+
+.bg-light-blue {
+    background-color: white;
 }
 
 .seccion-objetos-logros > p {
@@ -105,6 +217,8 @@
         font-size: 3em;
         line-height: 1.2em;
         align-self: flex-start;
+        text-align: start;
+
     }
     
     .contenedor-mitad p {

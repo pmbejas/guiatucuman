@@ -1,11 +1,8 @@
 import React, { useState, useEffect } from "react";
-import { Boton } from './boton.jsx'
 import { Link } from "react-router-dom";
 import '../estilos/navbar.css'
 
-export const NavBar = () => {
-    const [isLoading, setIsLoading] = useState(null);
-    const [error, setError] = useState(null);
+export const NavBar = (props) => {
     const [zonas, setZonas] = useState([]);
 
     const handleClickMenu = () => {
@@ -18,33 +15,8 @@ export const NavBar = () => {
     }
 
     useEffect(() => {        
-        setError("");
-        setZonas([]);
-        const fetchZonas = async () => {
-            setIsLoading(true)
-            await fetch('data/zonas.json')
-                .then(response => response.json())
-                .then(data => {
-                    setZonas(data);
-                }).catch(err => {
-                    setError(err);
-                })
-            setIsLoading(false)
-        }
-        fetchZonas();
-    }, []);
-    
-    if (isLoading) {
-        return (
-            <p>CARGANDO</p>
-        )
-    }
-
-    if (error) {
-        return (
-            <p>ERROR: {error}</p>
-        )
-    }
+        setZonas(props.zonas);
+    }, [props.zonas]);
 
     return (
         <nav className="barra-navegacion">
@@ -58,6 +30,11 @@ export const NavBar = () => {
             </div>
     
             <div className="seccion-barra barra2">
+                <Link to="/" style={{ textDecoration: 'none' }}>
+                    <div className="texto-menu">
+                        <span className="">Inicio</span>
+                    </div>
+                </Link>
                 <div className="con-submenu">
                     <Link to="/guia" style={{ textDecoration: 'none' }}>
                         <div className="texto-menu">
@@ -77,26 +54,26 @@ export const NavBar = () => {
                 </div>
                 <Link to="/proyecto" style={{ textDecoration: 'none' }}>
                     <div className="texto-menu">
-                        <span className="">El proyecto</span>
+                        <span className="">Nosotros</span>
                     </div>
                 </Link>
-                <Link to="/notas" style={{ textDecoration: 'none' }}>
+                {/* <Link to="/notas" style={{ textDecoration: 'none' }}>
                     <div className="texto-menu">
                         <span className="">Notas</span>
                     </div>
-                </Link>
+                </Link> */}
             </div>
             <div className="seccion-barra barra3">
-                <Boton 
-                    texto="Doná" />
-                <a href="https://www.instagram.com/pablomartin2206"
+                {/* <Boton 
+                    texto="Doná" /> */}
+                <a href="https://www.youtube.com/@asociacionargentinademonta9143"
                    target="_blank"
                    rel="noreferrer noopener">
                     <img className="imagen-redes-sociales" 
                          src={require('../img/youtube.png')} 
                          alt="Canal de Youtube" />   
                 </a>
-                <a href="https://www.instagram.com/pablomartin2206"
+                <a href="https://www.instagram.com/aam_tucuman"
                    target="_blank"
                    rel="noreferrer noopener">
                     <img className="imagen-redes-sociales" 

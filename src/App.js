@@ -7,82 +7,24 @@ import { Layout } from './paginas/layout';
 import { Zona } from './paginas/zona';
 import { Sector } from './paginas/sector';
 import { Notas } from './paginas/notas'
+import { getDataSectores, getDataZonas } from './Servicies/Servicios';
 import './App.css';
 
 function App() {
-  const [zonas,setZonas]=useState([]);
+  const [zonas, setZonas]=useState([]);
   const [sectores, setSectores]=useState([]);
-  const [errorZonas, setErrorZonas]=useState(null);
-  const [errorSectores, setErrorSectores]=useState(null);
-  const [isLoading, setIsLoading] = useState(false);
 
-  const getZonas = async ()=>{
-    await fetch('data/zonas.json')
-      .then( response => response.json())
-      .then(datos => {
-              setZonas(datos)
-      })
-      .catch (err => {
-          setErrorZonas(err);
-      });
-  }
-  
-  const getSectores = async () => {
-    await fetch('data/sectores.json')
-      .then(response => response.json())
-      .then(datos => {
-              setSectores(datos);
-      })
-      .catch (err => {
-          setErrorSectores("Error en la lectura de los sectores");
-      });
-  }
+  const getZonas = async () => setZonas(await getDataZonas().then(response => response.data));
+  const getSectores = async () => setSectores( await getDataSectores().then(response => response.data));
 
     useEffect(()=>{
-      setIsLoading(true)
       getZonas()
       getSectores();
-      setIsLoading(false)
-    },[])
-    
-  if (errorZonas) {
-      return (
-          <div className="contenedor">
-              <div className="seccion-titulo-guias">
-                  <h1>Error Zonas</h1>
-                  <p>
-                      ERROR: {errorZonas.message} 
-                  </p>
-              </div>
-          </div> 
-      )
-  }
-
-  if (errorSectores) {
-    return (
-        <div className="contenedor">
-            <div className="seccion-titulo-guias">
-                <h1>Error Sectores</h1>
-                <p>
-                    ERROR: {errorSectores.message} 
-                </p>
-            </div>
-        </div> 
-    )
-  }
-
-  if (isLoading) {
-    return (
-        <div>
-            Cargando...
-        </div>
-
-    )
-  }
-
+    })
+  
   return (
       <Routes>
-        <Route path="/" element={<Layout />}>
+        <Route path="/" element={<Layout zonas={zonas} />}>
           <Route index element={<Principal />} />
           <Route path="/guia" element={<Guias zonas={zonas} />} />
           <Route path="/proyecto" element={<Proyecto />} />

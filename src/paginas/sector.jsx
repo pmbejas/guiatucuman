@@ -26,6 +26,10 @@ export const Sector = (props) => {
         }
 
         getSector();
+        /* window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+          }); */
     }, [slug,props]);
 
     return (

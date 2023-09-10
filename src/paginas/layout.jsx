@@ -3,20 +3,18 @@ import '../estilos/layout.css'
 import { Outlet } from 'react-router-dom';
 
 import { NavBar } from '../componentes/navbar';
-import { Apoyo } from '../componentes/apoyo';
 import { Footer } from '../componentes/footer';
 
-export const Layout = () => {
+export const Layout = (props) => {
     return (
         <div>
             <header className="cabecera">
-                <NavBar />
+                <NavBar zonas={props.zonas} />
             </header>
             <main>
                 <Outlet />
             </main>
             <footer>
-                <Apoyo />
                 <Footer />
             </footer>
         </div>

@@ -1,22 +1,35 @@
-import React from 'react';
-import { Link } from "react-router-dom";
+import React, { useEffect } from "react";
 import '../estilos/guia.css'
 
 import { CardZona } from '../componentes/card-zona';
 
 export const Guias = (props) => {
+    
+    useEffect(()=>{
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
+    }, []);
+
     return (
         <div className="contenedor">
             <div className="seccion-titulo-guias">
                 <h1>Guia Online</h1>
                 <p>
-                    En <strong>Tafi del Valle</strong> hay casi 150 vías de escalada distribuidas en 7 sectores, entre los que se destacan particularmente 2 de ellos, El Rincon y Los Corpitos, debido a que son los que aglomeran la mayor cantidad de vias. El resto de los sectores se encuentran distribuidos a lo largo del valle y en la zona del Abra del Infiernillo.
+                    En el Departamento de <strong>Tafí del Valle</strong> existen alrededor de 150 vías de escalada distribuidas en 8 sectores principales. 
                 </p>
                 <p>
-                    Toda la escalada es practicada por arriba de los 2000 mts de altitud, pudiendo llegar a los 2900 en el Infiernillo e incluso superar ampliamente los 3000 mt en la Quebrada del Baron. La mayoria de éstos se encuentran en los faldeos del Cerro Muñoz
+                    El Rincón y Los Corpitos concentran la mayor cantidad de vías y gran variedad de grados (entre 5to y 8vo).
+                </p>
+                <p>
+                    La escalada es practicada por arriba de los 2000 m.s.n.m., pudiendo llegar a los 2900 msnm en el Infiernillo, e incluso superar ampliamente los 3000 msnm en la Quebrada del Barón. La mayoría de estos sectores se encuentran en los faldeos del Cerro Munoz y, cabe destacar que en general las vías suelen ser cortas, por lo que una cuerda de 60 mts es suficiente para poder practicar este hermoso deporte.
+                </p>
+                <p>
+                    Por último, si bien es posible escalar durante todo el año, se debe tener en cuenta las altas precipitaciones durante épocas estivales, y el frío considerable en época invernales.  se puede colocar las temperaturas max y mínimas y mencionar que en el valle el clima es un poco inestable no así en el sector de Los Corpitos 
                 </p>
             </div>
-            <div className="seccion-sugerencias-guias">
+{/*             <div className="seccion-sugerencias-guias">
                 <h1>Aclaraciones y sugerencias</h1>
                 <div className="seccion-alerta-guias">
                     <div className="seccion-alerta-contenido-guias">
@@ -59,7 +72,7 @@ export const Guias = (props) => {
                     </div>
                 </div>
                 <div className="separador-guias"></div>
-            </div>
+            </div> */}
             <div className="seccion-zonas-escalada-guias">
                 <h1>Zonas de Escalada</h1>
                 <img 

@@ -15,11 +15,6 @@ export const Zona = (props) => {
     const [error, setError]=useState(null);
     const [errorSectores, setErrorSectores]=useState(null);
     
-    window.scrollTo({
-        top: 0,
-        behavior: 'smooth'
-      });
-    
     useEffect(()=>{
         setSectores([]);
         const fetchSectores = async (id) => {
@@ -43,6 +38,10 @@ export const Zona = (props) => {
         }
 
         fetchZona();
+        /* window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+          }); */
     }, [slug, props]);
 
     return (
