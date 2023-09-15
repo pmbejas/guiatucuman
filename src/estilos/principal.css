@@ -28,6 +28,7 @@
     color: var(--color-texto-claro);
     font-size: 1.4em;
     line-height: 1.5em;
+    width: 95%;
 }
 
 .seccion-medio {

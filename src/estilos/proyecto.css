@@ -59,6 +59,15 @@
     margin: 20px;
 }
 
+.contenedor-imagen-pie-proyecto {
+    width: 90%;
+}
+
+.imagen-pie-proyecto {
+    object-fit: contain;
+    width: 100%;
+}
+
 .texto-pie-proyecto {
     margin-top: 10px;
     font-size: 1.2em;

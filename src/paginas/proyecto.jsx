@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import '../estilos/proyecto.css';
 import fotoProyecto from '../img/proyecto/nosotros.jpg';
+import fotoTafi from '../img/proyecto/tafidelvalle.jpg';
 
 export const Proyecto = () => {
 
@@ -44,6 +45,9 @@ export const Proyecto = () => {
                             </div>
                         </div>
                         <div className="separador-proyecto"></div>
+                        <div className="contenedor-imagen-proyecto">
+                            <img className="imagen-pie-proyecto"  src={fotoTafi} alt="Foto Tafi del Valle" srcset="" />
+                        </div>
                         <div className="texto-creadores-proyecto">
                             <h2>Agradecimientos</h2>
                             <p>

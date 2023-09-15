@@ -96,6 +96,12 @@ export const NavBar = (props) => {
                     alt="Hamburger Icon"/>
                 
                 <div className="barraMovilMenu ocultar" id="menuMovil" onClick={handleClickMenu}>
+                    <Link to="/" style={{ textDecoration: 'none' }}>
+                        <div className="texto-menu">
+                            <span className="">Inicio</span>
+                        </div>
+                    </Link>
+
                     <div className="con-submenu">
                         <Link to="/guia" style={{ textDecoration: 'none' }}>
                             <div className="texto-menu">
@@ -115,14 +121,14 @@ export const NavBar = (props) => {
                     </div>
                     <Link to="/proyecto" style={{ textDecoration: 'none' }}>
                         <div className="texto-menu">
-                            <span className="">El proyecto</span>
+                            <span className="">Nosotros</span>
                         </div>
                     </Link>
-                    <Link to="/notas" style={{ textDecoration: 'none' }}>
+{/*                     <Link to="/notas" style={{ textDecoration: 'none' }}>
                         <div className="texto-menu">
                             <span className="">Notas</span>
                         </div>
-                    </Link>
+                    </Link> */}
                 </div>
             </div>
         </nav>

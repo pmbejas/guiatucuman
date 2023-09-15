@@ -1,6 +1,6 @@
 import React from 'react';
 import '../estilos/cardsugerencia.css';
-import checkSquare from '../img/guia/warning-sign.png';
+import checkSquare from '../img/guia/warning-sign-triangle.png';
 
 export const CardSugerencia = (props) => {
   return (
