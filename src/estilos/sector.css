@@ -91,7 +91,7 @@
 .seccion-texto-acceso-sector > p {
     font-size: 1.2em;
     line-height: 1.7;
-    color: var(--color-texto-claro);
+    color: var(--color-texto-oscuro);
 }
 
 .seccion-sectores-sectores {
@@ -101,6 +101,7 @@
     background-color: var(--color-fondo-claro);
     align-items: center;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .seccion-card-sectores-sectores-error {

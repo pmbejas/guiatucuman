@@ -53,10 +53,10 @@ export const Sector = (props) => {
                         { sector.vias && sector.vias.length>0 && sector.vias.map((item, index)=><CardVia
                             numero={index}
                             nombre={item.nombre}
-                            subtitulo={item.subtitulo}
+                            equipadores={item.equipadores}
                             largo={item.largo}
-                            categoria1={item.categoria1}
-                            categoria2={item.categoria2} /> )}
+                            chapas={item.chapas}
+                            grado={item.grado} /> )}
                     </div>
                 </div>
                 <div className="contenedor-seccion-acceso-sector" id="como-llegar">

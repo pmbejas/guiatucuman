@@ -56,11 +56,26 @@ export const Zona = (props) => {
                     <div className="seccion-texto-acceso-zonas">
                         <h2>Como Llegar</h2>
                         {error === "" &&  <p>{parse(zonas.llegar)}</p>}
+                        
                         <div className="boton-maps">
+                            {zonas.googleMaps!=="" && 
+                                <a href={zonas.googleMaps} target="_blank" rel="noreferrer noopener">
+                                <Boton texto="Google Maps" color="celeste"/>
+                                </a>
+                            }
+                            {zonas.trackWikiloc!=="" &&
+                               <a href={zonas.trackWikiloc} target="_blank" rel="noreferrer noopener">
+                                    <Boton texto="Track Wikiloc" color="verde"/>
+                                </a>
+                            }
+                            {zonas.archivoGPX!=="" &&
                             <a href={zonas.googleMaps} target="_blank" rel="noreferrer noopener">
-                                <Boton texto="Abrir en Google Maps" />
+                                <Boton texto="Archivo GPX" color="gris"/>
                             </a>
+                            }
                         </div>
+                        <h2>Zona de Acampe</h2>
+                        {error === "" &&  <p>{parse(zonas.sectorAcampe)}</p>}
                     </div>
                 </div>
                 <div className="seccion-sectores-zonas">

@@ -12,7 +12,7 @@
     align-items: center;
     width: 10%;
     font-size: 1.2em;
-    color: var(--color-texto-claro)
+    color: var(--color-texto-oscuro)
 }
 .seccion-nombre-via {
     display: flex;
@@ -33,7 +33,7 @@
     align-self: center;
     text-align: center;
     font-size: 1.2em;
-    color: var(--color-texto-claro)
+    color: var(--color-texto-oscuro)
 }
 
 .nombre-via {
@@ -44,7 +44,7 @@
 
 .subtitulo-via {
     font-style: italic;
-    color: var(--color-texto-claro);
+    color: var(--color-texto-oscuro);
     font-size: 1em;
     margin-top: 5px;
 }

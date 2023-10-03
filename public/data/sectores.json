@@ -22,18 +22,18 @@
         [
             {
                 "nombre": "Chimuelo Calchaqui",
-                "subtitulo": "Roberto Sanchez, Patricio Rodriguez",
+                "equipadores": "Roberto Sanchez, Patricio Rodriguez",
                 "largo": "XXm",
-                "categoria1": "3+2",
-                "categoria2": "6a",
+                "chapas": "3+2",
+                "grado": "6a",
                 "observaciones":""
             },
             {
                 "nombre": "Dejalo pastar que engorde",
-                "subtitulo": "Oscar Zavala, Alexis Coronel",
+                "equipadores": "Oscar Zavala, Alexis Coronel",
                 "largo": "XXm",
-                "categoria1": "4+2",
-                "categoria2": "6a",
+                "chapas": "4+2",
+                "grado": "6a",
                 "observaciones":""
             }
         ]
@@ -65,26 +65,26 @@
         [
             {
                 "nombre": "Los ñoquis del Conicet",
-                "subtitulo": "Roberto Sanchez",
+                "equipadores": "Roberto Sanchez",
                 "largo": "16m",
-                "categoria1": "9+2",
-                "categoria2": "6c",
+                "chapas": "9+2",
+                "grado": "6c",
                 "observaciones":""
             },
             {
                 "nombre": "Tranca Palanca",
-                "subtitulo": "Roberto Sanchez",
+                "equipadores": "Roberto Sanchez",
                 "largo": "16m",
-                "categoria1": "7+2",
-                "categoria2": "6a+",
+                "chapas": "7+2",
+                "grado": "6a+",
                 "observaciones":""
             },
             {
                 "nombre": "Keterolac para mi muela",
-                "subtitulo": "Roberto Sanchez",
+                "equipadores": "Roberto Sanchez",
                 "largo": "16m",
-                "categoria1": "6+2",
-                "categoria2": "6b+",
+                "chapas": "6+2",
+                "grado": "6b+",
                 "observaciones":""
             }
         ]
@@ -116,28 +116,1877 @@
         [
             {
                 "nombre": "Todas tiran",
-                "subtitulo": "Roberto Sanchez",
+                "equipadores": "Roberto Sanchez",
                 "largo": "m",
-                "categoria1": "4+2",
-                "categoria2": "7a+",
+                "chapas": "4+2",
+                "grado": "7a+",
                 "observaciones":""
             },
             {
                 "nombre": "Pinche pincho compinche",
-                "subtitulo": "Roberto Sanchez",
+                "equipadores": "Roberto Sanchez",
                 "largo": "m",
-                "categoria1": "5+2",
-                "categoria2": "6a",
+                "chapas": "5+2",
+                "grado": "6a",
                 "observaciones":""
             },
             {
                 "nombre": "No Somos Nada",
-                "subtitulo": "Roberto Sanchez, Alexis Coronel",
+                "equipadores": "Roberto Sanchez, Alexis Coronel",
                 "largo": "m",
-                "categoria1": "3+2",
-                "categoria2": "5+",
+                "chapas": "3+2",
+                "grado": "5+",
                 "observaciones":""
             }
+        ]
+    },
+    {
+        "id" : 4,
+        "idZona": 2,
+        "nombreZona": "El Rincón",
+        "slugZona": "el-rincon",
+        "nombre" : "Nido de Águila (La Proa)",
+        "slug":"nido-de-aguila-la-proa",
+        "subtitulo" : "5 vías entre 4+ y 7b+",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "5 vías entre 4+ y 7b+ | mts",
+        "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
+        "vias": 
+        [
+            {
+                "nombre": "L1 Vachota",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "4+",
+                "observaciones":"Multilargo"
+            },
+            {
+                "nombre": "L2 Mano, Mano, Cabeza Afuera",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "7b+",
+                "observaciones":"Multilargo"
+            },
+            {
+                "nombre": "Bachata",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "5+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Travesía para llegar a pie de vía",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "5?",
+                "grado": "4-5?",
+                "observaciones":"Este se usa para llegar a un pie de via para hacer la Cascadisimo Forever y gacela del hielo. En este pie de via se debe estar asegurado todo el tiempo"
+            },
+            {
+                "nombre": "Cascadisimo Forever",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "9?",
+                "grado": "6a",
+                "observaciones":"En el pie de vía se debe estar asegurado todo el tiempo"
+            },
+            {
+                "nombre": "La GAcela del Hielo",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "11?",
+                "grado": "6b+",
+                "observaciones":"En el pie de vía se debe estar asegurado todo el tiempo"
+            }
+        ]
+    },
+    {
+        "id" : 5,
+        "idZona": 2,
+        "nombreZona": "El Rincón",
+        "slugZona": "el-rincon",
+        "nombre" : "Placas Naranjas",
+        "slug":"placas-naranjas",
+        "subtitulo" : "5 vías entre 6a+ y 7c",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "5 vías entre 6a+ y 7c | mts",
+        "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
+        "vias": 
+        [
+            {
+                "nombre": "Senpai",
+                "equipadores": "Matías Rohmer, Luis González",
+                "largo": "25m",
+                "chapas": "11+1",
+                "grado": "6a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Sin Equipadores no hay Paraíso",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "7+2",
+                "grado": "6c",
+                "observaciones":""
+            },
+            {
+                "nombre": "Sensei",
+                "equipadores": "Matías Rohmer, Andrés Quiroga",
+                "largo": "m",
+                "chapas": "7+2",
+                "grado": "7c",
+                "observaciones":""
+            },
+            {
+                "nombre": "San Pedrito",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "8+2",
+                "grado": "6b+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Ladrido de Buda",
+                "equipadores": "Damián Zanotti y Montenegro",
+                "largo": "m",
+                "chapas": "",
+                "grado": "6c",
+                "observaciones":""
+            }
+        ]
+    },
+    {
+        "id" : 6,
+        "idZona": 2,
+        "nombreZona": "El Rincón",
+        "slugZona": "el-rincon",
+        "nombre" : "La Calavera",
+        "slug":"la-calavera",
+        "subtitulo" : "7 vías entre 5+ y 6c+",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "7 vías entre 5+ y 6c+ | mts",
+        "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
+        "vias": 
+        [
+            {
+                "nombre": "Besito de Suegra",
+                "equipadores": "Luis González, David Medina",
+                "largo": "m",
+                "chapas": "4",
+                "grado": "6a+",
+                "observaciones":"1ra chapa MUY lejos - Via fea"
+            },
+            {
+                "nombre": "Pa Calentar",
+                "equipadores": "Patricio Payrola",
+                "largo": "m",
+                "chapas": "6",
+                "grado": "5+",
+                "observaciones":"Cuidado, hay piedras huecas todo arriba en el top"
+            },
+            {
+                "nombre": "Asco le Tengo al Frasco",
+                "equipadores": "Oscar Zabala",
+                "largo": "m",
+                "chapas": "",
+                "grado": "6c+",
+                "observaciones":"Vía nueva"
+            },
+            {
+                "nombre": "Toco pero no veo",
+                "equipadores": "Pablo Golobof",
+                "largo": "m",
+                "chapas": "6",
+                "grado": "6c",
+                "observaciones":""
+            },
+            {
+                "nombre": "Mal Ángulo",
+                "equipadores": "Pablo Goloboff, Oscar Zabala, Patricio Payrola",
+                "largo": "m",
+                "chapas": "4",
+                "grado": "6b+",
+                "observaciones":"Tiene una sola argolla de descuelgue - tomas todas romas"
+            },
+            {
+                "nombre": "Calavera No Chilla",
+                "equipadores": "Patricio Payrola, Oscar Zabala",
+                "largo": "m",
+                "chapas": "6",
+                "grado": "6b",
+                "observaciones":"Tiene una sola argolla de descuelgue - tomas todas romas"
+            },
+            {
+                "nombre": "Sale Polvillo",
+                "equipadores": "Martinez, Oscar Zabala, Pablo Goloboff, Quagliata Carrasco",
+                "largo": "m",
+                "chapas": "7",
+                "grado": "?",
+                "observaciones":""
+            }
+        ]
+    },
+    {
+        "id" : 7,
+        "idZona": 2,
+        "nombreZona": "El Rincón",
+        "slugZona": "el-rincon",
+        "nombre" : "Meteorito",
+        "slug":"meteorito",
+        "subtitulo" : "7 vías entre 5 y 8a",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "7 vías entre 5 y 8a | mts",
+        "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
+        "vias": 
+        [
+            {
+                "nombre": "Y diai",
+                "equipadores": "Devon Dennis",
+                "largo": "m",
+                "chapas": "9?",
+                "grado": "6a",
+                "observaciones":""
+            },
+            {
+                "nombre": "Apreta Sr. Miyagui",
+                "equipadores": "Devon Dennis",
+                "largo": "m",
+                "chapas": "6",
+                "grado": "5?",
+                "observaciones":""
+            },
+            {
+                "nombre": "Pequeñón",
+                "equipadores": "Augusto Diebel, Sebastian R",
+                "largo": "m",
+                "chapas": "8",
+                "grado": "8a",
+                "observaciones":"Vía nueva"
+            },
+            {
+                "nombre": "Atajate Este Meteorito",
+                "equipadores": "Oscar Zabala, Jose Quagliata",
+                "largo": "m",
+                "chapas": "8",
+                "grado": "6c+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Natalia Natalia",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "6a",
+                "observaciones":""
+            },
+            {
+                "nombre": "La Grieta",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "6c",
+                "observaciones":""
+            },
+            {
+                "nombre": "Proyecto",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "8a",
+                "observaciones":""
+            }
+        ]
+    },
+    {
+        "id" : 8,
+        "idZona": 2,
+        "nombreZona": "El Rincón",
+        "slugZona": "el-rincon",
+        "nombre" : "La Quebrada (Sector Escuela)",
+        "slug":"la-quebrada-sector-escuela",
+        "subtitulo" : "8 vías entre 5+ y 6b",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "8 vías entre 5+ y 6b | mts",
+        "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
+        "vias": 
+        [
+            {
+                "nombre": "Se va la Primera",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "5",
+                "grado": "6a",
+                "observaciones":""
+            },
+            {
+                "nombre": "La Sensual",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "6",
+                "grado": "5+",
+                "observaciones":"arriba piedras sueltas y nido"
+            },
+            {
+                "nombre": "La Pulenta",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "7",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "La Chica del Blem",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "7",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "La Chica por Fuerza Zen",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "7",
+                "grado": "6a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Fuerza Zen",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "7",
+                "grado": "5+",
+                "observaciones":""
+            },
+            {
+                "nombre": "De Uuuna!!!",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "7",
+                "grado": "5+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Mente en Blanco",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "7",
+                "grado": "5+",
+                "observaciones":""
+            }
+        ]
+    },
+    {
+        "id" : 9,
+        "idZona": 2,
+        "nombreZona": "El Rincón",
+        "slugZona": "el-rincon",
+        "nombre" : "El Peñon / La Varita",
+        "slug":"el-penon-la-varita",
+        "subtitulo" : "9 vías entre 5b y 7c",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "9 vías entre 5b y 7c | 23 mts",
+        "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
+        "vias": 
+        [
+            {
+                "nombre": "Sensei",
+                "equipadores": "",
+                "largo": "12m",
+                "chapas": "",
+                "grado": "7c",
+                "observaciones":""
+            },
+            {
+                "nombre": "La Varita de Willow",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "11?",
+                "grado": "6b+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Sinai",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "7a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "La Negrita Rum",
+                "equipadores": "Bernardo",
+                "largo": "m",
+                "chapas": "",
+                "grado": "6c/+",
+                "observaciones":""
+            },
+            {
+                "nombre": "La Leyenda del Mini",
+                "equipadores": "Oscar Zabala, Jose Quagliata",
+                "largo": "23m",
+                "chapas": "13",
+                "grado": "6b+",
+                "observaciones":"Recien equipada puede haber roca suelta"
+            },
+            {
+                "nombre": "Proyecto",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "",
+                "observaciones":""
+            },
+            {
+                "nombre": "Animal Mecánico",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "7a",
+                "observaciones":""
+            },
+            {
+                "nombre": "Mi Escuelita",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "5b",
+                "observaciones":"Cuidado, la via no se usa mucho con lo cual se encuentra muy sucia. Tambien hay piedras huecas"
+            },
+            {
+                "nombre": "Placa Golo",
+                "equipadores": "Patricio Payrola",
+                "largo": "m",
+                "chapas": "",
+                "grado": "6a",
+                "observaciones":"Cuidado, la via no se usa mucho con lo cual se encuentra muy sucia. Tambien hay piedras huecas"
+            }
+        ]
+    },
+    {
+        "id" : 10,
+        "idZona": 2,
+        "nombreZona": "El Rincón",
+        "slugZona": "el-rincon",
+        "nombre" : "La Bomba",
+        "slug":"la-bomba",
+        "subtitulo" : "6 vías entre 6b y 7b",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "6 vías entre 6b y 7b | mts",
+        "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
+        "vias": 
+        [
+            {
+                "nombre": "Chaskibum",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "3",
+                "grado": "6b",
+                "observaciones":"Comparte chapa con Rompeportones"
+            },
+            {
+                "nombre": "Rompeportones",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "3",
+                "grado": "6b",
+                "observaciones":"Comparte chapa con Chaskibum"
+            },
+            {
+                "nombre": "Molotov",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "4",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Hombre Bomba",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "3",
+                "grado": "6c",
+                "observaciones":"Comparte chapa con Atómica"
+            },
+            {
+                "nombre": "Atómica",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "3",
+                "grado": "7b",
+                "observaciones":"comparte chapa con Hombre Bomba"
+            },
+            {
+                "nombre": "Estruendo",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "3",
+                "grado": "6b+",
+                "observaciones":""
+            }
+        ]
+    },
+    {
+        "id" : 11,
+        "idZona": 2,
+        "nombreZona": "El Rincón",
+        "slugZona": "el-rincon",
+        "nombre" : "El Corral",
+        "slug":"el-corral",
+        "subtitulo" : "9 vías entre 6b y 7b+",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "9 vías entre 6b y 7b+ | mts",
+        "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
+        "vias": 
+        [
+            {
+                "nombre": "Romanchino",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "6",
+                "grado": "6b+",
+                "observaciones":""
+            },
+            {
+                "nombre": "La Cabra Voladora",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "10",
+                "grado": "7a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Turbina",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "8",
+                "grado": "7b+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Pocoyo",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "9",
+                "grado": "7a",
+                "observaciones":""
+            },
+            {
+                "nombre": "Cristianos Llorones",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "10",
+                "grado": "6c",
+                "observaciones":""
+            },
+            {
+                "nombre": "Tres Días al Pedo",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "10",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Toy Pensando",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "12?",
+                "grado": "7b",
+                "observaciones":"Comienza por 'Tres Días Al Pedo'"
+            },
+            {
+                "nombre": "El Columpio",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "7b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Sub 80",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "7a",
+                "observaciones":""
+            }
+        ]
+    },
+    {
+        "id" : 12,
+        "idZona": 2,
+        "nombreZona": "El Rincón",
+        "slugZona": "el-rincon",
+        "nombre" : "Placas Negras",
+        "slug":"placas-negras",
+        "subtitulo" : "4 vías entre 6a y 6b+",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "4 vías entre 6a y 6b+ | mts",
+        "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
+        "vias": 
+        [
+            {
+                "nombre": "Persiana Descarriada",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "3+2",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Apesto a Pesto",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "3+2",
+                "grado": "6b/+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Corta la Bocha",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "3+2",
+                "grado": "6a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Mecha Corta",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "3+2",
+                "grado": "6a",
+                "observaciones":""
+            }
+        ]
+    },
+    {
+        "id" : 13,
+        "idZona": 3,
+        "nombreZona": "El Remanso",
+        "slugZona": "el-remanso",
+        "nombre" : "Izquierda",
+        "slug":"izquierda",
+        "subtitulo" : "2 vías entre 7b y 7b+",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "2 vías entre 7b y 7b+ | 15mts",
+        "llegar": "Desde El Mollar se debe seguir la ruta 325 hacia Tafí del Valle y a pocos metros de donde finaliza el poblado de el Rincón, luego de pasar una casa donde fabrican adobes (adobera Ibañez) y sobre la curva, se encuentra el estacionamiento.  Existe una gruta de la Virgen del Valle al otro lado de la ruta y  se debe caminar 5 minutos siguiendo el sendero hacia arriba por la margen derecha (N) de la quebrada.",
+        "vias": 
+        [
+            {
+                "nombre": "9 Meses Ipie al Pedo",
+                "equipadores": "Ulses Saini, Victoria Salvadeo",
+                "largo": "15m",
+                "chapas": "7+2",
+                "grado": "7b+?",
+                "observaciones":""
+            },
+            {
+                "nombre": "El Equipador Fantasma",
+                "equipadores": "Ulses Saini, Victoria Salvadeo",
+                "largo": "15m",
+                "chapas": "7+2",
+                "grado": "7b?",
+                "observaciones":""
+            }
+        ]
+    },
+    {
+        "id" : 14,
+        "idZona": 3,
+        "nombreZona": "El Remanso",
+        "slugZona": "el-remanso",
+        "nombre" : "Derecha",
+        "slug":"derecha",
+        "subtitulo" : "3 vías entre 6a+ y 6c",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "3 vías entre 6a+ y 6c | 22mts",
+        "llegar": "Desde El Mollar se debe seguir la ruta 325 hacia Tafí del Valle y a pocos metros de donde finaliza el poblado de el Rincón, luego de pasar una casa donde fabrican adobes (adobera Ibañez) y sobre la curva, se encuentra el estacionamiento.  Existe una gruta de la Virgen del Valle al otro lado de la ruta y  se debe caminar 5 minutos siguiendo el sendero hacia arriba por la margen derecha (N) de la quebrada.",
+        "vias": 
+        [
+            {
+                "nombre": "La Gringuita de 77",
+                "equipadores": "Ulses Saini, Victoria Salvadeo",
+                "largo": "22m",
+                "chapas": "9+2",
+                "grado": "6c",
+                "observaciones":""
+            },
+            {
+                "nombre": "Slow Motion",
+                "equipadores": "Ulses Saini, Victoria Salvadeo",
+                "largo": "22m",
+                "chapas": "9+2",
+                "grado": "6b+",
+                "observaciones":""
+            },
+            {
+                "nombre": "No Soy Culito, Soy Pajarito",
+                "equipadores": "Ulses Saini, Victoria Salvadeo",
+                "largo": "20m",
+                "chapas": "8+2",
+                "grado": "6a+/b",
+                "observaciones":""
+            }
+        ]
+    },
+    {
+        "id" : 15,
+        "idZona": 5,
+        "nombreZona": "Vías Viejas",
+        "slugZona": "vias-viejas",
+        "nombre" : "Sector Único",
+        "slug":"sector-unico",
+        "subtitulo" : "5 vías entre 5 y 8a",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "5 vías entre 5 y 8a | 12mts",
+        "llegar": "Lo mas recomendable es acceder desde Tafí del Valle siguiendo la ruta 325. En el barrio Rodeo Grande, a la altura de la capilla San Isidro Labrador, se debe doblar hacia las laderas del  Cerro Muñoz (hacia la derecha) y se continúa por un camino interno hasta donde finaliza el mismo, justo sobre un arroyo. Desde este punto, se cruza una tranquera y se  continúa caminando  por la quebrada hasta  llegar a las vías.",
+        "vias": 
+        [
+            {
+                "nombre": "Queen Tour",
+                "equipadores": "Roberto Sanchez, Oscar Zabala",
+                "largo": "12m",
+                "chapas": "5+2",
+                "grado": "5",
+                "observaciones":""
+            },
+            {
+                "nombre": "Munay",
+                "equipadores": "",
+                "largo": "12m",
+                "chapas": "",
+                "grado": "8a?",
+                "observaciones":""
+            },
+            {
+                "nombre": "Fear of the Clouds",
+                "equipadores": "Zaffanella, González",
+                "largo": "12m",
+                "chapas": "6+2",
+                "grado": "7a",
+                "observaciones":""
+            },
+            {
+                "nombre": "Vamos Pa Maicha",
+                "equipadores": "Zaffanella, González",
+                "largo": "12m",
+                "chapas": "6+2",
+                "grado": "6c+",
+                "observaciones":""
+            },
+            {
+                "nombre": "??",
+                "equipadores": "",
+                "largo": "12m",
+                "chapas": "",
+                "grado": "5",
+                "observaciones":""
+            }
+        ]
+    },
+    {
+        "id" : 16,
+        "idZona": 7,
+        "nombreZona": "Quebrada del Barón",
+        "slugZona": "quebrada-del-baron",
+        "nombre" : "Depo",
+        "slug":"depo",
+        "subtitulo" : "2 vías entre 6c y 6c+",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "2 vías entre 6c y 6c+ | 20mts",
+        "llegar": "Desde Tafí del Valle se debe seguir la ruta 307 hacia el Abra del Infiernillo. Unos kilómetros antes de llegar a este último, se encuentra la entrada al P.P.C.C donde existe una construcción. Desde allí se debe caminar aproximadamente 1:30 hr para llegar al sector de escalada deportiva, pasando primero por el puesto de la familia Diaz. Desde la casa, se debe seguir el río por su margen derecha hasta llegar a las vías. Para llegar al Rocódromo, se debe continuar quebrada arriba (3 horas de caminata).",
+        "vias": 
+        [
+            {
+                "nombre": "Acción Derecto",
+                "equipadores": "Roberto Sanchez, Pablo Goloboff",
+                "largo": "20m",
+                "chapas": "11+2",
+                "grado": "6c",
+                "observaciones":""
+            },
+            {
+                "nombre": "Lalan Salaja",
+                "equipadores": "Roberto Sanchez, Pablo Goloboff",
+                "largo": "20m",
+                "chapas": "12+2",
+                "grado": "6c+",
+                "observaciones":""
+            }
+        ]
+    },
+    {
+        "id" : 17,
+        "idZona": 7,
+        "nombreZona": "Quebrada del Barón",
+        "slugZona": "quebrada-del-baron",
+        "nombre" : "Rocodromo",
+        "slug":"rocodromo",
+        "subtitulo" : "3 vías entre 5 y 5+",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "3 vías entre 5 y 5+ | 20mts",
+        "llegar": "Desde Tafí del Valle se debe seguir la ruta 307 hacia el Abra del Infiernillo. Unos kilómetros antes de llegar a este último, se encuentra la entrada al P.P.C.C donde existe una construcción. Desde allí se debe caminar aproximadamente 1:30 hr para llegar al sector de escalada deportiva, pasando primero por el puesto de la familia Diaz. Desde la casa, se debe seguir el río por su margen derecha hasta llegar a las vías. Para llegar al Rocódromo, se debe continuar quebrada arriba (3 horas de caminata).",
+        "vias": 
+        [
+            {
+                "nombre": "Derecha",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "5, 5",
+                "observaciones":"Multilargo"
+            },
+            {
+                "nombre": "Centro",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "5+, 5+",
+                "observaciones":"Multilargo"
+            },
+            {
+                "nombre": "Izquierda",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "5+, ?",
+                "observaciones":"Multilargo"
+            }
+        ]
+    },
+    {
+        "id" : 18,
+        "idZona": 6,
+        "nombreZona": "Chivo Berrinche",
+        "slugZona": "chivo-berrinche",
+        "nombre" : "El Coimero",
+        "slug":"el-coimero",
+        "subtitulo" : "4 vías entre 6a+ y 7c",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "4 vías entre 6a+ y 7c | mts",
+        "llegar": "Desde Tafí del valle se toma el camino hacia el barrio Ojo de Agua, pasando cerca del cementerio y siguiendo el Dique La Angostura por su margen oeste hacia Casas Viejas (en la ruta 307, existe como referencia el cartel que indica el camino hacia Casas Viejas). En el punto marcado, se puede doblar a la derecha y continuar  por una huella vehicular que llega muy  cerca del sector. Desde allí, solo resta seguir el sendero por 5 minutos y cruzar una tranquera para llegar a las vías.",
+        "vias": 
+        [
+            {
+                "nombre": "Gallego Empotrao",
+                "equipadores": "Rohmer - Gonzalez - Marak - Quiroga",
+                "largo": "m",
+                "chapas": "5+2",
+                "grado": "6a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "50 por Cabeza",
+                "equipadores": "Rohmer - Gonzalez - Marak - Quiroga",
+                "largo": "m",
+                "chapas": "5+2",
+                "grado": "6b+",
+                "observaciones":""
+            },
+            {
+                "nombre": "El Coimero",
+                "equipadores": "Rohmer - Gonzalez - Marak - Quiroga",
+                "largo": "m",
+                "chapas": "6+2",
+                "grado": "6c+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Hidromiel Boulder",
+                "equipadores": "Rohmer - Quiroga",
+                "largo": "m",
+                "chapas": "",
+                "grado": "7c?",
+                "observaciones":""
+            }
+        ]
+    },
+    {
+        "id" : 19,
+        "idZona": 6,
+        "nombreZona": "Chivo Berrinche",
+        "slugZona": "chivo-berrinche",
+        "nombre" : "El Jorobado",
+        "slug":"el-jorobado",
+        "subtitulo" : "2 vías entre 6a y 6b+",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "2 vías entre 6a y 6b+ | mts",
+        "llegar": "Desde Tafí del valle se toma el camino hacia el barrio Ojo de Agua, pasando cerca del cementerio y siguiendo el Dique La Angostura por su margen oeste hacia Casas Viejas (en la ruta 307, existe como referencia el cartel que indica el camino hacia Casas Viejas). En el punto marcado, se puede doblar a la derecha y continuar  por una huella vehicular que llega muy  cerca del sector. Desde allí, solo resta seguir el sendero por 5 minutos y cruzar una tranquera para llegar a las vías.",
+        "vias": 
+        [
+            {
+                "nombre": "El Jorobado",
+                "equipadores": "Medina - Yugar",
+                "largo": "m",
+                "chapas": "4+2",
+                "grado": "6a",
+                "observaciones":""
+            },
+            {
+                "nombre": "El Batidesalojo",
+                "equipadores": "Medina - Yugar",
+                "largo": "m",
+                "chapas": "3+2",
+                "grado": "6b+",
+                "observaciones":""
+            }
+        ]
+    },
+    {
+        "id" : 20,
+        "idZona": 6,
+        "nombreZona": "Chivo Berrinche",
+        "slugZona": "chivo-berrinche",
+        "nombre" : "Sin Nombre",
+        "slug":"sin-nombre",
+        "subtitulo" : "12 vías entre 5+ y 8a",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "12 vías entre 5+ y 8a | mts",
+        "llegar": "Desde Tafí del valle se toma el camino hacia el barrio Ojo de Agua, pasando cerca del cementerio y siguiendo el Dique La Angostura por su margen oeste hacia Casas Viejas (en la ruta 307, existe como referencia el cartel que indica el camino hacia Casas Viejas). En el punto marcado, se puede doblar a la derecha y continuar  por una huella vehicular que llega muy  cerca del sector. Desde allí, solo resta seguir el sendero por 5 minutos y cruzar una tranquera para llegar a las vías.",
+        "vias": 
+        [
+            {
+                "nombre": "Chivo Berrinche",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "8a",
+                "observaciones":""
+            },
+            {
+                "nombre": "Al Borde de lo Ridículo",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "5+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Garche Bondiola",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "6a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Puntapié Porcino",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "6a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Dierdo",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "6a",
+                "observaciones":""
+            },
+            {
+                "nombre": "Espolón",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "6a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Baticueva Boulder",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Grieta Horizontal Boulder",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "6a",
+                "observaciones":""
+            },
+            {
+                "nombre": "La Muelita Boulder",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "6a",
+                "observaciones":""
+            },
+            {
+                "nombre": "China Boulder",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "7a",
+                "observaciones":""
+            },
+            {
+                "nombre": "Espolón Recargado",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "6a+",
+                "observaciones":"Mauricio Ho"
+            },
+            {
+                "nombre": "Las Cazadoras de lo Vertical",
+                "equipadores": "",
+                "largo": "m",
+                "chapas": "",
+                "grado": "6b",
+                "observaciones":"Mauricio Ho"
+            }
+        ]
+    },
+    {
+        "id" : 21,
+        "idZona": 4,
+        "nombreZona": "Los Corpitos",
+        "slugZona": "los-corpitos",
+        "nombre" : "Escuelita",
+        "slug":"escuelita",
+        "subtitulo" : "6 vías entre 5+ y 6c",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "6 vías entre 5+ y 6c | mts",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "vias": 
+        [
+            {
+                "nombre": "Error 404",
+                "equipadores": "José Góngora",
+                "largo": "m",
+                "chapas": "3+2",
+                "grado": "6a",
+                "observaciones":""
+            },
+            {
+                "nombre": "Seis Pales al Pedo",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "8+2",
+                "grado": "6a",
+                "observaciones":""
+            },
+            {
+                "nombre": "Ultra Derecha",
+                "equipadores": "José Góngora",
+                "largo": "m",
+                "chapas": "9+2",
+                "grado": "6a",
+                "observaciones":""
+            },
+            {
+                "nombre": "Ñiki Ñiki",
+                "equipadores": "Ulises Saini",
+                "largo": "m",
+                "chapas": "7+2",
+                "grado": "6c",
+                "observaciones":""
+            },
+            {
+                "nombre": "Roza La Maravillosa",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "9+2",
+                "grado": "6b - 6a+",
+                "observaciones":"Multilargo"
+            },
+            {
+                "nombre": "Sánchez a 120",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "6+2",
+                "grado": "5",
+                "observaciones":""
+            }
+        ]
+    },
+    {
+        "id" : 22,
+        "idZona": 4,
+        "nombreZona": "Los Corpitos",
+        "slugZona": "los-corpitos",
+        "nombre" : "El Paraíso",
+        "slug":"el-paraiso",
+        "subtitulo" : "11 vías entre 5+ y 7b",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "11 vías entre 5+ y 7b | mts",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "vias": 
+        [
+            {
+                "nombre": "Bien Tumberita",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "5+2",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Pío Pío",
+                "equipadores": "Ulises Saini",
+                "largo": "m",
+                "chapas": "Rack + 2",
+                "grado": "5",
+                "observaciones":""
+            },
+            {
+                "nombre": "Los Añejos",
+                "equipadores": "Ulises Saini",
+                "largo": "m",
+                "chapas": "Rack + 2",
+                "grado": "6a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Mentes Cochambrosas",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "8+2",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Beso Negro",
+                "equipadores": "Ulises Saini, José Góngora",
+                "largo": "m",
+                "chapas": "10+2",
+                "grado": "6c",
+                "observaciones":""
+            },
+            {
+                "nombre": "Punto Rojo",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "10+2",
+                "grado": "7a+/b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Danza Con Lobos",
+                "equipadores": "Ulises Saini, José Góngora",
+                "largo": "m",
+                "chapas": "14+2",
+                "grado": "6c+/7a",
+                "observaciones":""
+            },
+            {
+                "nombre": "Paraíso Vertical",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "10+2",
+                "grado": "6b+}",
+                "observaciones":""
+            },
+            {
+                "nombre": "Adherencia Colectiva",
+                "equipadores": "Oscar Zabala",
+                "largo": "m",
+                "chapas": "10+2",
+                "grado": "7a",
+                "observaciones":""
+            },
+            {
+                "nombre": "No sé",
+                "equipadores": "Oscar Zabala",
+                "largo": "m",
+                "chapas": "5+2",
+                "grado": "7b",
+                "observaciones":""
+            },
+            {
+                "nombre": "La Ciática que tengo",
+                "equipadores": "Roberto Sanchez, Oscar Zabala",
+                "largo": "m",
+                "chapas": "11+2",
+                "grado": "7a+",
+                "observaciones":""
+            }
+        ]
+    },
+    {
+        "id" : 23,
+        "idZona": 4,
+        "nombreZona": "Los Corpitos",
+        "slugZona": "los-corpitos",
+        "nombre" : "El Averno",
+        "slug":"el-averno",
+        "subtitulo" : "7 vías entre 5 y 7a+",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "7 vías entre 5 y 7a+ | mts",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "vias": 
+        [
+            {
+                "nombre": "Sainoras Paranoisa",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "5+2",
+                "grado": "5",
+                "observaciones":""
+            },
+            {
+                "nombre": "No Subas Abusón",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "4+2",
+                "grado": "7a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Añora la Roña",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "5+2",
+                "grado": "7a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Sin Miedo al Éxito",
+                "equipadores": "Ulises Saini",
+                "largo": "m",
+                "chapas": "7+2",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Caiese",
+                "equipadores": "Ulises Saini",
+                "largo": "m",
+                "chapas": "11+2",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Regleta que Ladra no Muerde",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "7+2",
+                "grado": "6b+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Ni Para Mate Ni Para Tereré",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "9+2",
+                "grado": "7a/+",
+                "observaciones":""
+            }
+        ]
+    },
+    {
+        "id" : 24,
+        "idZona": 4,
+        "nombreZona": "Los Corpitos",
+        "slugZona": "los-corpitos",
+        "nombre" : "Del Río",
+        "slug":"del-rio",
+        "subtitulo" : "2 vías entre 6b y 6b+",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "2 vías entre 6b y 6b+ | mts",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "vias": 
+        [
+            {
+                "nombre": "El Chame del 8",
+                "equipadores": "Roberto Sanchez, Ulises Kuznesov",
+                "largo": "m",
+                "chapas": "",
+                "grado": "6b+",
+                "observaciones":""
+            },
+            {
+                "nombre": "La Pichoneta",
+                "equipadores": "Ulises Kuznesov",
+                "largo": "m",
+                "chapas": "",
+                "grado": "6b",
+                "observaciones":""
+            }
+        ]
+    },
+    {
+        "id" : 25,
+        "idZona": 4,
+        "nombreZona": "Los Corpitos",
+        "slugZona": "los-corpitos",
+        "nombre" : "El Purgatorio (Entrada)",
+        "slug":"el-purgatorio-entrada",
+        "subtitulo" : "2 vías entre 5 y 6b+",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "2 vías entre 5 y 6b+ | mts",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "vias": 
+        [
+            {
+                "nombre": "Gorgojos Salvajes",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "5+2",
+                "grado": "6b+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Tanguito",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "5+2",
+                "grado": "5",
+                "observaciones":""
+            }
+        ]
+    },
+    {
+        "id" : 26,
+        "idZona": 4,
+        "nombreZona": "Los Corpitos",
+        "slugZona": "los-corpitos",
+        "nombre" : "El Purgatorio (Chimenea)",
+        "slug":"el-purgatorio-chimenea",
+        "subtitulo" : "7 vías entre 6a y 7a",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "7 vías entre 6a y 7a | mts",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "vias": 
+        [
+            {
+                "nombre": "El Último Machirulo",
+                "equipadores": "Victoria Salvadeo",
+                "largo": "m",
+                "chapas": "5+2",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Otro Quinto de Volcán",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "6+2",
+                "grado": "6c+/7a",
+                "observaciones":""
+            },
+            {
+                "nombre": "Chim Chim Cheree",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "5+2",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Solo Para Diplomados",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "Rack + 2",
+                "grado": "6a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Estalkeador de Vías",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "5+2",
+                "grado": "6a/+",
+                "observaciones":""
+            },
+            {
+                "nombre": "El Loco de la Barreta",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "4+2",
+                "grado": "6a",
+                "observaciones":""
+            },
+            {
+                "nombre": "Rayo Calaverizador",
+                "equipadores": "Ulises Saini",
+                "largo": "m",
+                "chapas": "5+2",
+                "grado": "6b",
+                "observaciones":""
+            }           
+        ]
+    },
+    {
+        "id" : 27,
+        "idZona": 4,
+        "nombreZona": "Los Corpitos",
+        "slugZona": "los-corpitos",
+        "nombre" : "El Purgatorio (Pared Chocolate)",
+        "slug":"el-purgatorio-pared-chocolate",
+        "subtitulo" : "4 vías entre 6b y 6c+",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "4 vías entre 6b y 6c+ | mts",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "vias": 
+        [
+            {
+                "nombre": "La Venganza del Ninja Púrpura",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "4+2",
+                "grado": "6c+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Vientito del Tucumán",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "5+2",
+                "grado": "6c",
+                "observaciones":""
+            },
+            {
+                "nombre": "Chinchillon's Power",
+                "equipadores": "Ulises Saini",
+                "largo": "m",
+                "chapas": "6+2",
+                "grado": "6b+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Riojanita",
+                "equipadores": "Victoria Salvadeo",
+                "largo": "m",
+                "chapas": "4+2",
+                "grado": "6b",
+                "observaciones":""
+            }        
+        ]
+    },
+    {
+        "id" : 28,
+        "idZona": 4,
+        "nombreZona": "Los Corpitos",
+        "slugZona": "los-corpitos",
+        "nombre" : "El Purgatorio (Nariz Izquierda)",
+        "slug":"el-purgatorio-nariz-izquierda",
+        "subtitulo" : "2 vías entre 6a y 6b/+",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "2 vías entre 6a y 6b/ | mts",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "vias": 
+        [
+            {
+                "nombre": "Poder Gitano",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "7+2",
+                "grado": "6b/+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Jimmy Lynn",
+                "equipadores": "Ulises Saini",
+                "largo": "m",
+                "chapas": "4+2",
+                "grado": "6a",
+                "observaciones":""
+            }      
+        ]
+    },
+    {
+        "id" : 28,
+        "idZona": 4,
+        "nombreZona": "Los Corpitos",
+        "slugZona": "los-corpitos",
+        "nombre" : "El Purgatorio (Nariz Frente)",
+        "slug":"el-purgatorio-nariz-Frente",
+        "subtitulo" : "1 vía de 7a+/b",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "1 vía de 7a+/b | mts",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "vias": 
+        [
+            {
+                "nombre": "Psicokiller",
+                "equipadores": "Ulises Saini",
+                "largo": "m",
+                "chapas": "7+2",
+                "grado": "7a+/b",
+                "observaciones":""
+            }   
+        ]
+    },
+    {
+        "id" : 29,
+        "idZona": 4,
+        "nombreZona": "Los Corpitos",
+        "slugZona": "los-corpitos",
+        "nombre" : "El Purgatorio (Pared de la X)",
+        "slug":"el-purgatorio-pared-de-la-x",
+        "subtitulo" : "4 vías entre 6a y 6a+",
+        "imagen" : "mogote",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenMapa": "",
+        "descripcion": "4 vías entre 6a y 6a+ | mts",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "vias": 
+        [
+            {
+                "nombre": "Efecto Mariposa",
+                "equipadores": "Roberto Sanchez, Ulises Saini",
+                "largo": "m",
+                "chapas": "6+2",
+                "grado": "6a",
+                "observaciones":""
+            },
+            {
+                "nombre": "La Adherencia en lo Pies",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "5+2",
+                "grado": "6a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Mañeros Old School",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "5+2",
+                "grado": "6a/+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Ensayo sobre la Frustración",
+                "equipadores": "Roberto Sanchez, Ulises Saini",
+                "largo": "m",
+                "chapas": "8+2",
+                "grado": "6a",
+                "observaciones":""
+            }   
         ]
     }
 ]

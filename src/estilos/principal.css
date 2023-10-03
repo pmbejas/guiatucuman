@@ -162,6 +162,17 @@
 /*     margin: 20px 0px; */
 }
 
+.contenedor-principal-fotos {
+    width: 85%;
+    margin-top: 20px;
+}
+
+.seccion-principal-imagen {
+    object-fit: contain;
+    width: 100%;
+    border-radius: 5px;
+}
+
 .link-alerta-guias {
     margin-bottom: 20px;
 }
@@ -242,4 +253,8 @@
         width: 95%;
     }
 
+    .contenedor-principal-fotos {
+        width: 95%;
+        margin-top: 20px;
+    }
 }

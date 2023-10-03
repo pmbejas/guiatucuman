@@ -59,12 +59,11 @@
 .seccion-texto-acceso-zonas > p {
     font-size: 1.2em;
     line-height: 1.7;
-    color: var(--color-texto-claro);
+    color: var(--color-texto-oscuro);
 }
 
 .boton-maps {
-    min-width: 300px;
-
+    min-width: 200px;
 }
 
 .error {
@@ -79,6 +78,7 @@
     background-color: var(--color-fondo-claro);
     align-items: center;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .seccion-card-sectores-zonas-error {

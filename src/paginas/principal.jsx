@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import '../estilos/principal.css'
 import { Boton } from "../componentes/boton";
 import { CardSugerencia } from "../componentes/CardSugerencia";
+import foto1 from '../img/principal/principal1.jpg'
 export const Principal = () => {
     
     useEffect(()=>{
@@ -11,7 +12,6 @@ export const Principal = () => {
             behavior: 'smooth'
         });
     }, []);
-
 
     return (
         <div className="contenedor">
@@ -36,8 +36,11 @@ export const Principal = () => {
                         En Tucuman, la escalada se encuentra concentrada en el Dpto. Tafi del Valle, más precisamente en el valle homónimo, y en la zona del Abra del Infiernillo.
                     </p>
                     <Link to="/guia" style={{ textDecoration: 'none' }}>
-                        <Boton className="boton" texto="Guia Online" />
+                        <Boton className="boton" texto="Guia Online" color="celeste"/>
                     </Link>
+                </div>
+                <div className="contenedor-mitad">
+                    <img src="" alt="" />
                 </div>
             </div>
 
@@ -100,6 +103,9 @@ export const Principal = () => {
                             <CardSugerencia 
                                 className="contenedor-alerta-card-informacion"
                                 texto="En general las vías son cortas y no superan los 20mt, por lo que una cuerda de 60mt es suficiente para escalar todas las vías. Aun así, se recomienda realizar siempre un nudo en las puntas de la cuerda." />
+                        </div>
+                        <div className="contenedor-principal-fotos">
+                            <img className="seccion-principal-imagen" src={foto1} alt="" />
                         </div>
                     </div>
                 </div>

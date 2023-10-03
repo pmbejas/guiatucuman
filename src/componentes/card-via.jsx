@@ -10,12 +10,12 @@ export const CardVia = (props) => {
             </div>
             <div className="seccion-nombre-via">
                 <p className="nombre-via">{props.nombre}</p>
-                <p className="subtitulo-via">{props.subtitulo}</p>
+                <p className="subtitulo-via">{props.equipadores}</p>
             </div>
             <div className="seccion-datos-via">
                 <p>{props.largo}</p>
-                <p>{props.categoria1}</p>
-                <p className="strong">{props.categoria2}</p>
+                <p>{props.chapas}</p>
+                <p className="strong">{props.grado}</p>
             </div>
         </div>
     )
