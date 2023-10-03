@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/guiatucuman/static/css/main.72f32f1a.css",
-    "main.js": "/guiatucuman/static/js/main.e46cdd45.js",
+    "main.css": "/guiatucuman/static/css/main.cf6da6ce.css",
+    "main.js": "/guiatucuman/static/js/main.216b3302.js",
     "static/media/mogote.png": "/guiatucuman/static/media/mogote.d82411cab4c2a7421fe6.png",
     "static/media/imagen-sector-cuevita-abajo.png": "/guiatucuman/static/media/imagen-sector-cuevita-abajo.e3999bc624c27267d850.png",
     "static/media/imagen-sector-mogote-frente.png": "/guiatucuman/static/media/imagen-sector-mogote-frente.b058a92f434c3aa72d4b.png",
@@ -12,7 +12,14 @@
     "static/media/tafidelvalle.jpg": "/guiatucuman/static/media/tafidelvalle.93b5e412f459b7b5f938.jpg",
     "static/media/corrales-del-infiernillo.png": "/guiatucuman/static/media/corrales-del-infiernillo.87aa528bf686d9b2e305.png",
     "static/media/cuevita.png": "/guiatucuman/static/media/cuevita.87aa528bf686d9b2e305.png",
+    "static/media/mapa-alice-in-boulderland.png": "/guiatucuman/static/media/mapa-alice-in-boulderland.87aa528bf686d9b2e305.png",
+    "static/media/mapa-chivo-berrinche.png": "/guiatucuman/static/media/mapa-chivo-berrinche.87aa528bf686d9b2e305.png",
     "static/media/mapa-corrales-del-infiernillo.png": "/guiatucuman/static/media/mapa-corrales-del-infiernillo.87aa528bf686d9b2e305.png",
+    "static/media/mapa-el-remanso.png": "/guiatucuman/static/media/mapa-el-remanso.87aa528bf686d9b2e305.png",
+    "static/media/mapa-el-rincon.png": "/guiatucuman/static/media/mapa-el-rincon.87aa528bf686d9b2e305.png",
+    "static/media/mapa-los-corpitos.png": "/guiatucuman/static/media/mapa-los-corpitos.87aa528bf686d9b2e305.png",
+    "static/media/mapa-quebrada-del-baron.png": "/guiatucuman/static/media/mapa-quebrada-del-baron.87aa528bf686d9b2e305.png",
+    "static/media/mapa-vias-viejas.png": "/guiatucuman/static/media/mapa-vias-viejas.87aa528bf686d9b2e305.png",
     "static/media/mogote - copia.png": "/guiatucuman/static/media/mogote - copia.87aa528bf686d9b2e305.png",
     "static/media/pasillo.png": "/guiatucuman/static/media/pasillo.87aa528bf686d9b2e305.png",
     "static/media/nosotros.jpg": "/guiatucuman/static/media/nosotros.ce9e8d154a06c7229794.jpg",
@@ -24,11 +31,11 @@
     "static/media/youtube.png": "/guiatucuman/static/media/youtube.7145b3ee9706a0d6ebc7.png",
     "static/media/warning-sign-triangle.png": "/guiatucuman/static/media/warning-sign-triangle.0479ce91487c847ad46f.png",
     "index.html": "/guiatucuman/index.html",
-    "main.72f32f1a.css.map": "/guiatucuman/static/css/main.72f32f1a.css.map",
-    "main.e46cdd45.js.map": "/guiatucuman/static/js/main.e46cdd45.js.map"
+    "main.cf6da6ce.css.map": "/guiatucuman/static/css/main.cf6da6ce.css.map",
+    "main.216b3302.js.map": "/guiatucuman/static/js/main.216b3302.js.map"
   },
   "entrypoints": [
-    "static/css/main.72f32f1a.css",
-    "static/js/main.e46cdd45.js"
+    "static/css/main.cf6da6ce.css",
+    "static/js/main.216b3302.js"
   ]
 }
