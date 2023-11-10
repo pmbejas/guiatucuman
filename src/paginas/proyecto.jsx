@@ -34,7 +34,7 @@ export const Proyecto = () => {
                                     La AAM es un club de montañismo y escalada con sede en Yerba Buena, Tucumán y que posee entre sus bases fundacionales, el deseo de promover y desarrollar ambas actividades. Esta guía nos acerca un poco más a lograr ese objetivo. 
                                 </p>
                                 <p>
-                                    Invitamos a nuestros comprovincianos como así también a quienes nos visiten de otras provincias, a que disfruten  y hagan  uso de esta guía gratuita. Para cualquier sugerencia se solicita comunicarse al siguiente mail.
+                                    Invitamos a nuestros comprovincianos como así también a quienes nos visiten de otras provincias, a que disfruten  y hagan  uso de esta guía gratuita. Para cualquier sugerencia se solicita comunicarse al siguiente mail {<a href="mailto:guiaaamtuc@gmail.com" target="_blank">guiaaamtuc@gmail.com</a>}.
                                 </p>
                                 <p>
                                     No se puede dejar de agradecer, a quienes dedican su tiempo, dinero y esfuerzo para el equipe de nuevas vías, como así también, a quienes aportan a la causa con una ayuda económica.
@@ -52,13 +52,13 @@ export const Proyecto = () => {
                             <h2>Agradecimientos</h2>
                             <p>
                                 A quienes nos precedieron y armaron las guías previas:
-                                Matias Rohmer, Andres Quiroga, Roberto Sanchez, Ulises Saini, Victoria Salvadeo, Jose Gongora……
+                                Matias Rohmer, Andres Quiroga, Roberto Sanchez, Ulises Saini, Victoria Salvadeo, José Góngora
                             </p>
                             <p>
-                                A quienes trabajaron para hacer realidad este proyecto: Pablo Bejas, Jimena Bulacio, Victoria Salvadeo, Aylen Martinez, Ulises Saini, Emiliano Soria Mansilla, Mariano y, Ulises Kusnezov
+                                A quienes trabajaron para hacer realidad este proyecto: Pablo Bejas, Jimena Bulacio, Victoria Salvadeo, Aylen Martinez, Ulises Saini, Emiliano Soria Mansilla, y Ulises Kusnezov
                             </p>
                             <p>
-                                Y por ultimo, a todos los socios de la AAM, por su aporte constante al club.
+                                Y, por supuesto, a todos los socios de la AAM por su aporte constante al club.
                             </p>
                         </div>
                     </div>

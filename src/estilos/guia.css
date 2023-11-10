@@ -1,6 +1,4 @@
 .seccion-titulo-guias {
-    display: flex;
-    flex-direction: column;
     width: 90%;
     background-color: var(--color-fondo);
     padding-bottom: 40px;
@@ -12,12 +10,18 @@
     font-size: 3em;
 }
 
-.seccion-titulo-guias > p {
+.seccion-titulo-guias--texto > p {
     font-size: 1.2em;
     color: var(--color-texto-claro-titulo);
     line-height: 1.7;
-    width: 50%;
     margin-top:10px;
+    text-align: justify;
+}
+
+.imagen-titulo-guia {
+    width: 60%;
+    object-fit: contain;
+    border-radius: 5px;
 }
 
 .separador-guias {
@@ -37,10 +41,12 @@
     
 }
 
-.seccion-zonas-escalada-guias > img {
+.imagen-mapa {
     margin-top: 30px;
     width: 60%;
 }
+
+
 
 .seccion-card-zonas {
     width: 90%;
