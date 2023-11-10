@@ -1,1 +1,11 @@
+.contenedor-footer {
+    display: flex;
+    flex-direction: row;
+    color: var(--color-texto-claro);
+    padding-top: 30px;
+    width: 90%;
+}
 
+.contenedor-footer--columna1 {
+
+}

@@ -3,6 +3,10 @@ import '../estilos/footer.css';
 
 export const Footer = () => {
     return (
-        <div></div>
+        <div className="contenedor-footer">
+            <div className="contenedor-footer--columna1">
+                <h3>Zonas de Escalada</h3>
+            </div>
+        </div>
     )
 }

@@ -4,6 +4,7 @@ import '../estilos/principal.css'
 import { Boton } from "../componentes/boton";
 import { CardSugerencia } from "../componentes/CardSugerencia";
 import foto1 from '../img/principal/principal1.jpg'
+import fotoLateral from '../img/principal/lateralSuperior.jpg';
 export const Principal = () => {
     
     useEffect(()=>{
@@ -30,17 +31,17 @@ export const Principal = () => {
                         Actualmente, esta actividad se encuentra en pleno crecimiento, como en casi todo el norte argentino, gracias a la motivación y compromiso de escaladores, equipadores, escuelas de escalada local y la Asociación Argentina de Montaña (AAM) quienes mediante diversas iniciativas continúan promoviendo el deporte.
                     </p>
                     <p>
-                        En la presente encontrarás no solo información técnica de los sectores y sus vías sino además, y no menos importantes para quienes nos encontramos en esta tarea de divulgacion,  aspectos fundamentales  sobre cómo  desplazarte de manera segura en un ambiente de montaña, donde es preciso  conservar y proteger la biodiversidad en pos de lograr el desarrollo  de una actividad deportiva en armonía con el ambiente.
+                        En la presente encontrarás no solo información técnica de los sectores y sus vías sino además, aspectos fundamentales sobre cómo desplazarte de manera segura en un ambiente de montaña, donde es preciso  conservar y proteger la biodiversidad en pos de lograr el desarrollo  de una actividad deportiva en armonía con el ambiente.
                     </p>
                     <p>
-                        En Tucuman, la escalada se encuentra concentrada en el Dpto. Tafi del Valle, más precisamente en el valle homónimo, y en la zona del Abra del Infiernillo.
+                        En Tucumán, la escalada se encuentra concentrada en el Dpto. Tafi del Valle, más precisamente en el valle homónimo, y en la zona del Abra del Infiernillo.
                     </p>
                     <Link to="/guia" style={{ textDecoration: 'none' }}>
                         <Boton className="boton" texto="Guia Online" color="celeste"/>
                     </Link>
                 </div>
                 <div className="contenedor-mitad">
-                    <img src="" alt="" />
+                    <img className="contenedor-mitad-foto" src={fotoLateral} alt="" />
                 </div>
             </div>
 
@@ -57,11 +58,6 @@ export const Principal = () => {
                             <p>
                                 Los autores de la presenta guia no son responsables del uso incorrecto de la misma, como tampoco de los incidentes o accidentes que puedan ocurrir practicando la actividad. La escalada es un deporte de riesgo y esta  guia debe usarse solamente como fuente de informacion recayendo la responsabilidad y la seguridad de la escalada, en quienes la practiquen.
                             </p>
-                            <div className="link-alerta-guias">
-                                <Link to="/guias-titulados" style={{ textDecoration: 'none' }}>
-                                    Ver Guías Titulados
-                                </Link>
-                            </div>
                         </div>
                         <div className="seccion-alerta-card-informacion">
                             <CardSugerencia 
@@ -105,7 +101,7 @@ export const Principal = () => {
                                 texto="En general las vías son cortas y no superan los 20mt, por lo que una cuerda de 60mt es suficiente para escalar todas las vías. Aun así, se recomienda realizar siempre un nudo en las puntas de la cuerda." />
                         </div>
                         <div className="contenedor-principal-fotos">
-                            <img className="seccion-principal-imagen" src={foto1} alt="" />
+                            <img className="contenedor-mitad-foto" src={foto1} alt="" />
                         </div>
                     </div>
                 </div>

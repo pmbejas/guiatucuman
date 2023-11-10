@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import '../estilos/navbar.css'
+import logoAAM from '../img/iconos/logoAAM.svg'
 
 export const NavBar = (props) => {
     const [zonas, setZonas] = useState([]);
@@ -66,6 +67,13 @@ export const NavBar = (props) => {
             <div className="seccion-barra barra3">
                 {/* <Boton 
                     texto="Doná" /> */}
+                <a href="https://www.aamtuc.org"
+                   target="_blank"
+                   rel="noreferrer noopener">
+                    <img className="imagen-redes-sociales logoAAM" 
+                         src={logoAAM}
+                         alt="Canal de Youtube" />   
+                </a>
                 <a href="https://www.youtube.com/@asociacionargentinademonta9143"
                    target="_blank"
                    rel="noreferrer noopener">
