@@ -38,11 +38,14 @@ export const Zona = (props) => {
         }
 
         fetchZona();
-        /* window.scrollTo({
+    }, [slug, props]);
+
+    useEffect(()=>{
+        window.scrollTo({
             top: 0,
             behavior: 'smooth'
-          }); */
-    }, [slug, props]);
+        });
+    }, []);
 
     return (
         <div className="contenedor">
@@ -52,7 +55,7 @@ export const Zona = (props) => {
             </div>
             <div className="contenedor-contenido-zonas">
                 <div className="seccion-acceso-zonas">
-                    {error === "" && <img src={require(`../img/zonas/mapa-${slug}.png`)} alt="" />}
+                    {error === "" && <img src={require(`../img/zonas/mapa-${slug}.jpg`)} alt="" />}
                     <div className="seccion-texto-acceso-zonas">
                         <h2>Como Llegar</h2>
                         {error === "" &&  <p>{parse(zonas.llegar)}</p>}

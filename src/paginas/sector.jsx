@@ -26,11 +26,14 @@ export const Sector = (props) => {
         }
 
         getSector();
-        /* window.scrollTo({
+    }, [slug,props]);
+
+    useEffect(()=>{
+        window.scrollTo({
             top: 0,
             behavior: 'smooth'
-          }); */
-    }, [slug,props]);
+        });
+    }, []);
 
     return (
         <div className="contenedor">
@@ -46,7 +49,7 @@ export const Sector = (props) => {
                 <div className="seccion-vias-sector">
                     <div className="seccion-imagenes-vias-sector">
                         { sector.imagenSector && sector.imagenSector.length>0 && sector.imagenSector.map((item, index)=> (
-                            <img src={require(`../img/zonas/imagen-sector-${item.nombreImagen}.png`)} alt="" />) 
+                            <img src={require(`../img/zonas/${item.nombreImagen}.jpg`)} alt="" />) 
                         )}
                     </div>
                     <div className="seccion-listado-vias-sector">
@@ -61,7 +64,7 @@ export const Sector = (props) => {
                 </div>
                 <div className="contenedor-seccion-acceso-sector" id="como-llegar">
                     <div className="seccion-acceso-sector">
-                        {error === "" && <img src={require(`../img/zonas/mapa-${sector.imagenLlegar}.png`)} alt="" />}
+                        {error === "" && <img src={require(`../img/zonas/mapa-${sector.imagenLlegar}.jpg`)} alt="" />}
                         <div className="seccion-texto-acceso-sector">
                             <h2>Como Llegar</h2>
                             {error === "" &&  <p>{parse(sector.llegar)}</p>}
