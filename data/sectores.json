@@ -7,7 +7,7 @@
         "nombre" : "Pasillo",
         "slug":"pasillo",
         "subtitulo" : "2 vías 6a",
-        "imagen" : "pasillo",
+        "imagen" : "pasillo-general",
         "imagenSector": 
             [ {
                 "nombreImagen": "pasillo"
@@ -46,7 +46,7 @@
         "nombre" : "Mogote",
         "slug":"mogote",
         "subtitulo" : "3 vías entre 6a+ y 6c",
-        "imagen" : "mogote",
+        "imagen" : "mogote-general",
         "imagenSector": 
         [ 
             {
@@ -97,7 +97,7 @@
         "nombre" : "Cuevita",
         "slug":"cuevita",
         "subtitulo" : "3 vías entre 5+ y 7a+",
-        "imagen" : "mogote",
+        "imagen" : "cuevita-general",
         "imagenSector": 
         [ 
             {
@@ -159,7 +159,7 @@
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "el-rincon",
         "imagenMapa": "",
         "descripcion": "5 vías entre 4+ y 7b+ | mts",
         "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
@@ -223,7 +223,7 @@
         "nombre" : "Placas Naranjas",
         "slug":"placas-naranjas",
         "subtitulo" : "5 vías entre 6a+ y 7c",
-        "imagen" : "mogote",
+        "imagen" : "placas-naranjas-general",
         "imagenSector": 
         [ 
             {
@@ -234,7 +234,7 @@
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "el-rincon",
         "imagenMapa": "",
         "descripcion": "5 vías entre 6a+ y 7c | mts",
         "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
@@ -290,7 +290,7 @@
         "nombre" : "La Calavera",
         "slug":"la-calavera",
         "subtitulo" : "7 vías entre 5+ y 6c+",
-        "imagen" : "mogote",
+        "imagen" : "la-calavera-general",
         "imagenSector": 
         [ 
             {
@@ -301,7 +301,7 @@
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "el-rincon",
         "imagenMapa": "",
         "descripcion": "7 vías entre 5+ y 6c+ | mts",
         "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
@@ -373,7 +373,7 @@
         "nombre" : "Meteorito",
         "slug":"meteorito",
         "subtitulo" : "7 vías entre 5 y 8a",
-        "imagen" : "mogote",
+        "imagen" : "meteorito-general",
         "imagenSector": 
         [ 
             {
@@ -384,7 +384,7 @@
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "el-rincon",
         "imagenMapa": "",
         "descripcion": "7 vías entre 5 y 8a | mts",
         "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
@@ -456,7 +456,7 @@
         "nombre" : "La Quebrada (Sector Escuela)",
         "slug":"la-quebrada-sector-escuela",
         "subtitulo" : "8 vías entre 5+ y 6b",
-        "imagen" : "mogote",
+        "imagen" : "sector-escuela-general",
         "imagenSector": 
         [ 
             {
@@ -467,7 +467,7 @@
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "el-rincon",
         "imagenMapa": "",
         "descripcion": "8 vías entre 5+ y 6b | mts",
         "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
@@ -547,7 +547,7 @@
         "nombre" : "El Peñon / La Varita",
         "slug":"el-penon-la-varita",
         "subtitulo" : "9 vías entre 5b y 7c",
-        "imagen" : "mogote",
+        "imagen" : "el-penon-general",
         "imagenSector": 
         [ 
             {
@@ -558,7 +558,7 @@
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "el-rincon",
         "imagenMapa": "",
         "descripcion": "9 vías entre 5b y 7c | 23 mts",
         "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
@@ -646,7 +646,7 @@
         "nombre" : "La Bomba",
         "slug":"la-bomba",
         "subtitulo" : "6 vías entre 6b y 7b",
-        "imagen" : "mogote",
+        "imagen" : "la-bomba-general",
         "imagenSector": 
         [ 
             {
@@ -657,7 +657,7 @@
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "el-rincon",
         "imagenMapa": "",
         "descripcion": "6 vías entre 6b y 7b | mts",
         "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
@@ -721,7 +721,7 @@
         "nombre" : "El Corral",
         "slug":"el-corral",
         "subtitulo" : "9 vías entre 6b y 7b+",
-        "imagen" : "mogote",
+        "imagen" : "el-corral-general",
         "imagenSector": 
         [ 
             {
@@ -732,7 +732,7 @@
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "el-rincon",
         "imagenMapa": "",
         "descripcion": "9 vías entre 6b y 7b+ | mts",
         "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
@@ -820,7 +820,7 @@
         "nombre" : "Placas Negras",
         "slug":"placas-negras",
         "subtitulo" : "4 vías entre 6a y 6b+",
-        "imagen" : "mogote",
+        "imagen" : "placas-negras-general",
         "imagenSector": 
         [ 
             {
@@ -831,7 +831,7 @@
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "el-rincon",
         "imagenMapa": "",
         "descripcion": "4 vías entre 6a y 6b+ | mts",
         "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
@@ -879,18 +879,15 @@
         "nombre" : "Izquierda",
         "slug":"izquierda",
         "subtitulo" : "2 vías entre 7b y 7b+",
-        "imagen" : "mogote",
+        "imagen" : "izquierda-general",
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
-            },
-            {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-izquierda"
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "el-remanso",
         "imagenMapa": "",
         "descripcion": "2 vías entre 7b y 7b+ | 15mts",
         "llegar": "Desde El Mollar se debe seguir la ruta 325 hacia Tafí del Valle y a pocos metros de donde finaliza el poblado de el Rincón, luego de pasar una casa donde fabrican adobes (adobera Ibañez) y sobre la curva, se encuentra el estacionamiento.  Existe una gruta de la Virgen del Valle al otro lado de la ruta y  se debe caminar 5 minutos siguiendo el sendero hacia arriba por la margen derecha (N) de la quebrada.",
@@ -922,18 +919,15 @@
         "nombre" : "Derecha",
         "slug":"derecha",
         "subtitulo" : "3 vías entre 6a+ y 6c",
-        "imagen" : "mogote",
+        "imagen" : "derecha-general",
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
-            },
-            {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-derecha"
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "el-remanso",
         "imagenMapa": "",
         "descripcion": "3 vías entre 6a+ y 6c | 22mts",
         "llegar": "Desde El Mollar se debe seguir la ruta 325 hacia Tafí del Valle y a pocos metros de donde finaliza el poblado de el Rincón, luego de pasar una casa donde fabrican adobes (adobera Ibañez) y sobre la curva, se encuentra el estacionamiento.  Existe una gruta de la Virgen del Valle al otro lado de la ruta y  se debe caminar 5 minutos siguiendo el sendero hacia arriba por la margen derecha (N) de la quebrada.",
@@ -970,23 +964,26 @@
         "idZona": 5,
         "nombreZona": "Vías Viejas",
         "slugZona": "vias-viejas",
-        "nombre" : "Sector Único",
-        "slug":"sector-unico",
-        "subtitulo" : "5 vías entre 5 y 8a",
-        "imagen" : "mogote",
+        "nombre" : "Vias Viejas",
+        "slug":"vias-viejas",
+        "subtitulo" : "4 vías entre 5 y 8a",
+        "imagen" : "vias-viejas-sector-general",
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
+                "nombreImagen": "vias-viejas-sector1"
             },
             {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-viejas-sector2"
+            },
+            {
+                "nombreImagen": "vias-viejas-sector3"
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "vias-viejas",
         "imagenMapa": "",
-        "descripcion": "5 vías entre 5 y 8a | 12mts",
+        "descripcion": "4 vías entre 5 y 8a | 12mts",
         "llegar": "Lo mas recomendable es acceder desde Tafí del Valle siguiendo la ruta 325. En el barrio Rodeo Grande, a la altura de la capilla San Isidro Labrador, se debe doblar hacia las laderas del  Cerro Muñoz (hacia la derecha) y se continúa por un camino interno hasta donde finaliza el mismo, justo sobre un arroyo. Desde este punto, se cruza una tranquera y se  continúa caminando  por la quebrada hasta  llegar a las vías.",
         "vias": 
         [
@@ -1021,14 +1018,6 @@
                 "chapas": "6+2",
                 "grado": "6c+",
                 "observaciones":""
-            },
-            {
-                "nombre": "??",
-                "equipadores": "",
-                "largo": "12m",
-                "chapas": "",
-                "grado": "5",
-                "observaciones":""
             }
         ]
     },
@@ -1040,18 +1029,15 @@
         "nombre" : "Depo",
         "slug":"depo",
         "subtitulo" : "2 vías entre 6c y 6c+",
-        "imagen" : "mogote",
+        "imagen" : "depo-general",
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
-            },
-            {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-depo"
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "quebrada-del-baron",
         "imagenMapa": "",
         "descripcion": "2 vías entre 6c y 6c+ | 20mts",
         "llegar": "Desde Tafí del Valle se debe seguir la ruta 307 hacia el Abra del Infiernillo. Unos kilómetros antes de llegar a este último, se encuentra la entrada al P.P.C.C donde existe una construcción. Desde allí se debe caminar aproximadamente 1:30 hr para llegar al sector de escalada deportiva, pasando primero por el puesto de la familia Diaz. Desde la casa, se debe seguir el río por su margen derecha hasta llegar a las vías. Para llegar al Rocódromo, se debe continuar quebrada arriba (3 horas de caminata).",
@@ -1083,18 +1069,18 @@
         "nombre" : "Rocodromo",
         "slug":"rocodromo",
         "subtitulo" : "3 vías entre 5 y 5+",
-        "imagen" : "mogote",
+        "imagen" : "rocodromo-general",
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
+                "nombreImagen": "vias-rocodromo1"
             },
             {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-rocodromo1"
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "quebrada-del-baron",
         "imagenMapa": "",
         "descripcion": "3 vías entre 5 y 5+ | 20mts",
         "llegar": "Desde Tafí del Valle se debe seguir la ruta 307 hacia el Abra del Infiernillo. Unos kilómetros antes de llegar a este último, se encuentra la entrada al P.P.C.C donde existe una construcción. Desde allí se debe caminar aproximadamente 1:30 hr para llegar al sector de escalada deportiva, pasando primero por el puesto de la familia Diaz. Desde la casa, se debe seguir el río por su margen derecha hasta llegar a las vías. Para llegar al Rocódromo, se debe continuar quebrada arriba (3 horas de caminata).",
@@ -1134,18 +1120,15 @@
         "nombre" : "El Coimero",
         "slug":"el-coimero",
         "subtitulo" : "4 vías entre 6a+ y 7c",
-        "imagen" : "mogote",
+        "imagen" : "el-coimero-general",
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
-            },
-            {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-el-coimero"
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "chivo-berrinche",
         "imagenMapa": "",
         "descripcion": "4 vías entre 6a+ y 7c | mts",
         "llegar": "Desde Tafí del valle se toma el camino hacia el barrio Ojo de Agua, pasando cerca del cementerio y siguiendo el Dique La Angostura por su margen oeste hacia Casas Viejas (en la ruta 307, existe como referencia el cartel que indica el camino hacia Casas Viejas). En el punto marcado, se puede doblar a la derecha y continuar  por una huella vehicular que llega muy  cerca del sector. Desde allí, solo resta seguir el sendero por 5 minutos y cruzar una tranquera para llegar a las vías.",
@@ -1204,7 +1187,7 @@
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "chivo-berrinche",
         "imagenMapa": "",
         "descripcion": "2 vías entre 6a y 6b+ | mts",
         "llegar": "Desde Tafí del valle se toma el camino hacia el barrio Ojo de Agua, pasando cerca del cementerio y siguiendo el Dique La Angostura por su margen oeste hacia Casas Viejas (en la ruta 307, existe como referencia el cartel que indica el camino hacia Casas Viejas). En el punto marcado, se puede doblar a la derecha y continuar  por una huella vehicular que llega muy  cerca del sector. Desde allí, solo resta seguir el sendero por 5 minutos y cruzar una tranquera para llegar a las vías.",
@@ -1233,10 +1216,10 @@
         "idZona": 6,
         "nombreZona": "Chivo Berrinche",
         "slugZona": "chivo-berrinche",
-        "nombre" : "Sin Nombre",
-        "slug":"sin-nombre",
+        "nombre" : "El Chivo",
+        "slug":"el-chivo",
         "subtitulo" : "12 vías entre 5+ y 8a",
-        "imagen" : "mogote",
+        "imagen" : "el-chivo-general",
         "imagenSector": 
         [ 
             {
@@ -1247,7 +1230,7 @@
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "chivo-berrinche",
         "imagenMapa": "",
         "descripcion": "12 vías entre 5+ y 8a | mts",
         "llegar": "Desde Tafí del valle se toma el camino hacia el barrio Ojo de Agua, pasando cerca del cementerio y siguiendo el Dique La Angostura por su margen oeste hacia Casas Viejas (en la ruta 307, existe como referencia el cartel que indica el camino hacia Casas Viejas). En el punto marcado, se puede doblar a la derecha y continuar  por una huella vehicular que llega muy  cerca del sector. Desde allí, solo resta seguir el sendero por 5 minutos y cruzar una tranquera para llegar a las vías.",
@@ -1359,7 +1342,7 @@
         "nombre" : "Escuelita",
         "slug":"escuelita",
         "subtitulo" : "6 vías entre 5+ y 6c",
-        "imagen" : "mogote",
+        "imagen" : "escuelita-general",
         "imagenSector": 
         [ 
             {
@@ -1370,7 +1353,7 @@
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "los-corpitos",
         "imagenMapa": "",
         "descripcion": "6 vías entre 5+ y 6c | mts",
         "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
@@ -1434,7 +1417,7 @@
         "nombre" : "El Paraíso",
         "slug":"el-paraiso",
         "subtitulo" : "11 vías entre 5+ y 7b",
-        "imagen" : "mogote",
+        "imagen" : "el-paraiso-general",
         "imagenSector": 
         [ 
             {
@@ -1445,7 +1428,7 @@
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "los-corpitos",
         "imagenMapa": "",
         "descripcion": "11 vías entre 5+ y 7b | mts",
         "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
@@ -1549,7 +1532,7 @@
         "nombre" : "El Averno",
         "slug":"el-averno",
         "subtitulo" : "7 vías entre 5 y 7a+",
-        "imagen" : "mogote",
+        "imagen" : "el-averno-general",
         "imagenSector": 
         [ 
             {
@@ -1560,7 +1543,7 @@
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "los-corpitos",
         "imagenMapa": "",
         "descripcion": "7 vías entre 5 y 7a+ | mts",
         "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
@@ -1632,7 +1615,7 @@
         "nombre" : "Del Río",
         "slug":"del-rio",
         "subtitulo" : "2 vías entre 6b y 6b+",
-        "imagen" : "mogote",
+        "imagen" : "del-rio-general",
         "imagenSector": 
         [ 
             {
@@ -1643,7 +1626,7 @@
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "los-corpitos",
         "imagenMapa": "",
         "descripcion": "2 vías entre 6b y 6b+ | mts",
         "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
@@ -1675,7 +1658,7 @@
         "nombre" : "El Purgatorio (Entrada)",
         "slug":"el-purgatorio-entrada",
         "subtitulo" : "2 vías entre 5 y 6b+",
-        "imagen" : "mogote",
+        "imagen" : "el-purgatorio-entrada-general",
         "imagenSector": 
         [ 
             {
@@ -1686,7 +1669,7 @@
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "los-corpitos",
         "imagenMapa": "",
         "descripcion": "2 vías entre 5 y 6b+ | mts",
         "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
@@ -1718,7 +1701,7 @@
         "nombre" : "El Purgatorio (Chimenea)",
         "slug":"el-purgatorio-chimenea",
         "subtitulo" : "7 vías entre 6a y 7a",
-        "imagen" : "mogote",
+        "imagen" : "el-purgatorio-chimenea-general",
         "imagenSector": 
         [ 
             {
@@ -1729,7 +1712,7 @@
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "los-corpitos",
         "imagenMapa": "",
         "descripcion": "7 vías entre 6a y 7a | mts",
         "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
@@ -1801,7 +1784,7 @@
         "nombre" : "El Purgatorio (Pared Chocolate)",
         "slug":"el-purgatorio-pared-chocolate",
         "subtitulo" : "4 vías entre 6b y 6c+",
-        "imagen" : "mogote",
+        "imagen" : "el-purgatorio-pared-chocolate-general",
         "imagenSector": 
         [ 
             {
@@ -1812,7 +1795,7 @@
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "los-corpitos",
         "imagenMapa": "",
         "descripcion": "4 vías entre 6b y 6c+ | mts",
         "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
@@ -1860,7 +1843,7 @@
         "nombre" : "El Purgatorio (Nariz Izquierda)",
         "slug":"el-purgatorio-nariz-izquierda",
         "subtitulo" : "2 vías entre 6a y 6b/+",
-        "imagen" : "mogote",
+        "imagen" : "el-purgatorio-nariz-izquierda-general",
         "imagenSector": 
         [ 
             {
@@ -1871,7 +1854,7 @@
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "los-corpitos",
         "imagenMapa": "",
         "descripcion": "2 vías entre 6a y 6b/ | mts",
         "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
@@ -1901,9 +1884,9 @@
         "nombreZona": "Los Corpitos",
         "slugZona": "los-corpitos",
         "nombre" : "El Purgatorio (Nariz Frente)",
-        "slug":"el-purgatorio-nariz-Frente",
+        "slug":"el-purgatorio-nariz-frente",
         "subtitulo" : "1 vía de 7a+/b",
-        "imagen" : "mogote",
+        "imagen" : "el-purgatorio-nariz-frente-general",
         "imagenSector": 
         [ 
             {
@@ -1914,7 +1897,7 @@
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "los-corpitos",
         "imagenMapa": "",
         "descripcion": "1 vía de 7a+/b | mts",
         "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
@@ -1938,7 +1921,7 @@
         "nombre" : "El Purgatorio (Pared de la X)",
         "slug":"el-purgatorio-pared-de-la-x",
         "subtitulo" : "4 vías entre 6a y 6a+",
-        "imagen" : "mogote",
+        "imagen" : "el-purgatorio-pared-de-la-x-general",
         "imagenSector": 
         [ 
             {
@@ -1949,7 +1932,66 @@
             }
         ],
         "imagen3": "",
-        "imagenLlegar": "corrales-del-infiernillo",
+        "imagenLlegar": "los-corpitos",
+        "imagenMapa": "",
+        "descripcion": "4 vías entre 6a y 6a+ | mts",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "vias": 
+        [
+            {
+                "nombre": "Efecto Mariposa",
+                "equipadores": "Roberto Sanchez, Ulises Saini",
+                "largo": "m",
+                "chapas": "6+2",
+                "grado": "6a",
+                "observaciones":""
+            },
+            {
+                "nombre": "La Adherencia en lo Pies",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "5+2",
+                "grado": "6a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Mañeros Old School",
+                "equipadores": "Roberto Sanchez",
+                "largo": "m",
+                "chapas": "5+2",
+                "grado": "6a/+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Ensayo sobre la Frustración",
+                "equipadores": "Roberto Sanchez, Ulises Saini",
+                "largo": "m",
+                "chapas": "8+2",
+                "grado": "6a",
+                "observaciones":""
+            }   
+        ]
+    },
+    {
+        "id" : 30,
+        "idZona": 8,
+        "nombreZona": "Alice in Boulderland",
+        "slugZona": "alice-in-boulderland",
+        "nombre" : "Alice",
+        "slug":"alice",
+        "subtitulo" : "4 vías entre 6a y 6a+",
+        "imagen" : "alice-general",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "cuevita-abajo"
+            },
+            {
+                "nombreImagen": "cuevita-arriba"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "alice-in-boulderland",
         "imagenMapa": "",
         "descripcion": "4 vías entre 6a y 6a+ | mts",
         "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
