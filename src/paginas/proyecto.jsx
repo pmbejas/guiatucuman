@@ -34,13 +34,33 @@ export const Proyecto = () => {
                                     La AAM es un club de montañismo y escalada con sede en Yerba Buena, Tucumán y que posee entre sus bases fundacionales, el deseo de promover y desarrollar ambas actividades. Esta guía nos acerca un poco más a lograr ese objetivo. 
                                 </p>
                                 <p>
-                                    Invitamos a nuestros comprovincianos como así también a quienes nos visiten de otras provincias, a que disfruten  y hagan  uso de esta guía gratuita. Para cualquier sugerencia se solicita comunicarse al siguiente mail {<a href="mailto:guiaaamtuc@gmail.com" target="_blank">guiaaamtuc@gmail.com</a>}.
+                                    Invitamos a nuestros comprovincianos como así también a quienes nos visiten de otras provincias, a que disfruten  y hagan  uso de esta guía gratuita. Para cualquier sugerencia se solicita comunicarse al siguiente mail {<a href="mailto:guiaaamtuc@gmail.com" target="_blank" rel="noreferrer">guiaaamtuc@gmail.com</a>}.
                                 </p>
                                 <p>
                                     No se puede dejar de agradecer, a quienes dedican su tiempo, dinero y esfuerzo para el equipe de nuevas vías, como así también, a quienes aportan a la causa con una ayuda económica.
                                 </p>
                                 <p>
                                     Cabe destacar que esta guía no sería realidad sin el gran aporte de Pablo Bejas, como así también, sin el aporte de información de quienes nos precedieron en el armado de guías previas, teniendo como referencia la creada en el año 2018 por Matias Rohmer y Andres Quiroga
+                                </p>
+                                <p>
+                                    Si desea Realizar escalada indoor en Tucumán, las palestras son:
+                                    <ul>
+                                        <li>
+                                            A.A.M. - Salas y Valez 236 - Yerba Buena
+                                        </li>
+                                        <li>
+                                            Mas Alto - Av. Pte. Perón 1000 - Yerba Buena
+                                        </li>
+                                        <li>
+                                            Punto Rojo - Dean Funes 50
+                                        </li>
+                                        <li>
+                                            El Trepe - Jose Colombres 89
+                                        </li>
+                                        <li>
+                                            El Muro - Thames 212
+                                        </li>
+                                    </ul>
                                 </p>
                             </div>
                         </div>
@@ -55,7 +75,7 @@ export const Proyecto = () => {
                                 Matias Rohmer, Andres Quiroga, Roberto Sanchez, Ulises Saini, Victoria Salvadeo, José Góngora
                             </p>
                             <p>
-                                A quienes trabajaron para hacer realidad este proyecto: Pablo Bejas, Jimena Bulacio, Victoria Salvadeo, Aylen Martinez, Ulises Saini, Emiliano Soria Mansilla, y Ulises Kusnezov
+                                A quienes trabajaron para hacer realidad este proyecto: Pablo Bejas, Aylén Martínez, Jimena Bulacio, Victoria Salvadeo, Ulises Saini, Emiliano Soria Mansilla, y Ulises Kusnezov
                             </p>
                             <p>
                                 Y, por supuesto, a todos los socios de la AAM por su aporte constante al club.

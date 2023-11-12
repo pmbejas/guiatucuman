@@ -38,8 +38,9 @@
     gap: 30px;
 }
 
-.seccion-imagenes-vias-sector > img {
+.seccion-imagenes-vias-sector-imagen {
     width: 90%;
+    object-fit: contain;
 }
 
 .seccion-imagenes-vias-sector {

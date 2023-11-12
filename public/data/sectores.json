@@ -148,7 +148,7 @@
         "nombre" : "Nido de Águila (La Proa)",
         "slug":"nido-de-aguila-la-proa",
         "subtitulo" : "5 vías entre 4+ y 7b+",
-        "imagen" : "mogote",
+        "imagen" : "nido-de-aguila-la-proa-general",
         "imagenSector": 
         [ 
             {
@@ -227,10 +227,10 @@
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
+                "nombreImagen": "vias-placas-naranjas1"
             },
             {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-placas-naranjas2"
             }
         ],
         "imagen3": "",
@@ -294,10 +294,13 @@
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
+                "nombreImagen": "vias-la-calavera1"
             },
             {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-la-calavera2"
+            },
+            {
+                "nombreImagen": "vias-la-calavera3"
             }
         ],
         "imagen3": "",
@@ -377,10 +380,7 @@
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
-            },
-            {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-meteorito"
             }
         ],
         "imagen3": "",
@@ -460,10 +460,7 @@
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
-            },
-            {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-sector-escuela"
             }
         ],
         "imagen3": "",
@@ -650,10 +647,7 @@
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
-            },
-            {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-la-bomba"
             }
         ],
         "imagen3": "",
@@ -725,10 +719,7 @@
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
-            },
-            {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-el-corral"
             }
         ],
         "imagen3": "",
@@ -824,10 +815,7 @@
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
-            },
-            {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-placas-negras"
             }
         ],
         "imagen3": "",
@@ -1124,7 +1112,10 @@
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "vias-el-coimero"
+                "nombreImagen": "vias-el-coimero1"
+            },
+            {
+                "nombreImagen": "vias-el-coimero2"
             }
         ],
         "imagen3": "",
@@ -1216,10 +1207,10 @@
         "idZona": 6,
         "nombreZona": "Chivo Berrinche",
         "slugZona": "chivo-berrinche",
-        "nombre" : "El Chivo",
-        "slug":"el-chivo",
+        "nombre" : "El Chivo (Vías)",
+        "slug":"el-chivo-vias",
         "subtitulo" : "12 vías entre 5+ y 8a",
-        "imagen" : "el-chivo-general",
+        "imagen" : "el-chivo-vias-general",
         "imagenSector": 
         [ 
             {
@@ -1285,38 +1276,6 @@
                 "observaciones":""
             },
             {
-                "nombre": "Baticueva Boulder",
-                "equipadores": "",
-                "largo": "m",
-                "chapas": "",
-                "grado": "6b",
-                "observaciones":""
-            },
-            {
-                "nombre": "Grieta Horizontal Boulder",
-                "equipadores": "",
-                "largo": "m",
-                "chapas": "",
-                "grado": "6a",
-                "observaciones":""
-            },
-            {
-                "nombre": "La Muelita Boulder",
-                "equipadores": "",
-                "largo": "m",
-                "chapas": "",
-                "grado": "6a",
-                "observaciones":""
-            },
-            {
-                "nombre": "China Boulder",
-                "equipadores": "",
-                "largo": "m",
-                "chapas": "",
-                "grado": "7a",
-                "observaciones":""
-            },
-            {
                 "nombre": "Espolón Recargado",
                 "equipadores": "",
                 "largo": "m",
@@ -1336,6 +1295,103 @@
     },
     {
         "id" : 21,
+        "idZona": 6,
+        "nombreZona": "Chivo Berrinche",
+        "slugZona": "chivo-berrinche",
+        "nombre" : "El Chivo (Boulder)",
+        "slug":"el-chivo-boulder",
+        "subtitulo" : "12 vías entre 5+ y 8a",
+        "imagen" : "el-chivo-boulder-general",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "vias-el-chivo-boulder1"
+            },
+            {
+                "nombreImagen": "vias-el-chivo-boulder2"
+            },
+            {
+                "nombreImagen": "vias-el-chivo-boulder3"
+            },
+            {
+                "nombreImagen": "vias-el-chivo-boulder4"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "chivo-berrinche",
+        "imagenMapa": "",
+        "descripcion": "12 vías entre 5+ y 8a | mts",
+        "llegar": "Desde Tafí del valle se toma el camino hacia el barrio Ojo de Agua, pasando cerca del cementerio y siguiendo el Dique La Angostura por su margen oeste hacia Casas Viejas (en la ruta 307, existe como referencia el cartel que indica el camino hacia Casas Viejas). En el punto marcado, se puede doblar a la derecha y continuar  por una huella vehicular que llega muy  cerca del sector. Desde allí, solo resta seguir el sendero por 5 minutos y cruzar una tranquera para llegar a las vías.",
+        "vias": 
+        [
+            {
+                "nombre": "Pa Calentar",
+                "equipadores": "",
+                "largo": "BOULDER",
+                "chapas": "",
+                "grado": "5",
+                "observaciones":""
+            },
+            {
+                "nombre": "Baticueva",
+                "equipadores": "",
+                "largo": "Boulder",
+                "chapas": "",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Premolar",
+                "equipadores": "",
+                "largo": "BOULDER",
+                "chapas": "",
+                "grado": "6a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "La Muelita",
+                "equipadores": "",
+                "largo": "BOULDER",
+                "chapas": "",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Mel Patiño",
+                "equipadores": "",
+                "largo": "BOULDER",
+                "chapas": "",
+                "grado": "6a",
+                "observaciones":""
+            },
+            {
+                "nombre": "Ken Brockman",
+                "equipadores": "",
+                "largo": "BOULDER",
+                "chapas": "",
+                "grado": "6a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Grieta Horizontal",
+                "equipadores": "",
+                "largo": "BOULDER",
+                "chapas": "",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "China",
+                "equipadores": "",
+                "largo": "BOULDER",
+                "chapas": "",
+                "grado": "6c",
+                "observaciones":""
+            }
+        ]
+    },
+    {
+        "id" : 22,
         "idZona": 4,
         "nombreZona": "Los Corpitos",
         "slugZona": "los-corpitos",
@@ -1346,10 +1402,10 @@
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
+                "nombreImagen": "vias-escuelita1"
             },
             {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-escuelita2"
             }
         ],
         "imagen3": "",
@@ -1410,7 +1466,7 @@
         ]
     },
     {
-        "id" : 22,
+        "id" : 23,
         "idZona": 4,
         "nombreZona": "Los Corpitos",
         "slugZona": "los-corpitos",
@@ -1421,10 +1477,7 @@
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
-            },
-            {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-el-paraiso"
             }
         ],
         "imagen3": "",
@@ -1525,7 +1578,7 @@
         ]
     },
     {
-        "id" : 23,
+        "id" : 24,
         "idZona": 4,
         "nombreZona": "Los Corpitos",
         "slugZona": "los-corpitos",
@@ -1536,10 +1589,7 @@
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
-            },
-            {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-el-averno"
             }
         ],
         "imagen3": "",
@@ -1608,7 +1658,7 @@
         ]
     },
     {
-        "id" : 24,
+        "id" : 25,
         "idZona": 4,
         "nombreZona": "Los Corpitos",
         "slugZona": "los-corpitos",
@@ -1651,7 +1701,7 @@
         ]
     },
     {
-        "id" : 25,
+        "id" : 26,
         "idZona": 4,
         "nombreZona": "Los Corpitos",
         "slugZona": "los-corpitos",
@@ -1662,10 +1712,7 @@
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
-            },
-            {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-el-purgatorio-entrada"
             }
         ],
         "imagen3": "",
@@ -1694,7 +1741,7 @@
         ]
     },
     {
-        "id" : 26,
+        "id" : 27,
         "idZona": 4,
         "nombreZona": "Los Corpitos",
         "slugZona": "los-corpitos",
@@ -1705,10 +1752,10 @@
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
+                "nombreImagen": "vias-el-purgatorio-chimenea1"
             },
             {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-el-purgatorio-chimenea2"
             }
         ],
         "imagen3": "",
@@ -1777,7 +1824,7 @@
         ]
     },
     {
-        "id" : 27,
+        "id" : 28,
         "idZona": 4,
         "nombreZona": "Los Corpitos",
         "slugZona": "los-corpitos",
@@ -1788,10 +1835,7 @@
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
-            },
-            {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-el-purgatorio-pared-chocolate"
             }
         ],
         "imagen3": "",
@@ -1836,7 +1880,7 @@
         ]
     },
     {
-        "id" : 28,
+        "id" : 29,
         "idZona": 4,
         "nombreZona": "Los Corpitos",
         "slugZona": "los-corpitos",
@@ -1847,10 +1891,7 @@
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
-            },
-            {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-el-purgatorio-nariz-izquierda"
             }
         ],
         "imagen3": "",
@@ -1879,7 +1920,7 @@
         ]
     },
     {
-        "id" : 28,
+        "id" : 30,
         "idZona": 4,
         "nombreZona": "Los Corpitos",
         "slugZona": "los-corpitos",
@@ -1890,10 +1931,7 @@
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
-            },
-            {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-el-purgatorio-nariz-frente"
             }
         ],
         "imagen3": "",
@@ -1914,7 +1952,7 @@
         ]
     },
     {
-        "id" : 29,
+        "id" : 31,
         "idZona": 4,
         "nombreZona": "Los Corpitos",
         "slugZona": "los-corpitos",
@@ -1925,10 +1963,7 @@
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
-            },
-            {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-el-purgatorio-pared-de-la-x"
             }
         ],
         "imagen3": "",
@@ -1973,21 +2008,33 @@
         ]
     },
     {
-        "id" : 30,
+        "id" : 32,
         "idZona": 8,
         "nombreZona": "Alice in Boulderland",
         "slugZona": "alice-in-boulderland",
-        "nombre" : "Alice",
-        "slug":"alice",
+        "nombre" : "Alice (Vías)",
+        "slug":"alice-in-boulderland-vias",
         "subtitulo" : "4 vías entre 6a y 6a+",
-        "imagen" : "alice-general",
+        "imagen" : "alice-in-boulderland-vias-general",
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
+                "nombreImagen": "vias-alice-in-boulderland-vias1"
             },
             {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-alice-in-boulderland-vias2"
+            },
+            {
+                "nombreImagen": "vias-alice-in-boulderland-vias3"
+            },
+            {
+                "nombreImagen": "vias-alice-in-boulderland-vias4"
+            },
+            {
+                "nombreImagen": "vias-alice-in-boulderland-vias5"
+            },
+            {
+                "nombreImagen": "vias-alice-in-boulderland-vias6"
             }
         ],
         "imagen3": "",
@@ -1998,37 +2045,178 @@
         "vias": 
         [
             {
-                "nombre": "Efecto Mariposa",
-                "equipadores": "Roberto Sanchez, Ulises Saini",
+                "nombre": "Midiclorianos",
+                "equipadores": "",
                 "largo": "m",
-                "chapas": "6+2",
-                "grado": "6a",
+                "chapas": "3+2",
+                "grado": "6c+",
                 "observaciones":""
             },
             {
-                "nombre": "La Adherencia en lo Pies",
-                "equipadores": "Roberto Sanchez",
-                "largo": "m",
-                "chapas": "5+2",
+                "nombre": "Aqueronte",
+                "equipadores": "",
+                "largo": "TOP ROPE",
+                "chapas": "",
                 "grado": "6a+",
                 "observaciones":""
             },
             {
-                "nombre": "Mañeros Old School",
-                "equipadores": "Roberto Sanchez",
-                "largo": "m",
-                "chapas": "5+2",
-                "grado": "6a/+",
+                "nombre": "Say Be",
+                "equipadores": "",
+                "largo": "",
+                "chapas": "4+2",
+                "grado": "6b",
                 "observaciones":""
             },
             {
-                "nombre": "Ensayo sobre la Frustración",
-                "equipadores": "Roberto Sanchez, Ulises Saini",
+                "nombre": "Atreyu",
+                "equipadores": "",
                 "largo": "m",
-                "chapas": "8+2",
+                "chapas": "4+2",
+                "grado": "7b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Lenny",
+                "equipadores": "",
+                "largo": "TOP ROPE",
+                "chapas": "",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Carl",
+                "equipadores": "",
+                "largo": "TOP ROPE",
+                "chapas": "",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "De última",
+                "equipadores": "",
+                "largo": "TOP ROPE",
+                "chapas": "",
+                "grado": "6a+",
+                "observaciones":""
+            }      
+        ]
+    },
+    {
+        "id" : 33,
+        "idZona": 8,
+        "nombreZona": "Alice in Boulderland",
+        "slugZona": "alice-in-boulderland",
+        "nombre" : "Alice (Boulder)",
+        "slug":"alice-in-boulderland-boulder",
+        "subtitulo" : "4 vías entre 6a y 6a+",
+        "imagen" : "alice-in-boulderland-boulder-general",
+        "imagenSector": 
+        [ 
+            {
+                "nombreImagen": "vias-alice-in-boulderland-boulder1"
+            },
+            {
+                "nombreImagen": "vias-alice-in-boulderland-boulder2"
+            },
+            {
+                "nombreImagen": "vias-alice-in-boulderland-boulder3"
+            },
+            {
+                "nombreImagen": "vias-alice-in-boulderland-boulder4"
+            },
+            {
+                "nombreImagen": "vias-alice-in-boulderland-boulder5"
+            },
+            {
+                "nombreImagen": "vias-alice-in-boulderland-boulder6"
+            },
+            {
+                "nombreImagen": "vias-alice-in-boulderland-boulder7"
+            },
+            {
+                "nombreImagen": "vias-alice-in-boulderland-boulder8"
+            }
+        ],
+        "imagen3": "",
+        "imagenLlegar": "alice-in-boulderland",
+        "imagenMapa": "",
+        "descripcion": "4 vías entre 6a y 6a+ | mts",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "vias": 
+        [
+            {
+                "nombre": "Invasión U.V.",
+                "equipadores": "",
+                "largo": "BOULDER",
+                "chapas": "",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Nik Riviera",
+                "equipadores": "",
+                "largo": "BOULDER",
+                "chapas": "",
+                "grado": "6b+",
+                "observaciones":""
+            },
+            {
+                "nombre": "The Sound of One Hand Slab",
+                "equipadores": "",
+                "largo": "BOULDER",
+                "chapas": "",
                 "grado": "6a",
                 "observaciones":""
-            }   
+            },
+            {
+                "nombre": "Vofi",
+                "equipadores": "",
+                "largo": "BOULDER",
+                "chapas": "",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Milhouse",
+                "equipadores": "",
+                "largo": "BOULDER",
+                "chapas": "",
+                "grado": "6a",
+                "observaciones":""
+            },
+            {
+                "nombre": "Esto va a doler en invierno",
+                "equipadores": "",
+                "largo": "BOULDER",
+                "chapas": "",
+                "grado": "6c",
+                "observaciones":""
+            },
+            {
+                "nombre": "La Santiagueña",
+                "equipadores": "",
+                "largo": "BOULDER",
+                "chapas": "",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Moiras",
+                "equipadores": "",
+                "largo": "BOULDER",
+                "chapas": "",
+                "grado": "7a?",
+                "observaciones":""
+            },
+            {
+                "nombre": "The Gift",
+                "equipadores": "",
+                "largo": "BOULDER",
+                "chapas": "",
+                "grado": "7b?",
+                "observaciones":""
+            }
         ]
     }
 ]
