@@ -16,14 +16,14 @@
         "imagen3": "",
         "imagenLlegar": "corrales-del-infiernillo",
         "imagenMapa": "",
-        "descripcion": "2 vias 6a | xx a 25mts",
-        "llegar": "Desde el infiernillo y siguiendo aprox 5 km la ruta 307 hacia Amaicha del valle, se continua gasta el punto. desde aqui la caminata nos lleva a descender hacia el rio de amaicha y remontarlo a este unos 100 mts . doblar a la derecha por la quebrada secundaria que aparece. alli se encuentran las vias.",
+        "descripcion": "2 vias 6a",
+        "llegar": "Desde el Abra del  Infiernillo se continúa por la ruta 307 aproximadamente unos 5 km, hasta llegar al punto de estacionamiento. Desde allí la caminata nos invita a descender hacia el río Amaicha y remontarlo a este unos 100 mts, donde se debe doblar a la derecha y continuar por la quebrada secundaria que aparece. Allí se encuentran los sectores ‘Pasillo’ primero, y ‘Mogote’ después. El sector ‘Cuevita’ se encuentra arriba de ‘Pasillo’, sobre la ladera.",
         "vias": 
         [
             {
                 "nombre": "Chimuelo Calchaqui",
-                "equipadores": "Roberto Sanchez, Patricio Rodriguez",
-                "largo": "XXm",
+                "equipadores": "Roberto Sanchez, Patricio Rodríguez",
+                "largo": "",
                 "chapas": "3+2",
                 "grado": "6a",
                 "observaciones":""
@@ -31,7 +31,7 @@
             {
                 "nombre": "Dejalo pastar que engorde",
                 "equipadores": "Oscar Zavala, Alexis Coronel",
-                "largo": "XXm",
+                "largo": "",
                 "chapas": "4+2",
                 "grado": "6a",
                 "observaciones":""
@@ -60,7 +60,7 @@
         "imagenLlegar": "corrales-del-infiernillo",
         "imagenMapa": "",
         "descripcion": "3 vías entre 6a+ y 6c | 16mts",
-        "llegar": "Desde el infiernillo y siguiendo aprox 5 km la ruta 307 hacia Amaicha del valle, se continua gasta el punto. desde aqui la caminata nos lleva a descender hacia el rio de amaicha y remontarlo a este unos 100 mts . doblar a la derecha por la quebrada secundaria que aparece. alli se encuentran las vias.",
+        "llegar": "Desde el Abra del  Infiernillo se continúa por la ruta 307 aproximadamente unos 5 km, hasta llegar al punto de estacionamiento. Desde allí la caminata nos invita a descender hacia el río Amaicha y remontarlo a este unos 100 mts, donde se debe doblar a la derecha y continuar por la quebrada secundaria que aparece. Allí se encuentran los sectores ‘Pasillo’ primero, y ‘Mogote’ después. El sector ‘Cuevita’ se encuentra arriba de ‘Pasillo’, sobre la ladera.",
         "vias": 
         [
             {
@@ -111,13 +111,13 @@
         "imagenLlegar": "corrales-del-infiernillo",
         "imagenMapa": "",
         "descripcion": "3 vías entre 5+ y 7a+ | mts",
-        "llegar": "Desde el infiernillo y siguiendo aprox 5 km la ruta 307 hacia Amaicha del valle, se continua gasta el punto. desde aqui la caminata nos lleva a descender hacia el rio de amaicha y remontarlo a este unos 100 mts . doblar a la derecha por la quebrada secundaria que aparece. alli se encuentran las vias.",
+        "llegar": "Desde el Abra del  Infiernillo se continúa por la ruta 307 aproximadamente unos 5 km, hasta llegar al punto de estacionamiento. Desde allí la caminata nos invita a descender hacia el río Amaicha y remontarlo a este unos 100 mts, donde se debe doblar a la derecha y continuar por la quebrada secundaria que aparece. Allí se encuentran los sectores ‘Pasillo’ primero, y ‘Mogote’ después. El sector ‘Cuevita’ se encuentra arriba de ‘Pasillo’, sobre la ladera.",
         "vias": 
         [
             {
                 "nombre": "Todas tiran",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "4+2",
                 "grado": "7a+",
                 "observaciones":""
@@ -125,7 +125,7 @@
             {
                 "nombre": "Pinche pincho compinche",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "5+2",
                 "grado": "6a",
                 "observaciones":""
@@ -133,7 +133,7 @@
             {
                 "nombre": "No Somos Nada",
                 "equipadores": "Roberto Sanchez, Alexis Coronel",
-                "largo": "m",
+                "largo": "",
                 "chapas": "3+2",
                 "grado": "5+",
                 "observaciones":""
@@ -866,7 +866,7 @@
         "slugZona": "el-remanso",
         "nombre" : "Izquierda",
         "slug":"izquierda",
-        "subtitulo" : "2 vías entre 7b y 7b+",
+        "subtitulo" : "2 vías de 7b y 7b+",
         "imagen" : "izquierda-general",
         "imagenSector": 
         [ 
@@ -877,7 +877,7 @@
         "imagen3": "",
         "imagenLlegar": "el-remanso",
         "imagenMapa": "",
-        "descripcion": "2 vías entre 7b y 7b+ | 15mts",
+        "descripcion": "2 vías de 7b y 7b+ | 15mts",
         "llegar": "Desde El Mollar se debe seguir la ruta 325 hacia Tafí del Valle y a pocos metros de donde finaliza el poblado de el Rincón, luego de pasar una casa donde fabrican adobes (adobera Ibañez) y sobre la curva, se encuentra el estacionamiento.  Existe una gruta de la Virgen del Valle al otro lado de la ruta y  se debe caminar 5 minutos siguiendo el sendero hacia arriba por la margen derecha (N) de la quebrada.",
         "vias": 
         [
@@ -886,7 +886,7 @@
                 "equipadores": "Ulses Saini, Victoria Salvadeo",
                 "largo": "15m",
                 "chapas": "7+2",
-                "grado": "7b+?",
+                "grado": "7b+",
                 "observaciones":""
             },
             {
@@ -894,7 +894,7 @@
                 "equipadores": "Ulses Saini, Victoria Salvadeo",
                 "largo": "15m",
                 "chapas": "7+2",
-                "grado": "7b?",
+                "grado": "7b",
                 "observaciones":""
             }
         ]
@@ -918,15 +918,15 @@
         "imagenLlegar": "el-remanso",
         "imagenMapa": "",
         "descripcion": "3 vías entre 6a+ y 6c | 22mts",
-        "llegar": "Desde El Mollar se debe seguir la ruta 325 hacia Tafí del Valle y a pocos metros de donde finaliza el poblado de el Rincón, luego de pasar una casa donde fabrican adobes (adobera Ibañez) y sobre la curva, se encuentra el estacionamiento.  Existe una gruta de la Virgen del Valle al otro lado de la ruta y  se debe caminar 5 minutos siguiendo el sendero hacia arriba por la margen derecha (N) de la quebrada.",
+        "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
         "vias": 
         [
             {
-                "nombre": "La Gringuita de 77",
+                "nombre": "No Soy Culito, Soy Pajarito",
                 "equipadores": "Ulses Saini, Victoria Salvadeo",
-                "largo": "22m",
-                "chapas": "9+2",
-                "grado": "6c",
+                "largo": "20m",
+                "chapas": "8+2",
+                "grado": "6a+/b",
                 "observaciones":""
             },
             {
@@ -938,11 +938,11 @@
                 "observaciones":""
             },
             {
-                "nombre": "No Soy Culito, Soy Pajarito",
+                "nombre": "La Gringuita de 77",
                 "equipadores": "Ulses Saini, Victoria Salvadeo",
-                "largo": "20m",
-                "chapas": "8+2",
-                "grado": "6a+/b",
+                "largo": "22m",
+                "chapas": "9+2",
+                "grado": "6c",
                 "observaciones":""
             }
         ]
@@ -976,19 +976,11 @@
         "vias": 
         [
             {
-                "nombre": "Queen Tour",
-                "equipadores": "Roberto Sanchez, Oscar Zabala",
+                "nombre": "Vamos Pa Maicha",
+                "equipadores": "Zaffanella, González",
                 "largo": "12m",
-                "chapas": "5+2",
-                "grado": "5",
-                "observaciones":""
-            },
-            {
-                "nombre": "Munay",
-                "equipadores": "",
-                "largo": "12m",
-                "chapas": "",
-                "grado": "8a?",
+                "chapas": "6+2",
+                "grado": "6c+",
                 "observaciones":""
             },
             {
@@ -1000,11 +992,19 @@
                 "observaciones":""
             },
             {
-                "nombre": "Vamos Pa Maicha",
-                "equipadores": "Zaffanella, González",
+                "nombre": "Munay",
+                "equipadores": "",
                 "largo": "12m",
-                "chapas": "6+2",
-                "grado": "6c+",
+                "chapas": "",
+                "grado": "8a",
+                "observaciones":""
+            },
+            {
+                "nombre": "Queen Tour",
+                "equipadores": "Roberto Sanchez, Oscar Zabala",
+                "largo": "12m",
+                "chapas": "5+2",
+                "grado": "5",
                 "observaciones":""
             }
         ]
@@ -1016,7 +1016,7 @@
         "slugZona": "quebrada-del-baron",
         "nombre" : "Depo",
         "slug":"depo",
-        "subtitulo" : "2 vías entre 6c y 6c+",
+        "subtitulo" : "2 vías de 6c y 6c+",
         "imagen" : "depo-general",
         "imagenSector": 
         [ 
@@ -1027,7 +1027,7 @@
         "imagen3": "",
         "imagenLlegar": "quebrada-del-baron",
         "imagenMapa": "",
-        "descripcion": "2 vías entre 6c y 6c+ | 20mts",
+        "descripcion": "2 vías de 6c y 6c+ | 20mts",
         "llegar": "Desde Tafí del Valle se debe seguir la ruta 307 hacia el Abra del Infiernillo. Unos kilómetros antes de llegar a este último, se encuentra la entrada al P.P.C.C donde existe una construcción. Desde allí se debe caminar aproximadamente 1:30 hr para llegar al sector de escalada deportiva, pasando primero por el puesto de la familia Diaz. Desde la casa, se debe seguir el río por su margen derecha hasta llegar a las vías. Para llegar al Rocódromo, se debe continuar quebrada arriba (3 horas de caminata).",
         "vias": 
         [
@@ -1036,7 +1036,7 @@
                 "equipadores": "Roberto Sanchez, Pablo Goloboff",
                 "largo": "20m",
                 "chapas": "11+2",
-                "grado": "6c",
+                "grado": "6c+",
                 "observaciones":""
             },
             {
@@ -1044,7 +1044,7 @@
                 "equipadores": "Roberto Sanchez, Pablo Goloboff",
                 "largo": "20m",
                 "chapas": "12+2",
-                "grado": "6c+",
+                "grado": "6c",
                 "observaciones":""
             }
         ]
@@ -1056,7 +1056,7 @@
         "slugZona": "quebrada-del-baron",
         "nombre" : "Rocodromo",
         "slug":"rocodromo",
-        "subtitulo" : "3 vías entre 5 y 5+",
+        "subtitulo" : "3 vías de TRAD",
         "imagen" : "rocodromo-general",
         "imagenSector": 
         [ 
@@ -1064,38 +1064,46 @@
                 "nombreImagen": "vias-rocodromo1"
             },
             {
-                "nombreImagen": "vias-rocodromo1"
+                "nombreImagen": "vias-rocodromo2"
             }
         ],
         "imagen3": "",
         "imagenLlegar": "quebrada-del-baron",
         "imagenMapa": "",
-        "descripcion": "3 vías entre 5 y 5+ | 20mts",
+        "descripcion": "3 vías de TRAD",
         "llegar": "Desde Tafí del Valle se debe seguir la ruta 307 hacia el Abra del Infiernillo. Unos kilómetros antes de llegar a este último, se encuentra la entrada al P.P.C.C donde existe una construcción. Desde allí se debe caminar aproximadamente 1:30 hr para llegar al sector de escalada deportiva, pasando primero por el puesto de la familia Diaz. Desde la casa, se debe seguir el río por su margen derecha hasta llegar a las vías. Para llegar al Rocódromo, se debe continuar quebrada arriba (3 horas de caminata).",
         "vias": 
         [
             {
-                "nombre": "Derecha",
+                "nombre": "Izquierda",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
-                "grado": "5, 5",
+                "grado": "L1 6a+, L2?",
+                "observaciones":"Multilargo"
+            },
+            {
+                "nombre": "Variante Izquierda",
+                "equipadores": "",
+                "largo": "",
+                "chapas": "",
+                "grado": "L2 5+",
                 "observaciones":"Multilargo"
             },
             {
                 "nombre": "Centro",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
-                "grado": "5+, 5+",
+                "grado": "L1 5+ L2 6a",
                 "observaciones":"Multilargo"
             },
             {
-                "nombre": "Izquierda",
+                "nombre": "Derecha",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
-                "grado": "5+, ?",
+                "grado": "L1 5, L2 5+",
                 "observaciones":"Multilargo"
             }
         ]
