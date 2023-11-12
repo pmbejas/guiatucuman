@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/guiatucuman/static/css/main.50a437df.css",
-    "main.js": "/guiatucuman/static/js/main.f1c8d94b.js",
+    "main.css": "/guiatucuman/static/css/main.4b9628f9.css",
+    "main.js": "/guiatucuman/static/js/main.c97c79a0.js",
     "static/media/vias-el-purgatorio-nariz-izquierda.jpg": "/guiatucuman/static/media/vias-el-purgatorio-nariz-izquierda.321f8e04b4315230c251.jpg",
     "static/media/vias-el-purgatorio-chimenea1.jpg": "/guiatucuman/static/media/vias-el-purgatorio-chimenea1.e27cc4b8431c3114af83.jpg",
     "static/media/vias-el-purgatorio-pared-chocolate.jpg": "/guiatucuman/static/media/vias-el-purgatorio-pared-chocolate.41f277b854ac9db51062.jpg",
@@ -115,18 +115,18 @@
     "static/media/mapa-quebrada-del-baron.jpg": "/guiatucuman/static/media/mapa-quebrada-del-baron.a9c6f353c1fa49b1e2ee.jpg",
     "static/media/mapa-chivo-berrinche.jpg": "/guiatucuman/static/media/mapa-chivo-berrinche.3e1ce7874fe4d233346b.jpg",
     "static/media/mapa-el-remanso.jpg": "/guiatucuman/static/media/mapa-el-remanso.88c0f0ef6222a2dd80a0.jpg",
-    "static/media/logo.png": "/guiatucuman/static/media/logo.60bcff7faa667c3dc345.png",
     "static/media/mapa-el-rincon.jpg": "/guiatucuman/static/media/mapa-el-rincon.dea686bb4a1b7132f591.jpg",
     "static/media/hamburger.png": "/guiatucuman/static/media/hamburger.8289271c20061931812c.png",
+    "static/media/logo.png": "/guiatucuman/static/media/logo.a78beb99df6260a1c01a.png",
     "static/media/youtube.png": "/guiatucuman/static/media/youtube.7145b3ee9706a0d6ebc7.png",
     "static/media/warning-sign-triangle.png": "/guiatucuman/static/media/warning-sign-triangle.0479ce91487c847ad46f.png",
     "static/media/logoAAM.svg": "/guiatucuman/static/media/logoAAM.28b64d1805132b9b1140bedd4c501fb3.svg",
     "index.html": "/guiatucuman/index.html",
-    "main.50a437df.css.map": "/guiatucuman/static/css/main.50a437df.css.map",
-    "main.f1c8d94b.js.map": "/guiatucuman/static/js/main.f1c8d94b.js.map"
+    "main.4b9628f9.css.map": "/guiatucuman/static/css/main.4b9628f9.css.map",
+    "main.c97c79a0.js.map": "/guiatucuman/static/js/main.c97c79a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.50a437df.css",
-    "static/js/main.f1c8d94b.js"
+    "static/css/main.4b9628f9.css",
+    "static/js/main.c97c79a0.js"
   ]
 }

@@ -168,7 +168,7 @@
             {
                 "nombre": "L1 Vachota",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "4+",
                 "observaciones":"Multilargo"
@@ -176,7 +176,7 @@
             {
                 "nombre": "L2 Mano, Mano, Cabeza Afuera",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "7b+",
                 "observaciones":"Multilargo"
@@ -184,7 +184,7 @@
             {
                 "nombre": "Bachata",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "5+",
                 "observaciones":""
@@ -192,7 +192,7 @@
             {
                 "nombre": "Travesía para llegar a pie de vía",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "5?",
                 "grado": "4-5?",
                 "observaciones":"Este se usa para llegar a un pie de via para hacer la Cascadisimo Forever y gacela del hielo. En este pie de via se debe estar asegurado todo el tiempo"
@@ -200,7 +200,7 @@
             {
                 "nombre": "Cascadisimo Forever",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "9?",
                 "grado": "6a",
                 "observaciones":"En el pie de vía se debe estar asegurado todo el tiempo"
@@ -208,7 +208,7 @@
             {
                 "nombre": "La GAcela del Hielo",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "11?",
                 "grado": "6b+",
                 "observaciones":"En el pie de vía se debe estar asegurado todo el tiempo"
@@ -251,7 +251,7 @@
             {
                 "nombre": "Sin Equipadores no hay Paraíso",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "7+2",
                 "grado": "6c",
                 "observaciones":""
@@ -259,7 +259,7 @@
             {
                 "nombre": "Sensei",
                 "equipadores": "Matías Rohmer, Andrés Quiroga",
-                "largo": "m",
+                "largo": "",
                 "chapas": "7+2",
                 "grado": "7c",
                 "observaciones":""
@@ -267,7 +267,7 @@
             {
                 "nombre": "San Pedrito",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "8+2",
                 "grado": "6b+",
                 "observaciones":""
@@ -275,7 +275,7 @@
             {
                 "nombre": "Ladrido de Buda",
                 "equipadores": "Damián Zanotti y Montenegro",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "6c",
                 "observaciones":""
@@ -313,7 +313,7 @@
             {
                 "nombre": "Besito de Suegra",
                 "equipadores": "Luis González, David Medina",
-                "largo": "m",
+                "largo": "",
                 "chapas": "4",
                 "grado": "6a+",
                 "observaciones":"1ra chapa MUY lejos - Via fea"
@@ -321,7 +321,7 @@
             {
                 "nombre": "Pa Calentar",
                 "equipadores": "Patricio Payrola",
-                "largo": "m",
+                "largo": "",
                 "chapas": "6",
                 "grado": "5+",
                 "observaciones":"Cuidado, hay piedras huecas todo arriba en el top"
@@ -329,7 +329,7 @@
             {
                 "nombre": "Asco le Tengo al Frasco",
                 "equipadores": "Oscar Zabala",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "6c+",
                 "observaciones":"Vía nueva"
@@ -337,7 +337,7 @@
             {
                 "nombre": "Toco pero no veo",
                 "equipadores": "Pablo Golobof",
-                "largo": "m",
+                "largo": "",
                 "chapas": "6",
                 "grado": "6c",
                 "observaciones":""
@@ -345,7 +345,7 @@
             {
                 "nombre": "Mal Ángulo",
                 "equipadores": "Pablo Goloboff, Oscar Zabala, Patricio Payrola",
-                "largo": "m",
+                "largo": "",
                 "chapas": "4",
                 "grado": "6b+",
                 "observaciones":"Tiene una sola argolla de descuelgue - tomas todas romas"
@@ -353,7 +353,7 @@
             {
                 "nombre": "Calavera No Chilla",
                 "equipadores": "Patricio Payrola, Oscar Zabala",
-                "largo": "m",
+                "largo": "",
                 "chapas": "6",
                 "grado": "6b",
                 "observaciones":"Tiene una sola argolla de descuelgue - tomas todas romas"
@@ -361,7 +361,7 @@
             {
                 "nombre": "Sale Polvillo",
                 "equipadores": "Martinez, Oscar Zabala, Pablo Goloboff, Quagliata Carrasco",
-                "largo": "m",
+                "largo": "",
                 "chapas": "7",
                 "grado": "?",
                 "observaciones":""
@@ -393,7 +393,7 @@
             {
                 "nombre": "Y diai",
                 "equipadores": "Devon Dennis",
-                "largo": "m",
+                "largo": "",
                 "chapas": "9?",
                 "grado": "6a",
                 "observaciones":""
@@ -401,7 +401,7 @@
             {
                 "nombre": "Apreta Sr. Miyagui",
                 "equipadores": "Devon Dennis",
-                "largo": "m",
+                "largo": "",
                 "chapas": "6",
                 "grado": "5?",
                 "observaciones":""
@@ -409,7 +409,7 @@
             {
                 "nombre": "Pequeñón",
                 "equipadores": "Augusto Diebel, Sebastian R",
-                "largo": "m",
+                "largo": "",
                 "chapas": "8",
                 "grado": "8a",
                 "observaciones":"Vía nueva"
@@ -417,7 +417,7 @@
             {
                 "nombre": "Atajate Este Meteorito",
                 "equipadores": "Oscar Zabala, Jose Quagliata",
-                "largo": "m",
+                "largo": "",
                 "chapas": "8",
                 "grado": "6c+",
                 "observaciones":""
@@ -425,7 +425,7 @@
             {
                 "nombre": "Natalia Natalia",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "6a",
                 "observaciones":""
@@ -433,7 +433,7 @@
             {
                 "nombre": "La Grieta",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "6c",
                 "observaciones":""
@@ -441,7 +441,7 @@
             {
                 "nombre": "Proyecto",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "8a",
                 "observaciones":""
@@ -473,7 +473,7 @@
             {
                 "nombre": "Se va la Primera",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "5",
                 "grado": "6a",
                 "observaciones":""
@@ -481,7 +481,7 @@
             {
                 "nombre": "La Sensual",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "6",
                 "grado": "5+",
                 "observaciones":"arriba piedras sueltas y nido"
@@ -489,7 +489,7 @@
             {
                 "nombre": "La Pulenta",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "7",
                 "grado": "6b",
                 "observaciones":""
@@ -497,7 +497,7 @@
             {
                 "nombre": "La Chica del Blem",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "7",
                 "grado": "6b",
                 "observaciones":""
@@ -505,7 +505,7 @@
             {
                 "nombre": "La Chica por Fuerza Zen",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "7",
                 "grado": "6a+",
                 "observaciones":""
@@ -513,7 +513,7 @@
             {
                 "nombre": "Fuerza Zen",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "7",
                 "grado": "5+",
                 "observaciones":""
@@ -521,7 +521,7 @@
             {
                 "nombre": "De Uuuna!!!",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "7",
                 "grado": "5+",
                 "observaciones":""
@@ -529,7 +529,7 @@
             {
                 "nombre": "Mente en Blanco",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "7",
                 "grado": "5+",
                 "observaciones":""
@@ -572,7 +572,7 @@
             {
                 "nombre": "La Varita de Willow",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "11?",
                 "grado": "6b+",
                 "observaciones":""
@@ -580,7 +580,7 @@
             {
                 "nombre": "Sinai",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "7a+",
                 "observaciones":""
@@ -588,7 +588,7 @@
             {
                 "nombre": "La Negrita Rum",
                 "equipadores": "Bernardo",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "6c/+",
                 "observaciones":""
@@ -604,7 +604,7 @@
             {
                 "nombre": "Proyecto",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "",
                 "observaciones":""
@@ -612,7 +612,7 @@
             {
                 "nombre": "Animal Mecánico",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "7a",
                 "observaciones":""
@@ -620,7 +620,7 @@
             {
                 "nombre": "Mi Escuelita",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "5b",
                 "observaciones":"Cuidado, la via no se usa mucho con lo cual se encuentra muy sucia. Tambien hay piedras huecas"
@@ -628,7 +628,7 @@
             {
                 "nombre": "Placa Golo",
                 "equipadores": "Patricio Payrola",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "6a",
                 "observaciones":"Cuidado, la via no se usa mucho con lo cual se encuentra muy sucia. Tambien hay piedras huecas"
@@ -660,7 +660,7 @@
             {
                 "nombre": "Chaskibum",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "3",
                 "grado": "6b",
                 "observaciones":"Comparte chapa con Rompeportones"
@@ -668,7 +668,7 @@
             {
                 "nombre": "Rompeportones",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "3",
                 "grado": "6b",
                 "observaciones":"Comparte chapa con Chaskibum"
@@ -676,7 +676,7 @@
             {
                 "nombre": "Molotov",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "4",
                 "grado": "6b",
                 "observaciones":""
@@ -684,7 +684,7 @@
             {
                 "nombre": "Hombre Bomba",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "3",
                 "grado": "6c",
                 "observaciones":"Comparte chapa con Atómica"
@@ -692,7 +692,7 @@
             {
                 "nombre": "Atómica",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "3",
                 "grado": "7b",
                 "observaciones":"comparte chapa con Hombre Bomba"
@@ -700,7 +700,7 @@
             {
                 "nombre": "Estruendo",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "3",
                 "grado": "6b+",
                 "observaciones":""
@@ -732,7 +732,7 @@
             {
                 "nombre": "Romanchino",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "6",
                 "grado": "6b+",
                 "observaciones":""
@@ -740,7 +740,7 @@
             {
                 "nombre": "La Cabra Voladora",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "10",
                 "grado": "7a+",
                 "observaciones":""
@@ -748,7 +748,7 @@
             {
                 "nombre": "Turbina",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "8",
                 "grado": "7b+",
                 "observaciones":""
@@ -756,7 +756,7 @@
             {
                 "nombre": "Pocoyo",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "9",
                 "grado": "7a",
                 "observaciones":""
@@ -764,7 +764,7 @@
             {
                 "nombre": "Cristianos Llorones",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "10",
                 "grado": "6c",
                 "observaciones":""
@@ -772,7 +772,7 @@
             {
                 "nombre": "Tres Días al Pedo",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "10",
                 "grado": "6b",
                 "observaciones":""
@@ -780,7 +780,7 @@
             {
                 "nombre": "Toy Pensando",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "12?",
                 "grado": "7b",
                 "observaciones":"Comienza por 'Tres Días Al Pedo'"
@@ -788,7 +788,7 @@
             {
                 "nombre": "El Columpio",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "7b",
                 "observaciones":""
@@ -796,7 +796,7 @@
             {
                 "nombre": "Sub 80",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "7a",
                 "observaciones":""
@@ -828,7 +828,7 @@
             {
                 "nombre": "Persiana Descarriada",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "3+2",
                 "grado": "6b",
                 "observaciones":""
@@ -836,7 +836,7 @@
             {
                 "nombre": "Apesto a Pesto",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "3+2",
                 "grado": "6b/+",
                 "observaciones":""
@@ -844,7 +844,7 @@
             {
                 "nombre": "Corta la Bocha",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "3+2",
                 "grado": "6a+",
                 "observaciones":""
@@ -852,7 +852,7 @@
             {
                 "nombre": "Mecha Corta",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "3+2",
                 "grado": "6a",
                 "observaciones":""
@@ -1136,7 +1136,7 @@
             {
                 "nombre": "Gallego Empotrao",
                 "equipadores": "Rohmer - Gonzalez - Marak - Quiroga",
-                "largo": "m",
+                "largo": "",
                 "chapas": "5+2",
                 "grado": "6a+",
                 "observaciones":""
@@ -1144,7 +1144,7 @@
             {
                 "nombre": "50 por Cabeza",
                 "equipadores": "Rohmer - Gonzalez - Marak - Quiroga",
-                "largo": "m",
+                "largo": "",
                 "chapas": "5+2",
                 "grado": "6b+",
                 "observaciones":""
@@ -1152,7 +1152,7 @@
             {
                 "nombre": "El Coimero",
                 "equipadores": "Rohmer - Gonzalez - Marak - Quiroga",
-                "largo": "m",
+                "largo": "",
                 "chapas": "6+2",
                 "grado": "6c+",
                 "observaciones":""
@@ -1160,7 +1160,7 @@
             {
                 "nombre": "Hidromiel Boulder",
                 "equipadores": "Rohmer - Quiroga",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "7c?",
                 "observaciones":""
@@ -1195,7 +1195,7 @@
             {
                 "nombre": "El Jorobado",
                 "equipadores": "Medina - Yugar",
-                "largo": "m",
+                "largo": "",
                 "chapas": "4+2",
                 "grado": "6a",
                 "observaciones":""
@@ -1203,7 +1203,7 @@
             {
                 "nombre": "El Batidesalojo",
                 "equipadores": "Medina - Yugar",
-                "largo": "m",
+                "largo": "",
                 "chapas": "3+2",
                 "grado": "6b+",
                 "observaciones":""
@@ -1238,7 +1238,7 @@
             {
                 "nombre": "Chivo Berrinche",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "8a",
                 "observaciones":""
@@ -1246,7 +1246,7 @@
             {
                 "nombre": "Al Borde de lo Ridículo",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "5+",
                 "observaciones":""
@@ -1254,7 +1254,7 @@
             {
                 "nombre": "Garche Bondiola",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "6a+",
                 "observaciones":""
@@ -1262,7 +1262,7 @@
             {
                 "nombre": "Puntapié Porcino",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "6a+",
                 "observaciones":""
@@ -1270,7 +1270,7 @@
             {
                 "nombre": "Dierdo",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "6a",
                 "observaciones":""
@@ -1278,7 +1278,7 @@
             {
                 "nombre": "Espolón",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "6a+",
                 "observaciones":""
@@ -1286,7 +1286,7 @@
             {
                 "nombre": "Espolón Recargado",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "6a+",
                 "observaciones":"Mauricio Ho"
@@ -1294,7 +1294,7 @@
             {
                 "nombre": "Las Cazadoras de lo Vertical",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "6b",
                 "observaciones":"Mauricio Ho"
@@ -1420,13 +1420,13 @@
         "imagenLlegar": "los-corpitos",
         "imagenMapa": "",
         "descripcion": "6 vías entre 5+ y 6c | mts",
-        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y mojarse, en vez de buscar un punto donde saltar.",
         "vias": 
         [
             {
                 "nombre": "Error 404",
                 "equipadores": "José Góngora",
-                "largo": "m",
+                "largo": "",
                 "chapas": "3+2",
                 "grado": "6a",
                 "observaciones":""
@@ -1434,7 +1434,7 @@
             {
                 "nombre": "Seis Pales al Pedo",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "8+2",
                 "grado": "6a",
                 "observaciones":""
@@ -1442,7 +1442,7 @@
             {
                 "nombre": "Ultra Derecha",
                 "equipadores": "José Góngora",
-                "largo": "m",
+                "largo": "",
                 "chapas": "9+2",
                 "grado": "6a",
                 "observaciones":""
@@ -1450,7 +1450,7 @@
             {
                 "nombre": "Ñiki Ñiki",
                 "equipadores": "Ulises Saini",
-                "largo": "m",
+                "largo": "",
                 "chapas": "7+2",
                 "grado": "6c",
                 "observaciones":""
@@ -1458,15 +1458,15 @@
             {
                 "nombre": "Roza La Maravillosa",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "Multilargo",
                 "chapas": "9+2",
-                "grado": "6b - 6a+",
+                "grado": "L1 6b, L2 6a+",
                 "observaciones":"Multilargo"
             },
             {
                 "nombre": "Sánchez a 120",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "6+2",
                 "grado": "5",
                 "observaciones":""
@@ -1492,13 +1492,13 @@
         "imagenLlegar": "los-corpitos",
         "imagenMapa": "",
         "descripcion": "11 vías entre 5+ y 7b | mts",
-        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y mojarse, en vez de buscar un punto donde saltar.",
         "vias": 
         [
             {
                 "nombre": "Bien Tumberita",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "5+2",
                 "grado": "6b",
                 "observaciones":""
@@ -1506,7 +1506,7 @@
             {
                 "nombre": "Pío Pío",
                 "equipadores": "Ulises Saini",
-                "largo": "m",
+                "largo": "TRAD",
                 "chapas": "Rack + 2",
                 "grado": "5",
                 "observaciones":""
@@ -1514,7 +1514,7 @@
             {
                 "nombre": "Los Añejos",
                 "equipadores": "Ulises Saini",
-                "largo": "m",
+                "largo": "TRAD",
                 "chapas": "Rack + 2",
                 "grado": "6a+",
                 "observaciones":""
@@ -1522,7 +1522,7 @@
             {
                 "nombre": "Mentes Cochambrosas",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "8+2",
                 "grado": "6b",
                 "observaciones":""
@@ -1530,7 +1530,7 @@
             {
                 "nombre": "Beso Negro",
                 "equipadores": "Ulises Saini, José Góngora",
-                "largo": "m",
+                "largo": "",
                 "chapas": "10+2",
                 "grado": "6c",
                 "observaciones":""
@@ -1538,7 +1538,7 @@
             {
                 "nombre": "Punto Rojo",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "10+2",
                 "grado": "7a+/b",
                 "observaciones":""
@@ -1546,7 +1546,7 @@
             {
                 "nombre": "Danza Con Lobos",
                 "equipadores": "Ulises Saini, José Góngora",
-                "largo": "m",
+                "largo": "",
                 "chapas": "14+2",
                 "grado": "6c+/7a",
                 "observaciones":""
@@ -1554,7 +1554,7 @@
             {
                 "nombre": "Paraíso Vertical",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "10+2",
                 "grado": "6b+}",
                 "observaciones":""
@@ -1562,7 +1562,7 @@
             {
                 "nombre": "Adherencia Colectiva",
                 "equipadores": "Oscar Zabala",
-                "largo": "m",
+                "largo": "",
                 "chapas": "10+2",
                 "grado": "7a",
                 "observaciones":""
@@ -1570,7 +1570,7 @@
             {
                 "nombre": "No sé",
                 "equipadores": "Oscar Zabala",
-                "largo": "m",
+                "largo": "",
                 "chapas": "5+2",
                 "grado": "7b",
                 "observaciones":""
@@ -1578,7 +1578,7 @@
             {
                 "nombre": "La Ciática que tengo",
                 "equipadores": "Roberto Sanchez, Oscar Zabala",
-                "largo": "m",
+                "largo": "",
                 "chapas": "11+2",
                 "grado": "7a+",
                 "observaciones":""
@@ -1603,64 +1603,64 @@
         "imagen3": "",
         "imagenLlegar": "los-corpitos",
         "imagenMapa": "",
-        "descripcion": "7 vías entre 5 y 7a+ | mts",
-        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "descripcion": "7 vías entre 5 y 7a+",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y mojarse, en vez de buscar un punto donde saltar.",
         "vias": 
         [
             {
-                "nombre": "Sainoras Paranoisa",
+                "nombre": "Ni Para Mate Ni Para Tereré",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
-                "chapas": "5+2",
-                "grado": "5",
-                "observaciones":""
-            },
-            {
-                "nombre": "No Subas Abusón",
-                "equipadores": "Roberto Sanchez",
-                "largo": "m",
-                "chapas": "4+2",
-                "grado": "7a+",
-                "observaciones":""
-            },
-            {
-                "nombre": "Añora la Roña",
-                "equipadores": "Roberto Sanchez",
-                "largo": "m",
-                "chapas": "5+2",
-                "grado": "7a+",
-                "observaciones":""
-            },
-            {
-                "nombre": "Sin Miedo al Éxito",
-                "equipadores": "Ulises Saini",
-                "largo": "m",
-                "chapas": "7+2",
-                "grado": "6b",
-                "observaciones":""
-            },
-            {
-                "nombre": "Caiese",
-                "equipadores": "Ulises Saini",
-                "largo": "m",
-                "chapas": "11+2",
-                "grado": "6b",
+                "largo": "",
+                "chapas": "9+2",
+                "grado": "7a/+",
                 "observaciones":""
             },
             {
                 "nombre": "Regleta que Ladra no Muerde",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "7+2",
                 "grado": "6b+",
                 "observaciones":""
             },
             {
-                "nombre": "Ni Para Mate Ni Para Tereré",
+                "nombre": "Caiese",
+                "equipadores": "Ulises Saini",
+                "largo": "",
+                "chapas": "11+2",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Sin Miedo al Éxito",
+                "equipadores": "Ulises Saini",
+                "largo": "",
+                "chapas": "7+2",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Añora la Roña",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
-                "chapas": "9+2",
-                "grado": "7a/+",
+                "largo": "",
+                "chapas": "5+2",
+                "grado": "7a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "No Subas Abusón",
+                "equipadores": "Roberto Sanchez",
+                "largo": "",
+                "chapas": "4+2",
+                "grado": "7a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Sainoras Paranoisa",
+                "equipadores": "Roberto Sanchez",
+                "largo": "",
+                "chapas": "5+2",
+                "grado": "5",
                 "observaciones":""
             }
         ]
@@ -1687,13 +1687,13 @@
         "imagenLlegar": "los-corpitos",
         "imagenMapa": "",
         "descripcion": "2 vías entre 6b y 6b+ | mts",
-        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y mojarse, en vez de buscar un punto donde saltar.",
         "vias": 
         [
             {
                 "nombre": "El Chame del 8",
                 "equipadores": "Roberto Sanchez, Ulises Kuznesov",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "6b+",
                 "observaciones":""
@@ -1701,7 +1701,7 @@
             {
                 "nombre": "La Pichoneta",
                 "equipadores": "Ulises Kuznesov",
-                "largo": "m",
+                "largo": "",
                 "chapas": "",
                 "grado": "6b",
                 "observaciones":""
@@ -1715,7 +1715,7 @@
         "slugZona": "los-corpitos",
         "nombre" : "El Purgatorio (Entrada)",
         "slug":"el-purgatorio-entrada",
-        "subtitulo" : "2 vías entre 5 y 6b+",
+        "subtitulo" : "2 vías de 5 y 6b+",
         "imagen" : "el-purgatorio-entrada-general",
         "imagenSector": 
         [ 
@@ -1726,14 +1726,14 @@
         "imagen3": "",
         "imagenLlegar": "los-corpitos",
         "imagenMapa": "",
-        "descripcion": "2 vías entre 5 y 6b+ | mts",
-        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "descripcion": "2 vías de 5 y 6b+",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y mojarse, en vez de buscar un punto donde saltar.",
         "vias": 
         [
             {
                 "nombre": "Gorgojos Salvajes",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "5+2",
                 "grado": "6b+",
                 "observaciones":""
@@ -1741,7 +1741,7 @@
             {
                 "nombre": "Tanguito",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "5+2",
                 "grado": "5",
                 "observaciones":""
@@ -1770,13 +1770,13 @@
         "imagenLlegar": "los-corpitos",
         "imagenMapa": "",
         "descripcion": "7 vías entre 6a y 7a | mts",
-        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y mojarse, en vez de buscar un punto donde saltar.",
         "vias": 
         [
             {
                 "nombre": "El Último Machirulo",
                 "equipadores": "Victoria Salvadeo",
-                "largo": "m",
+                "largo": "",
                 "chapas": "5+2",
                 "grado": "6b",
                 "observaciones":""
@@ -1784,7 +1784,7 @@
             {
                 "nombre": "Otro Quinto de Volcán",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "6+2",
                 "grado": "6c+/7a",
                 "observaciones":""
@@ -1792,7 +1792,7 @@
             {
                 "nombre": "Chim Chim Cheree",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "5+2",
                 "grado": "6b",
                 "observaciones":""
@@ -1800,7 +1800,7 @@
             {
                 "nombre": "Solo Para Diplomados",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "Rack + 2",
                 "grado": "6a+",
                 "observaciones":""
@@ -1808,7 +1808,7 @@
             {
                 "nombre": "Estalkeador de Vías",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "5+2",
                 "grado": "6a/+",
                 "observaciones":""
@@ -1816,7 +1816,7 @@
             {
                 "nombre": "El Loco de la Barreta",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "4+2",
                 "grado": "6a",
                 "observaciones":""
@@ -1824,7 +1824,7 @@
             {
                 "nombre": "Rayo Calaverizador",
                 "equipadores": "Ulises Saini",
-                "largo": "m",
+                "largo": "",
                 "chapas": "5+2",
                 "grado": "6b",
                 "observaciones":""
@@ -1849,14 +1849,14 @@
         "imagen3": "",
         "imagenLlegar": "los-corpitos",
         "imagenMapa": "",
-        "descripcion": "4 vías entre 6b y 6c+ | mts",
-        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "descripcion": "4 vías entre 6b y 6c+",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y mojarse, en vez de buscar un punto donde saltar.",
         "vias": 
         [
             {
                 "nombre": "La Venganza del Ninja Púrpura",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "4+2",
                 "grado": "6c+",
                 "observaciones":""
@@ -1864,7 +1864,7 @@
             {
                 "nombre": "Vientito del Tucumán",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "5+2",
                 "grado": "6c",
                 "observaciones":""
@@ -1872,7 +1872,7 @@
             {
                 "nombre": "Chinchillon's Power",
                 "equipadores": "Ulises Saini",
-                "largo": "m",
+                "largo": "",
                 "chapas": "6+2",
                 "grado": "6b+",
                 "observaciones":""
@@ -1880,7 +1880,7 @@
             {
                 "nombre": "Riojanita",
                 "equipadores": "Victoria Salvadeo",
-                "largo": "m",
+                "largo": "",
                 "chapas": "4+2",
                 "grado": "6b",
                 "observaciones":""
@@ -1894,7 +1894,7 @@
         "slugZona": "los-corpitos",
         "nombre" : "El Purgatorio (Nariz Izquierda)",
         "slug":"el-purgatorio-nariz-izquierda",
-        "subtitulo" : "2 vías entre 6a y 6b/+",
+        "subtitulo" : "2 vías de 6a y 6b+",
         "imagen" : "el-purgatorio-nariz-izquierda-general",
         "imagenSector": 
         [ 
@@ -1905,22 +1905,22 @@
         "imagen3": "",
         "imagenLlegar": "los-corpitos",
         "imagenMapa": "",
-        "descripcion": "2 vías entre 6a y 6b/ | mts",
-        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "descripcion": "2 vías de 6a y 6b+",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y mojarse, en vez de buscar un punto donde saltar.",
         "vias": 
         [
             {
                 "nombre": "Poder Gitano",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "7+2",
-                "grado": "6b/+",
+                "grado": "6b+",
                 "observaciones":""
             },
             {
                 "nombre": "Jimmy Lynn",
                 "equipadores": "Ulises Saini",
-                "largo": "m",
+                "largo": "",
                 "chapas": "4+2",
                 "grado": "6a",
                 "observaciones":""
@@ -1945,14 +1945,14 @@
         "imagen3": "",
         "imagenLlegar": "los-corpitos",
         "imagenMapa": "",
-        "descripcion": "1 vía de 7a+/b | mts",
-        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "descripcion": "1 vía de 7a+/b",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y mojarse, en vez de buscar un punto donde saltar.",
         "vias": 
         [
             {
                 "nombre": "Psicokiller",
                 "equipadores": "Ulises Saini",
-                "largo": "m",
+                "largo": "",
                 "chapas": "7+2",
                 "grado": "7a+/b",
                 "observaciones":""
@@ -1978,13 +1978,13 @@
         "imagenLlegar": "los-corpitos",
         "imagenMapa": "",
         "descripcion": "4 vías entre 6a y 6a+ | mts",
-        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y mojarse, en vez de buscar un punto donde saltar.",
         "vias": 
         [
             {
                 "nombre": "Efecto Mariposa",
                 "equipadores": "Roberto Sanchez, Ulises Saini",
-                "largo": "m",
+                "largo": "",
                 "chapas": "6+2",
                 "grado": "6a",
                 "observaciones":""
@@ -1992,7 +1992,7 @@
             {
                 "nombre": "La Adherencia en lo Pies",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "5+2",
                 "grado": "6a+",
                 "observaciones":""
@@ -2000,7 +2000,7 @@
             {
                 "nombre": "Mañeros Old School",
                 "equipadores": "Roberto Sanchez",
-                "largo": "m",
+                "largo": "",
                 "chapas": "5+2",
                 "grado": "6a/+",
                 "observaciones":""
@@ -2008,7 +2008,7 @@
             {
                 "nombre": "Ensayo sobre la Frustración",
                 "equipadores": "Roberto Sanchez, Ulises Saini",
-                "largo": "m",
+                "largo": "",
                 "chapas": "8+2",
                 "grado": "6a",
                 "observaciones":""
@@ -2022,7 +2022,7 @@
         "slugZona": "alice-in-boulderland",
         "nombre" : "Alice (Vías)",
         "slug":"alice-in-boulderland-vias",
-        "subtitulo" : "4 vías entre 6a y 6a+",
+        "subtitulo" : "7 vías entre 6a+ y 7b",
         "imagen" : "alice-in-boulderland-vias-general",
         "imagenSector": 
         [ 
@@ -2048,14 +2048,14 @@
         "imagen3": "",
         "imagenLlegar": "alice-in-boulderland",
         "imagenMapa": "",
-        "descripcion": "4 vías entre 6a y 6a+ | mts",
-        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "descripcion": "7 vías entre 6a+ y 7b",
+        "llegar": "Desde El Mollar se debe continuar por la ruta 307 en dirección a La Angostura, es decir, hacia el paredón del dique. Antes de llegar al mismo, existe una parada de colectivos con un cartel que dice ‘Ñuñorco’, donde se debe doblar y empezar a subir. Se debe continuar por este camino  de tierra, hasta donde finaliza, cerca de unas casas y una toma de agua. Para llegar al sector, solo se debe caminar 5 minutos en dirección a la quebrada. Como referencia, las rocas empiezan a la altura de los tanques y piletones, y se debe ascender por la quebrada para ir dando con los diversos boulders.",
         "vias": 
         [
             {
                 "nombre": "Midiclorianos",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "3+2",
                 "grado": "6c+",
                 "observaciones":""
@@ -2079,7 +2079,7 @@
             {
                 "nombre": "Atreyu",
                 "equipadores": "",
-                "largo": "m",
+                "largo": "",
                 "chapas": "4+2",
                 "grado": "7b",
                 "observaciones":""
@@ -2117,7 +2117,7 @@
         "slugZona": "alice-in-boulderland",
         "nombre" : "Alice (Boulder)",
         "slug":"alice-in-boulderland-boulder",
-        "subtitulo" : "4 vías entre 6a y 6a+",
+        "subtitulo" : "9 boulders entre 6a y 7b",
         "imagen" : "alice-in-boulderland-boulder-general",
         "imagenSector": 
         [ 
@@ -2149,8 +2149,8 @@
         "imagen3": "",
         "imagenLlegar": "alice-in-boulderland",
         "imagenMapa": "",
-        "descripcion": "4 vías entre 6a y 6a+ | mts",
-        "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y cruzar en vez de buscar un punto donde saltar.",
+        "descripcion": "9 boulders entre 6a y 7b",
+        "llegar": "Desde El Mollar se debe continuar por la ruta 307 en dirección a La Angostura, es decir, hacia el paredón del dique. Antes de llegar al mismo, existe una parada de colectivos con un cartel que dice ‘Ñuñorco’, donde se debe doblar y empezar a subir. Se debe continuar por este camino  de tierra, hasta donde finaliza, cerca de unas casas y una toma de agua. Para llegar al sector, solo se debe caminar 5 minutos en dirección a la quebrada. Como referencia, las rocas empiezan a la altura de los tanques y piletones, y se debe ascender por la quebrada para ir dando con los diversos boulders.",
         "vias": 
         [
             {
