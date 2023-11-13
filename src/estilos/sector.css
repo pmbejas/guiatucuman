@@ -159,6 +159,7 @@
     }
 
     .seccion-card-sectores-sectores {
+        width: 100%;
         grid-template-columns: repeat(auto-fill, minmax(95%, 95%));
     }
 }

@@ -45,8 +45,8 @@ export const NavBar = (props) => {
                     </Link>
                     <div className="contenedor-submenu">
                         <div className="submenu">
-                            { zonas && zonas.length> 0 && zonas.map((zona)=>
-                                <Link to={`/guia/${zona.slug}`} style={{ textDecoration: 'none'}}>
+                            { zonas && zonas.length> 0 && zonas.map((zona, key)=>
+                                <Link key={key} to={`/guia/${zona.slug}`} style={{ textDecoration: 'none'}}>
                                     <p className="opciones-submenu">{zona.nombre}</p>
                                 </Link>
                             )}
@@ -119,8 +119,8 @@ export const NavBar = (props) => {
                         </Link>
                         <div className="contenedor-submenu">
                             <div className="submenu">
-                                { zonas && zonas.length> 0 && zonas.map((zona)=>
-                                    <Link to={`/guia/${zona.slug}`} style={{ textDecoration: 'none'}}>
+                                { zonas && zonas.length> 0 && zonas.map((zona, key)=>
+                                    <Link key={key} to={`/guia/${zona.slug}`} style={{ textDecoration: 'none'}}>
                                         <p className="opciones-submenu">{zona.nombre}</p>
                                     </Link>
                                 )}

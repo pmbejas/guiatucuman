@@ -47,9 +47,9 @@ export const Sector = (props) => {
             </div>
             <div className="contenedor-contenido-zonas">
                 <div className="seccion-vias-sector">
-                    <div className="seccion-imagenes-vias-sector d-flex row gap-3">
+                    <div className="seccion-imagenes-vias-sector d-flex row gap-3 justify-content-center">
                         { sector.imagenSector && sector.imagenSector.length>0 && sector.imagenSector.map((item, index)=> (
-                            <div className="col-5">
+                            <div className="col-11 col-md-5 text-center">
                                 <img className="seccion-imagenes-vias-sector-imagen" src={require(`../img/zonas/${item.nombreImagen}.jpg`)} alt="" /> 
                             </div>)
                         )}
@@ -82,7 +82,8 @@ export const Sector = (props) => {
                         </div>
                     } */}
                     <div className="seccion-card-sectores-sectores">
-                        { otrosSectores && otrosSectores.length>0 && otrosSectores.map((item)=><CardZona 
+                        { otrosSectores && otrosSectores.length>0 && otrosSectores.map((item, key)=><CardZona 
+                            key={key}
                             imagen={item.imagen}
                             nombre={item.nombre}
                             slug={"sectores/"+item.slug}

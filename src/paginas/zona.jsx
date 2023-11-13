@@ -83,14 +83,15 @@ export const Zona = (props) => {
                 </div>
                 <div className="seccion-sectores-zonas">
                     <h1>Sectores</h1>
-                    { errorSectores &&
+                    {/* { errorSectores &&
                         <div className="seccion-card-sectores-zonas-error">
                             <h1>Aún no cargamos los sectores de esta zona</h1> 
                             <h1>En unos dias estará listo</h1> 
                         </div>
-                    }
+                    } */}
                     <div className="seccion-card-sectores-zonas">
-                        { sectores && sectores.length>0 && sectores.map((item)=><CardZona 
+                        { sectores && sectores.length>0 && sectores.map((item, key)=><CardZona 
+                            key={key}
                             imagen={item.imagen}
                             nombre={item.nombre}
                             slug={"sectores/"+item.slug}

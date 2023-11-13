@@ -41,7 +41,7 @@ export const Principal = () => {
                     </Link>
                 </div>
                 <div className="contenedor-mitad">
-                    <img className="contenedor-mitad-foto" src={fotoLateral} alt="" />
+                    <img className="contenedor-mitad-foto mb-4 mb-md-0" src={fotoLateral} alt="" />
                 </div>
             </div>
 
@@ -101,7 +101,7 @@ export const Principal = () => {
                                 texto="En general las vías son cortas y no superan los 20mt, por lo que una cuerda de 60mt es suficiente para escalar todas las vías. Aun así, se recomienda realizar siempre un nudo en las puntas de la cuerda." />
                         </div>
                         <div className="contenedor-principal-fotos">
-                            <img className="contenedor-mitad-foto" src={foto1} alt="" />
+                            <img className="seccion-alerta-foto mt-3" src={foto1} alt="" />
                         </div>
                     </div>
                 </div>
