@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/guiatucuman/static/css/main.9ff31d22.css",
-    "main.js": "/guiatucuman/static/js/main.228359d9.js",
+    "main.js": "/guiatucuman/static/js/main.66e0e6b0.js",
     "static/media/vias-el-purgatorio-nariz-izquierda.jpg": "/guiatucuman/static/media/vias-el-purgatorio-nariz-izquierda.321f8e04b4315230c251.jpg",
     "static/media/vias-el-purgatorio-chimenea1.jpg": "/guiatucuman/static/media/vias-el-purgatorio-chimenea1.e27cc4b8431c3114af83.jpg",
     "static/media/vias-el-purgatorio-pared-chocolate.jpg": "/guiatucuman/static/media/vias-el-purgatorio-pared-chocolate.41f277b854ac9db51062.jpg",
@@ -26,9 +26,12 @@
     "static/media/rocodromo-general.jpg": "/guiatucuman/static/media/rocodromo-general.5c8759d164eb2a8a6f2c.jpg",
     "static/media/vias-placas-negras.jpg": "/guiatucuman/static/media/vias-placas-negras.58a50c0948233bc21aae.jpg",
     "static/media/vias-el-chivo-boulder2.jpg": "/guiatucuman/static/media/vias-el-chivo-boulder2.e620f17ece57acc63fe7.jpg",
+    "static/media/el-jorobado-general.jpg": "/guiatucuman/static/media/el-jorobado-general.f175bbd9060f46c61ccc.jpg",
+    "static/media/vias-el-jorobado.jpg": "/guiatucuman/static/media/vias-el-jorobado.f175bbd9060f46c61ccc.jpg",
     "static/media/el-purgatorio-nariz-izquierda-general.jpg": "/guiatucuman/static/media/el-purgatorio-nariz-izquierda-general.3f878dd03d6695e7c1e2.jpg",
     "static/media/el-purgatorio-nariz-frente-general.jpg": "/guiatucuman/static/media/el-purgatorio-nariz-frente-general.48924ef098657a24043b.jpg",
     "static/media/mogote-general.jpg": "/guiatucuman/static/media/mogote-general.7b63ea4dff3c852dcf6e.jpg",
+    "static/media/vias-chivo-berrinche6.jpg": "/guiatucuman/static/media/vias-chivo-berrinche6.1be543e19ee339c196f6.jpg",
     "static/media/vias-alice-in-boulderland-vias5.jpg": "/guiatucuman/static/media/vias-alice-in-boulderland-vias5.880f4fa29b343f77b008.jpg",
     "static/media/vias-alice-in-boulderland-boulder8.jpg": "/guiatucuman/static/media/vias-alice-in-boulderland-boulder8.5fbce71f4b2e9cecad9f.jpg",
     "static/media/vias-alice-in-boulderland-vias6.jpg": "/guiatucuman/static/media/vias-alice-in-boulderland-vias6.b4f46a0822e57fa7124e.jpg",
@@ -36,6 +39,7 @@
     "static/media/corrales-del-infiernillo-general.jpg": "/guiatucuman/static/media/corrales-del-infiernillo-general.35a22ee475370ab4039f.jpg",
     "static/media/mogote.jpg": "/guiatucuman/static/media/mogote.35a22ee475370ab4039f.jpg",
     "static/media/vias-el-chivo-boulder1.jpg": "/guiatucuman/static/media/vias-el-chivo-boulder1.c2e9daca42c69f48fea5.jpg",
+    "static/media/vias-chivo-berrinche4.jpg": "/guiatucuman/static/media/vias-chivo-berrinche4.272402c9397f85cf8038.jpg",
     "static/media/el-remanso-general.jpg": "/guiatucuman/static/media/el-remanso-general.b60c9e63824589c30c5e.jpg",
     "static/media/izquierda-general.jpg": "/guiatucuman/static/media/izquierda-general.b60c9e63824589c30c5e.jpg",
     "static/media/vias-izquierda.jpg": "/guiatucuman/static/media/vias-izquierda.b60c9e63824589c30c5e.jpg",
@@ -71,16 +75,21 @@
     "static/media/vias-la-calavera2.jpg": "/guiatucuman/static/media/vias-la-calavera2.f8656418cce264c393a6.jpg",
     "static/media/vias-depo.jpg": "/guiatucuman/static/media/vias-depo.09e82f1a7b345de9bb8f.jpg",
     "static/media/vias-la-calavera3.jpg": "/guiatucuman/static/media/vias-la-calavera3.045437fe9cf552010db4.jpg",
+    "static/media/vias-chivo-berrinche3.jpg": "/guiatucuman/static/media/vias-chivo-berrinche3.c2dbbce82be05c7ce0b8.jpg",
     "static/media/vias-alice-in-boulderland-boulder4.jpg": "/guiatucuman/static/media/vias-alice-in-boulderland-boulder4.341e5bc0e17aa34abef6.jpg",
     "static/media/mogote-frente.jpg": "/guiatucuman/static/media/mogote-frente.8102d5bb1b018afb3fb5.jpg",
     "static/media/vias-alice-in-boulderland-vias4.jpg": "/guiatucuman/static/media/vias-alice-in-boulderland-vias4.d95f432e6ebfcc26a4b3.jpg",
+    "static/media/vias-chivo-berrinche2.jpg": "/guiatucuman/static/media/vias-chivo-berrinche2.778fb6eff2449b19226e.jpg",
+    "static/media/vias-chivo-berrinche5.jpg": "/guiatucuman/static/media/vias-chivo-berrinche5.0ada1c6bb774d27d35e5.jpg",
     "static/media/vias-viejas-sector1.jpg": "/guiatucuman/static/media/vias-viejas-sector1.ac896db55d4fdb5eda22.jpg",
+    "static/media/vias-chivo-berrinche1.jpg": "/guiatucuman/static/media/vias-chivo-berrinche1.1838266927540ce288a0.jpg",
     "static/media/cuevita-arriba.jpg": "/guiatucuman/static/media/cuevita-arriba.c6eca314a95fdcb3967e.jpg",
     "static/media/mogote-izquierda.jpg": "/guiatucuman/static/media/mogote-izquierda.ef856b3ed68f3c3579e8.jpg",
     "static/media/lateralSuperior.jpg": "/guiatucuman/static/media/lateralSuperior.d33f2650c21162f34679.jpg",
     "static/media/el-purgatorio-pared-chocolate-general.jpg": "/guiatucuman/static/media/el-purgatorio-pared-chocolate-general.e37ae641c5ed0c72a095.jpg",
     "static/media/vias-rocodromo1.jpg": "/guiatucuman/static/media/vias-rocodromo1.a29209fec1061e2f7d1d.jpg",
     "static/media/el-purgatorio-chimenea-general.jpg": "/guiatucuman/static/media/el-purgatorio-chimenea-general.5c09c456b4f053e16fab.jpg",
+    "static/media/vias-nido-de-aguila-la-proa.jpg": "/guiatucuman/static/media/vias-nido-de-aguila-la-proa.7017aa8c19f04ded831e.jpg",
     "static/media/mapaGeneral.jpg": "/guiatucuman/static/media/mapaGeneral.5509ef858a65ec58e78b.jpg",
     "static/media/chivo-berrinche-imagen.jpg": "/guiatucuman/static/media/chivo-berrinche-imagen.95657212929c0322e6e2.jpg",
     "static/media/mapaValle.jpg": "/guiatucuman/static/media/mapaValle.87bcd95fe1f2ac0d3bf5.jpg",
@@ -115,6 +124,7 @@
     "static/media/mapa-quebrada-del-baron.jpg": "/guiatucuman/static/media/mapa-quebrada-del-baron.a9c6f353c1fa49b1e2ee.jpg",
     "static/media/mapa-chivo-berrinche.jpg": "/guiatucuman/static/media/mapa-chivo-berrinche.3e1ce7874fe4d233346b.jpg",
     "static/media/mapa-el-remanso.jpg": "/guiatucuman/static/media/mapa-el-remanso.88c0f0ef6222a2dd80a0.jpg",
+    "static/media/vias-nido-de-aguila-la-proa - copia.jpg": "/guiatucuman/static/media/vias-nido-de-aguila-la-proa - copia.7fe270cd6bbd1be0b3b4.jpg",
     "static/media/mapa-el-rincon.jpg": "/guiatucuman/static/media/mapa-el-rincon.dea686bb4a1b7132f591.jpg",
     "static/media/hamburger.png": "/guiatucuman/static/media/hamburger.8289271c20061931812c.png",
     "static/media/logo.png": "/guiatucuman/static/media/logo.a78beb99df6260a1c01a.png",
@@ -123,10 +133,10 @@
     "static/media/logoAAM.svg": "/guiatucuman/static/media/logoAAM.28b64d1805132b9b1140bedd4c501fb3.svg",
     "index.html": "/guiatucuman/index.html",
     "main.9ff31d22.css.map": "/guiatucuman/static/css/main.9ff31d22.css.map",
-    "main.228359d9.js.map": "/guiatucuman/static/js/main.228359d9.js.map"
+    "main.66e0e6b0.js.map": "/guiatucuman/static/js/main.66e0e6b0.js.map"
   },
   "entrypoints": [
     "static/css/main.9ff31d22.css",
-    "static/js/main.228359d9.js"
+    "static/js/main.66e0e6b0.js"
   ]
 }

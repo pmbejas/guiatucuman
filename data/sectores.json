@@ -152,10 +152,7 @@
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
-            },
-            {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-nido-de-aguila-la-proa"
             }
         ],
         "imagen3": "",
@@ -206,7 +203,7 @@
                 "observaciones":"En el pie de vía se debe estar asegurado todo el tiempo"
             },
             {
-                "nombre": "La GAcela del Hielo",
+                "nombre": "La Gacela del Hielo",
                 "equipadores": "",
                 "largo": "",
                 "chapas": "11?",
@@ -1158,9 +1155,9 @@
                 "observaciones":""
             },
             {
-                "nombre": "Hidromiel Boulder",
+                "nombre": "Hidromiel",
                 "equipadores": "Rohmer - Quiroga",
-                "largo": "",
+                "largo": "Boulder",
                 "chapas": "",
                 "grado": "7c?",
                 "observaciones":""
@@ -1175,14 +1172,11 @@
         "nombre" : "El Jorobado",
         "slug":"el-jorobado",
         "subtitulo" : "2 vías entre 6a y 6b+",
-        "imagen" : "mogote",
+        "imagen" : "el-jorobado-general",
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
-            },
-            {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-el-jorobado"
             }
         ],
         "imagen3": "",
@@ -1222,10 +1216,22 @@
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
+                "nombreImagen": "vias-chivo-berrinche1"
             },
             {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-chivo-berrinche2"
+            },
+            {
+                "nombreImagen": "vias-chivo-berrinche3"
+            },
+            {
+                "nombreImagen": "vias-chivo-berrinche4"
+            },
+            {
+                "nombreImagen": "vias-chivo-berrinche5"
+            },
+            {
+                "nombreImagen": "vias-chivo-berrinche6"
             }
         ],
         "imagen3": "",
@@ -1237,67 +1243,83 @@
         [
             {
                 "nombre": "Chivo Berrinche",
-                "equipadores": "",
+                "equipadores": "Rohmer - Gonzalez - Marak - Quiroga",
                 "largo": "",
-                "chapas": "",
+                "chapas": "3+2",
                 "grado": "8a",
                 "observaciones":""
             },
             {
                 "nombre": "Al Borde de lo Ridículo",
-                "equipadores": "",
+                "equipadores": "Rohmer - Gonzalez - Marak - Quiroga",
                 "largo": "",
-                "chapas": "",
+                "chapas": "6+2",
                 "grado": "5+",
                 "observaciones":""
             },
             {
-                "nombre": "Garche Bondiola",
-                "equipadores": "",
+                "nombre": "La Hizo mi Hermanita",
+                "equipadores": "Luis González, David Medina",
                 "largo": "",
                 "chapas": "",
-                "grado": "6a+",
+                "grado": "5",
                 "observaciones":""
             },
             {
-                "nombre": "Puntapié Porcino",
-                "equipadores": "",
+                "nombre": "Agarrate Catalina",
+                "equipadores": "David Medina, Luis Gonzáles",
                 "largo": "",
                 "chapas": "",
-                "grado": "6a+",
+                "grado": "5",
                 "observaciones":""
             },
             {
-                "nombre": "Dierdo",
-                "equipadores": "",
-                "largo": "",
-                "chapas": "",
-                "grado": "6a",
-                "observaciones":""
-            },
-            {
-                "nombre": "Espolón",
-                "equipadores": "",
-                "largo": "",
+                "nombre": "Filipili",
+                "equipadores": "David Medina",
+                "largo": "TOP ROPE",
                 "chapas": "",
                 "grado": "6a+",
                 "observaciones":""
             },
             {
                 "nombre": "Espolón Recargado",
-                "equipadores": "",
+                "equipadores": "Mauricio Ho",
                 "largo": "",
                 "chapas": "",
                 "grado": "6a+",
-                "observaciones":"Mauricio Ho"
+                "observaciones":""
             },
             {
                 "nombre": "Las Cazadoras de lo Vertical",
-                "equipadores": "",
+                "equipadores": "Mauricio Ho",
                 "largo": "",
                 "chapas": "",
                 "grado": "6b",
-                "observaciones":"Mauricio Ho"
+                "observaciones":""
+            },
+            {
+                "nombre": "Diedro",
+                "equipadores": "Rohmer - Gonzalez - Marak - Quiroga",
+                "largo": "TOP ROPE",
+                "chapas": "",
+                "grado": "6a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Puntapié Porcino",
+                "equipadores": "Rohmer - Gonzalez - Marak - Quiroga",
+                "largo": "TOP ROPE",
+                "chapas": "",
+                "grado": "6a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Garche Bondiola",
+                "equipadores": "Rohmer - Gonzalez - Marak - Quiroga",
+                "largo": "TOP ROPE",
+                "chapas": "",
+                "grado": "6b",
+                "observaciones":""
             }
         ]
     },
