@@ -12,6 +12,14 @@ export const Sector = (props) => {
     const [otrosSectores, setOtrosSectores] = useState([]);
 
     useEffect(()=>{
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
+    }, []);
+
+    
+    useEffect(()=>{
         const getSector = () => {
             let sector = props.sectores.find(sector => sector.slug === slug);                    
             if (sector) {
@@ -27,13 +35,6 @@ export const Sector = (props) => {
 
         getSector();
     }, [slug,props]);
-
-    useEffect(()=>{
-        window.scrollTo({
-            top: 0,
-            behavior: 'smooth'
-        });
-    }, []);
 
     return (
         <div className="contenedor">

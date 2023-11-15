@@ -16,6 +16,13 @@ export const Zona = (props) => {
     const [errorSectores, setErrorSectores]=useState(null);
     
     useEffect(()=>{
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
+    }, []);
+    
+    useEffect(()=>{
         setSectores([]);
         const fetchSectores = async (id) => {
             let sectores = props.sectores.filter(sector => sector.idZona === id);
@@ -39,13 +46,6 @@ export const Zona = (props) => {
 
         fetchZona();
     }, [slug, props]);
-
-    useEffect(()=>{
-        window.scrollTo({
-            top: 0,
-            behavior: 'smooth'
-        });
-    }, []);
 
     return (
         <div className="contenedor">
