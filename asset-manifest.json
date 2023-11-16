@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/guiatucuman/static/css/main.9ff31d22.css",
-    "main.js": "/guiatucuman/static/js/main.66e0e6b0.js",
+    "main.js": "/guiatucuman/static/js/main.ee9c3c63.js",
     "static/media/vias-el-purgatorio-nariz-izquierda.jpg": "/guiatucuman/static/media/vias-el-purgatorio-nariz-izquierda.321f8e04b4315230c251.jpg",
     "static/media/vias-el-purgatorio-chimenea1.jpg": "/guiatucuman/static/media/vias-el-purgatorio-chimenea1.e27cc4b8431c3114af83.jpg",
     "static/media/vias-el-purgatorio-pared-chocolate.jpg": "/guiatucuman/static/media/vias-el-purgatorio-pared-chocolate.41f277b854ac9db51062.jpg",
@@ -17,7 +17,7 @@
     "static/media/vias-viejas-sector2.jpg": "/guiatucuman/static/media/vias-viejas-sector2.db334f2bcd6baed06438.jpg",
     "static/media/vias-viejas-sector-general.jpg": "/guiatucuman/static/media/vias-viejas-sector-general.fd6a3f5784b446071818.jpg",
     "static/media/vias-viejas-sector3.jpg": "/guiatucuman/static/media/vias-viejas-sector3.fd6a3f5784b446071818.jpg",
-    "static/media/el-penon-general.jpg": "/guiatucuman/static/media/el-penon-general.30e8b7f21f9fd614be16.jpg",
+    "static/media/la-varita-general.jpg": "/guiatucuman/static/media/la-varita-general.30e8b7f21f9fd614be16.jpg",
     "static/media/superiorLateral.jpg": "/guiatucuman/static/media/superiorLateral.30e8b7f21f9fd614be16.jpg",
     "static/media/la-bomba-general.jpg": "/guiatucuman/static/media/la-bomba-general.3e84878a90676de6212a.jpg",
     "static/media/vias-el-paraiso.jpg": "/guiatucuman/static/media/vias-el-paraiso.0aa5cb097f2ce79d19a0.jpg",
@@ -102,6 +102,7 @@
     "static/media/principal1.jpg": "/guiatucuman/static/media/principal1.294425ddace1bc4e536c.jpg",
     "static/media/tafidelvalle.jpg": "/guiatucuman/static/media/tafidelvalle.93b5e412f459b7b5f938.jpg",
     "static/media/meteorito-general.jpg": "/guiatucuman/static/media/meteorito-general.f12d12f2d27a086864f2.jpg",
+    "static/media/vias-la-varita.jpg": "/guiatucuman/static/media/vias-la-varita.c84d869c5bf400f23820.jpg",
     "static/media/placas-negras-general.jpg": "/guiatucuman/static/media/placas-negras-general.060006149e387a60a1e3.jpg",
     "static/media/nosotros.jpg": "/guiatucuman/static/media/nosotros.ce9e8d154a06c7229794.jpg",
     "static/media/vias-rocodromo2.jpg": "/guiatucuman/static/media/vias-rocodromo2.c38561fcc2342770a43a.jpg",
@@ -133,10 +134,10 @@
     "static/media/logoAAM.svg": "/guiatucuman/static/media/logoAAM.28b64d1805132b9b1140bedd4c501fb3.svg",
     "index.html": "/guiatucuman/index.html",
     "main.9ff31d22.css.map": "/guiatucuman/static/css/main.9ff31d22.css.map",
-    "main.66e0e6b0.js.map": "/guiatucuman/static/js/main.66e0e6b0.js.map"
+    "main.ee9c3c63.js.map": "/guiatucuman/static/js/main.ee9c3c63.js.map"
   },
   "entrypoints": [
     "static/css/main.9ff31d22.css",
-    "static/js/main.66e0e6b0.js"
+    "static/js/main.ee9c3c63.js"
   ]
 }
