@@ -24,10 +24,10 @@ export const Guias = (props) => {
                         En el Departamento de <strong>Tafí del Valle</strong> existen alrededor de 150 vías de escalada distribuidas en 8 sectores principales. 
                     </p>
                     <p>
-                        El Rincón y Los Corpitos concentran la mayor cantidad de vías y gran variedad de grados (entre 5to y 8vo).
+                        El Rincón y Los Corpitos concentran la mayor cantidad de vías y gran variedad de grados (entre 5to y 8a).
                     </p>
                     <p>
-                        La escalada es practicada por arriba de los 2000 m.s.n.m., pudiendo llegar a los 2900 msnm en el Infiernillo, e incluso superar ampliamente los 3000 msnm en la Quebrada del Barón. La mayoría de estos sectores se encuentran en los faldeos del Cerro Munoz y, cabe destacar que en general las vías suelen ser cortas, por lo que una cuerda de 60 mts es suficiente para poder practicar este hermoso deporte.
+                        La escalada es practicada por arriba de los 2000 m.s.n.m., pudiendo llegar a los 2900 msnm en el Infiernillo, e incluso superar ampliamente los 3000 msnm en la Quebrada del Barón. La mayoría de estos sectores se encuentran en los faldeos del Cerro Muñoz y, cabe destacar que en general las vías suelen ser cortas, por lo que una cuerda de 60 mts es suficiente para poder practicar este hermoso deporte.
                     </p>
                     <p>
                         Por último, si bien es posible escalar durante todo el año, se debe tener en cuenta las altas precipitaciones durante épocas estivales y el frío considerable en época invernales, siendo el clima en la zona del infiernillo mas estable que en el Valle.

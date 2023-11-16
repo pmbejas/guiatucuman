@@ -147,7 +147,7 @@
         "slugZona": "el-rincon",
         "nombre" : "Nido de Águila (La Proa)",
         "slug":"nido-de-aguila-la-proa",
-        "subtitulo" : "5 vías entre 4+ y 7b+",
+        "subtitulo" : "7 vías entre 5 y 7b+",
         "imagen" : "nido-de-aguila-la-proa-general",
         "imagenSector": 
         [ 
@@ -158,55 +158,63 @@
         "imagen3": "",
         "imagenLlegar": "el-rincon",
         "imagenMapa": "",
-        "descripcion": "5 vías entre 4+ y 7b+ | mts",
+        "descripcion": "7 vías entre 5 y 7b+",
         "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
         "vias": 
         [
             {
-                "nombre": "L1 Vachota",
-                "equipadores": "",
+                "nombre": "Mi Escuelita",
+                "equipadores": "Patricio Payrola",
                 "largo": "",
                 "chapas": "",
-                "grado": "4+",
+                "grado": "5",
+                "observaciones":""
+            },
+            {
+                "nombre": "Placa Golo",
+                "equipadores": "Patricio Payrola",
+                "largo": "",
+                "chapas": "",
+                "grado": "6a",
+                "observaciones":""
+            },
+            {
+                "nombre": "L1 Vachota",
+                "equipadores": "Alejandro Lavagnini - Agustín Sisamon",
+                "largo": "",
+                "chapas": "3+2",
+                "grado": "4",
                 "observaciones":"Multilargo"
             },
             {
                 "nombre": "L2 Mano, Mano, Cabeza Afuera",
-                "equipadores": "",
-                "largo": "",
+                "equipadores": "Alejandro Lavagnini - Agustín Sisamon",
+                "largo": "12m",
                 "chapas": "",
                 "grado": "7b+",
                 "observaciones":"Multilargo"
             },
             {
                 "nombre": "Bachata",
-                "equipadores": "",
-                "largo": "",
-                "chapas": "",
+                "equipadores": "Gustavo Agüero - Román Benitez",
+                "largo": "12m",
+                "chapas": "8+2",
                 "grado": "5+",
                 "observaciones":""
             },
             {
-                "nombre": "Travesía para llegar a pie de vía",
-                "equipadores": "",
-                "largo": "",
-                "chapas": "5?",
-                "grado": "4-5?",
-                "observaciones":"Este se usa para llegar a un pie de via para hacer la Cascadisimo Forever y gacela del hielo. En este pie de via se debe estar asegurado todo el tiempo"
-            },
-            {
                 "nombre": "Cascadisimo Forever",
-                "equipadores": "",
+                "equipadores": "Alejandro Lavagnini",
                 "largo": "",
-                "chapas": "9?",
+                "chapas": "7+2",
                 "grado": "6a",
                 "observaciones":"En el pie de vía se debe estar asegurado todo el tiempo"
             },
             {
                 "nombre": "La Gacela del Hielo",
-                "equipadores": "",
+                "equipadores": "Alejandro Lavagnini",
                 "largo": "",
-                "chapas": "11?",
+                "chapas": "6+2",
                 "grado": "6b+",
                 "observaciones":"En el pie de vía se debe estar asegurado todo el tiempo"
             }
@@ -233,37 +241,21 @@
         "imagen3": "",
         "imagenLlegar": "el-rincon",
         "imagenMapa": "",
-        "descripcion": "5 vías entre 6a+ y 7c | mts",
+        "descripcion": "5 vías entre 6a+ y 7c",
         "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
         "vias": 
         [
             {
-                "nombre": "Senpai",
-                "equipadores": "Matías Rohmer, Luis González",
-                "largo": "25m",
-                "chapas": "11+1",
-                "grado": "6a+",
-                "observaciones":""
-            },
-            {
                 "nombre": "Sin Equipadores no hay Paraíso",
-                "equipadores": "",
+                "equipadores": "Vera - Zelarayán - Aguirre",
                 "largo": "",
                 "chapas": "7+2",
                 "grado": "6c",
                 "observaciones":""
             },
             {
-                "nombre": "Sensei",
-                "equipadores": "Matías Rohmer, Andrés Quiroga",
-                "largo": "",
-                "chapas": "7+2",
-                "grado": "7c",
-                "observaciones":""
-            },
-            {
                 "nombre": "San Pedrito",
-                "equipadores": "",
+                "equipadores": "Vera - Zelarayán - Aguirre",
                 "largo": "",
                 "chapas": "8+2",
                 "grado": "6b+",
@@ -273,8 +265,24 @@
                 "nombre": "Ladrido de Buda",
                 "equipadores": "Damián Zanotti y Montenegro",
                 "largo": "",
-                "chapas": "",
+                "chapas": "4+2",
                 "grado": "6c",
+                "observaciones":""
+            },
+            {
+                "nombre": "Senpai",
+                "equipadores": "Matías Rohmer, Luis González",
+                "largo": "25m",
+                "chapas": "11+2",
+                "grado": "6a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Sensei",
+                "equipadores": "Matías Rohmer, Andrés Quiroga",
+                "largo": "",
+                "chapas": "7+2",
+                "grado": "7c",
                 "observaciones":""
             }
         ]
@@ -286,7 +294,7 @@
         "slugZona": "el-rincon",
         "nombre" : "La Calavera",
         "slug":"la-calavera",
-        "subtitulo" : "7 vías entre 5+ y 6c+",
+        "subtitulo" : "7 vías entre 5+ y 7a+",
         "imagen" : "la-calavera-general",
         "imagenSector": 
         [ 
@@ -303,7 +311,7 @@
         "imagen3": "",
         "imagenLlegar": "el-rincon",
         "imagenMapa": "",
-        "descripcion": "7 vías entre 5+ y 6c+ | mts",
+        "descripcion": "7 vías entre 5+ y 7a+",
         "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
         "vias": 
         [
@@ -311,21 +319,21 @@
                 "nombre": "Besito de Suegra",
                 "equipadores": "Luis González, David Medina",
                 "largo": "",
-                "chapas": "4",
-                "grado": "6a+",
-                "observaciones":"1ra chapa MUY lejos - Via fea"
+                "chapas": "3+2",
+                "grado": "6b",
+                "observaciones":""
             },
             {
                 "nombre": "Pa Calentar",
                 "equipadores": "Patricio Payrola",
                 "largo": "",
-                "chapas": "6",
+                "chapas": "",
                 "grado": "5+",
-                "observaciones":"Cuidado, hay piedras huecas todo arriba en el top"
+                "observaciones":""
             },
             {
                 "nombre": "Asco le Tengo al Frasco",
-                "equipadores": "Oscar Zabala",
+                "equipadores": "Oscar Zavala",
                 "largo": "",
                 "chapas": "",
                 "grado": "6c+",
@@ -335,32 +343,32 @@
                 "nombre": "Toco pero no veo",
                 "equipadores": "Pablo Golobof",
                 "largo": "",
-                "chapas": "6",
+                "chapas": "",
                 "grado": "6c",
                 "observaciones":""
             },
             {
                 "nombre": "Mal Ángulo",
-                "equipadores": "Pablo Goloboff, Oscar Zabala, Patricio Payrola",
+                "equipadores": "Pablo Goloboff - Oscar Zavala - Patricio Payrola",
                 "largo": "",
-                "chapas": "4",
+                "chapas": "3+1",
                 "grado": "6b+",
-                "observaciones":"Tiene una sola argolla de descuelgue - tomas todas romas"
+                "observaciones":"Tiene una sola argolla de descuelgue"
             },
             {
                 "nombre": "Calavera No Chilla",
-                "equipadores": "Patricio Payrola, Oscar Zabala",
+                "equipadores": "Patricio Payrola, Oscar Zavala",
                 "largo": "",
-                "chapas": "6",
+                "chapas": "4+2",
                 "grado": "6b",
-                "observaciones":"Tiene una sola argolla de descuelgue - tomas todas romas"
+                "observaciones":"Tiene una sola argolla de descuelgue"
             },
             {
                 "nombre": "Sale Polvillo",
-                "equipadores": "Martinez, Oscar Zabala, Pablo Goloboff, Quagliata Carrasco",
+                "equipadores": "Aylén Martínez - Oscar Zavala - Pablo Goloboff - José Quagliata - Franco Carrasco",
                 "largo": "",
-                "chapas": "7",
-                "grado": "?",
+                "chapas": "5+2",
+                "grado": "7a+",
                 "observaciones":""
             }
         ]
@@ -383,7 +391,7 @@
         "imagen3": "",
         "imagenLlegar": "el-rincon",
         "imagenMapa": "",
-        "descripcion": "7 vías entre 5 y 8a | mts",
+        "descripcion": "7 vías entre 5 y 8a",
         "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
         "vias": 
         [
@@ -391,40 +399,32 @@
                 "nombre": "Y diai",
                 "equipadores": "Devon Dennis",
                 "largo": "",
-                "chapas": "9?",
-                "grado": "6a",
+                "chapas": "6+2",
+                "grado": "6a?",
                 "observaciones":""
             },
             {
                 "nombre": "Apreta Sr. Miyagui",
                 "equipadores": "Devon Dennis",
                 "largo": "",
-                "chapas": "6",
+                "chapas": "",
                 "grado": "5?",
                 "observaciones":""
             },
             {
                 "nombre": "Pequeñón",
-                "equipadores": "Augusto Diebel, Sebastian R",
+                "equipadores": "Augusto Diebel, Sebastian Rupestre",
                 "largo": "",
-                "chapas": "8",
+                "chapas": "",
                 "grado": "8a",
                 "observaciones":"Vía nueva"
             },
             {
-                "nombre": "Atajate Este Meteorito",
-                "equipadores": "Oscar Zabala, Jose Quagliata",
-                "largo": "",
-                "chapas": "8",
-                "grado": "6c+",
-                "observaciones":""
-            },
-            {
-                "nombre": "Natalia Natalia",
-                "equipadores": "",
+                "nombre": "Proyecto",
+                "equipadores": "Damián Zanotti - Hernán Maroa",
                 "largo": "",
                 "chapas": "",
-                "grado": "6a",
+                "grado": "8a?",
                 "observaciones":""
             },
             {
@@ -436,11 +436,19 @@
                 "observaciones":""
             },
             {
-                "nombre": "Proyecto",
-                "equipadores": "",
+                "nombre": "Atajate Este Meteorito",
+                "equipadores": "Oscar Zavala, Jose Quagliata",
                 "largo": "",
                 "chapas": "",
-                "grado": "8a",
+                "grado": "6c+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Natalia Natalia",
+                "equipadores": "",
+                "largo": "",
+                "chapas": "6+2",
+                "grado": "6a",
                 "observaciones":""
             }
         ]
@@ -452,7 +460,7 @@
         "slugZona": "el-rincon",
         "nombre" : "La Quebrada (Sector Escuela)",
         "slug":"la-quebrada-sector-escuela",
-        "subtitulo" : "8 vías entre 5+ y 6b",
+        "subtitulo" : "7 vías entre 5+ y 6b",
         "imagen" : "sector-escuela-general",
         "imagenSector": 
         [ 
@@ -463,53 +471,13 @@
         "imagen3": "",
         "imagenLlegar": "el-rincon",
         "imagenMapa": "",
-        "descripcion": "8 vías entre 5+ y 6b | mts",
+        "descripcion": "7 vías entre 5+ y 6b",
         "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
         "vias": 
         [
             {
-                "nombre": "Se va la Primera",
-                "equipadores": "",
-                "largo": "",
-                "chapas": "5",
-                "grado": "6a",
-                "observaciones":""
-            },
-            {
-                "nombre": "La Sensual",
-                "equipadores": "",
-                "largo": "",
-                "chapas": "6",
-                "grado": "5+",
-                "observaciones":"arriba piedras sueltas y nido"
-            },
-            {
-                "nombre": "La Pulenta",
-                "equipadores": "",
-                "largo": "",
-                "chapas": "7",
-                "grado": "6b",
-                "observaciones":""
-            },
-            {
-                "nombre": "La Chica del Blem",
-                "equipadores": "",
-                "largo": "",
-                "chapas": "7",
-                "grado": "6b",
-                "observaciones":""
-            },
-            {
-                "nombre": "La Chica por Fuerza Zen",
-                "equipadores": "",
-                "largo": "",
-                "chapas": "7",
-                "grado": "6a+",
-                "observaciones":""
-            },
-            {
-                "nombre": "Fuerza Zen",
-                "equipadores": "",
+                "nombre": "Mente en Blanco",
+                "equipadores": "Gustavo Agüero - Román Benitez",
                 "largo": "",
                 "chapas": "7",
                 "grado": "5+",
@@ -517,18 +485,50 @@
             },
             {
                 "nombre": "De Uuuna!!!",
-                "equipadores": "",
+                "equipadores": "Nicolás Aguirre - Gustavo Zelarayán - Román Benitez",
                 "largo": "",
                 "chapas": "7",
                 "grado": "5+",
                 "observaciones":""
             },
             {
-                "nombre": "Mente en Blanco",
-                "equipadores": "",
+                "nombre": "Fuerza Zen",
+                "equipadores": "Federico Aguirre - Nicolás Werning",
                 "largo": "",
                 "chapas": "7",
                 "grado": "5+",
+                "observaciones":""
+            },
+            {
+                "nombre": "La Chica del Blem",
+                "equipadores": "Daniela Astudillo - Juan Pablo Vera",
+                "largo": "",
+                "chapas": "7",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "La Pulenta",
+                "equipadores": "Nicolás Kindgard - Serafín Infante",
+                "largo": "",
+                "chapas": "7",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "La Sensual",
+                "equipadores": "Aylén Martínez - Oscar Zavala",
+                "largo": "",
+                "chapas": "6",
+                "grado": "5+",
+                "observaciones":"arriba piedras sueltas y nido"
+            },
+            {
+                "nombre": "Se va la Primera",
+                "equipadores": "Bruno Olivera - Roberto Sánchez",
+                "largo": "",
+                "chapas": "5+2",
+                "grado": "6a",
                 "observaciones":""
             }
         ]
@@ -538,45 +538,34 @@
         "idZona": 2,
         "nombreZona": "El Rincón",
         "slugZona": "el-rincon",
-        "nombre" : "El Peñon / La Varita",
-        "slug":"el-penon-la-varita",
-        "subtitulo" : "9 vías entre 5b y 7c",
-        "imagen" : "el-penon-general",
+        "nombre" : "La Varita",
+        "slug":"la-varita",
+        "subtitulo" : "5 vías entre 6b y 7a",
+        "imagen" : "la-varita-general",
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
-            },
-            {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-la-varita"
             }
         ],
         "imagen3": "",
         "imagenLlegar": "el-rincon",
         "imagenMapa": "",
-        "descripcion": "9 vías entre 5b y 7c | 23 mts",
+        "descripcion": "5 vías entre 6b y 7a",
         "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
         "vias": 
         [
             {
-                "nombre": "Sensei",
-                "equipadores": "",
-                "largo": "12m",
-                "chapas": "",
-                "grado": "7c",
-                "observaciones":""
-            },
-            {
                 "nombre": "La Varita de Willow",
-                "equipadores": "",
+                "equipadores": "Zavala - Quagliata - Carrasco",
                 "largo": "",
-                "chapas": "11?",
+                "chapas": "",
                 "grado": "6b+",
                 "observaciones":""
             },
             {
                 "nombre": "Sinai",
-                "equipadores": "",
+                "equipadores": "Damián Zanotti - Hernán Maroa",
                 "largo": "",
                 "chapas": "",
                 "grado": "7a+",
@@ -584,51 +573,27 @@
             },
             {
                 "nombre": "La Negrita Rum",
-                "equipadores": "Bernardo",
+                "equipadores": "Quagliata - Carrasco",
                 "largo": "",
                 "chapas": "",
-                "grado": "6c/+",
+                "grado": "6c",
                 "observaciones":""
             },
             {
                 "nombre": "La Leyenda del Mini",
-                "equipadores": "Oscar Zabala, Jose Quagliata",
-                "largo": "23m",
-                "chapas": "13",
-                "grado": "6b+",
+                "equipadores": "Oscar Zavala, Jose Quagliata",
+                "largo": "",
+                "chapas": "",
+                "grado": "6b",
                 "observaciones":"Recien equipada puede haber roca suelta"
             },
             {
-                "nombre": "Proyecto",
-                "equipadores": "",
-                "largo": "",
-                "chapas": "",
-                "grado": "",
-                "observaciones":""
-            },
-            {
                 "nombre": "Animal Mecánico",
-                "equipadores": "",
+                "equipadores": "Damián Zanotti - Hernán Maroa",
                 "largo": "",
                 "chapas": "",
                 "grado": "7a",
                 "observaciones":""
-            },
-            {
-                "nombre": "Mi Escuelita",
-                "equipadores": "",
-                "largo": "",
-                "chapas": "",
-                "grado": "5b",
-                "observaciones":"Cuidado, la via no se usa mucho con lo cual se encuentra muy sucia. Tambien hay piedras huecas"
-            },
-            {
-                "nombre": "Placa Golo",
-                "equipadores": "Patricio Payrola",
-                "largo": "",
-                "chapas": "",
-                "grado": "6a",
-                "observaciones":"Cuidado, la via no se usa mucho con lo cual se encuentra muy sucia. Tambien hay piedras huecas"
             }
         ]
     },
@@ -650,55 +615,55 @@
         "imagen3": "",
         "imagenLlegar": "el-rincon",
         "imagenMapa": "",
-        "descripcion": "6 vías entre 6b y 7b | mts",
+        "descripcion": "6 vías entre 6b y 7b",
         "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
         "vias": 
         [
             {
                 "nombre": "Chaskibum",
-                "equipadores": "",
+                "equipadores": "Nicolas Werning",
                 "largo": "",
-                "chapas": "3",
+                "chapas": "3+2",
                 "grado": "6b",
                 "observaciones":"Comparte chapa con Rompeportones"
             },
             {
                 "nombre": "Rompeportones",
-                "equipadores": "",
+                "equipadores": "Nicolas Werning",
                 "largo": "",
-                "chapas": "3",
+                "chapas": "3+2",
                 "grado": "6b",
                 "observaciones":"Comparte chapa con Chaskibum"
             },
             {
                 "nombre": "Molotov",
-                "equipadores": "",
+                "equipadores": "Daniela Astudillo",
                 "largo": "",
-                "chapas": "4",
+                "chapas": "4+2",
                 "grado": "6b",
                 "observaciones":""
             },
             {
                 "nombre": "Hombre Bomba",
-                "equipadores": "",
+                "equipadores": "Federico Aguirre",
                 "largo": "",
-                "chapas": "3",
+                "chapas": "3+2",
                 "grado": "6c",
                 "observaciones":"Comparte chapa con Atómica"
             },
             {
                 "nombre": "Atómica",
-                "equipadores": "",
+                "equipadores": "Federico Aguirre",
                 "largo": "",
-                "chapas": "3",
+                "chapas": "3+2",
                 "grado": "7b",
                 "observaciones":"comparte chapa con Hombre Bomba"
             },
             {
                 "nombre": "Estruendo",
-                "equipadores": "",
+                "equipadores": "Daniela Astudillo",
                 "largo": "",
-                "chapas": "3",
+                "chapas": "3+2",
                 "grado": "6b+",
                 "observaciones":""
             }
@@ -711,7 +676,7 @@
         "slugZona": "el-rincon",
         "nombre" : "El Corral",
         "slug":"el-corral",
-        "subtitulo" : "9 vías entre 6b y 7b+",
+        "subtitulo" : "10 vías entre 6b y 7b+",
         "imagen" : "el-corral-general",
         "imagenSector": 
         [ 
@@ -722,69 +687,69 @@
         "imagen3": "",
         "imagenLlegar": "el-rincon",
         "imagenMapa": "",
-        "descripcion": "9 vías entre 6b y 7b+ | mts",
+        "descripcion": "10 vías entre 6b y 7b+",
         "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
         "vias": 
         [
             {
                 "nombre": "Romanchino",
-                "equipadores": "",
+                "equipadores": "Gustavo Agüero - Román Benitez",
                 "largo": "",
-                "chapas": "6",
+                "chapas": "4+2",
                 "grado": "6b+",
                 "observaciones":""
             },
             {
                 "nombre": "La Cabra Voladora",
-                "equipadores": "",
+                "equipadores": "Daniela Astudillo - Federico Aguirre",
                 "largo": "",
-                "chapas": "10",
-                "grado": "7a+",
+                "chapas": "8+2",
+                "grado": "7a",
                 "observaciones":""
             },
             {
                 "nombre": "Turbina",
-                "equipadores": "",
+                "equipadores": "Alejandro Lavagnini - Juan Torres",
                 "largo": "",
-                "chapas": "8",
+                "chapas": "8+2",
                 "grado": "7b+",
                 "observaciones":""
             },
             {
                 "nombre": "Pocoyo",
-                "equipadores": "",
+                "equipadores": "Alejandro Lavagnini - Juan Torres",
                 "largo": "",
-                "chapas": "9",
-                "grado": "7a",
+                "chapas": "7+2",
+                "grado": "7a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Travesía",
+                "equipadores": "",
+                "largo": "Boulder",
+                "chapas": "",
+                "grado": "",
                 "observaciones":""
             },
             {
                 "nombre": "Cristianos Llorones",
-                "equipadores": "",
+                "equipadores": "Vera - Zelarayán",
                 "largo": "",
-                "chapas": "10",
+                "chapas": "8+2",
                 "grado": "6c",
                 "observaciones":""
             },
             {
                 "nombre": "Tres Días al Pedo",
-                "equipadores": "",
+                "equipadores": "Federico Aguirre - Nicolás Werning",
                 "largo": "",
-                "chapas": "10",
+                "chapas": "6+2",
                 "grado": "6b",
                 "observaciones":""
             },
             {
-                "nombre": "Toy Pensando",
-                "equipadores": "",
-                "largo": "",
-                "chapas": "12?",
-                "grado": "7b",
-                "observaciones":"Comienza por 'Tres Días Al Pedo'"
-            },
-            {
                 "nombre": "El Columpio",
-                "equipadores": "",
+                "equipadores": "Aylén Martínez - Oscar Zavala - Roberto Sánchez",
                 "largo": "",
                 "chapas": "",
                 "grado": "7b",
@@ -792,11 +757,19 @@
             },
             {
                 "nombre": "Sub 80",
-                "equipadores": "",
+                "equipadores": "Infante - Olivera - Kindgard",
                 "largo": "",
                 "chapas": "",
                 "grado": "7a",
                 "observaciones":""
+            },
+            {
+                "nombre": "Toy Pensando",
+                "equipadores": "Federico Aguirre - Nicolás Werning",
+                "largo": "",
+                "chapas": "3+2",
+                "grado": "7b",
+                "observaciones":"Comienza por 'Tres Días Al Pedo'"
             }
         ]
     },
@@ -915,7 +888,7 @@
         "imagenLlegar": "el-remanso",
         "imagenMapa": "",
         "descripcion": "3 vías entre 6a+ y 6c | 22mts",
-        "llegar": "La ruta 325 es un camino turístico de montaña no asfaltado que conecta las localidades de Tafi del Valle con El Mollar, atravesando el valle de las Carreras y rodeando el cerro El Pelao.<br>Desde El Mollar se avanza por la ruta 325 hacia el poblado de el Rincón, y se continua por el mismo hasta cruzar el Río El Mollar, donde se debe dejar el vehículo. Desde este punto se asciende caminando hacia los sectores. Si se continúa 600 mt por la ruta, como yendo hacia el Mirador del Cóndor, se llega al sector La Escuelita.",
+        "llegar": "Desde El Mollar se debe seguir la ruta 325 hacia Tafí del Valle y a pocos metros de donde finaliza el poblado de el Rincón, luego de pasar una casa donde fabrican adobes (adobera Ibañez) y sobre la curva, se encuentra el estacionamiento.  Existe una gruta de la Virgen del Valle al otro lado de la ruta y  se debe caminar 5 minutos siguiendo el sendero hacia arriba por la margen derecha (N) de la quebrada.",
         "vias": 
         [
             {
@@ -998,7 +971,7 @@
             },
             {
                 "nombre": "Queen Tour",
-                "equipadores": "Roberto Sanchez, Oscar Zabala",
+                "equipadores": "Roberto Sanchez, Oscar Zavala",
                 "largo": "12m",
                 "chapas": "5+2",
                 "grado": "5",
@@ -1583,7 +1556,7 @@
             },
             {
                 "nombre": "Adherencia Colectiva",
-                "equipadores": "Oscar Zabala",
+                "equipadores": "Oscar Zavala",
                 "largo": "",
                 "chapas": "10+2",
                 "grado": "7a",
@@ -1591,7 +1564,7 @@
             },
             {
                 "nombre": "No sé",
-                "equipadores": "Oscar Zabala",
+                "equipadores": "Oscar Zavala",
                 "largo": "",
                 "chapas": "5+2",
                 "grado": "7b",
@@ -1599,7 +1572,7 @@
             },
             {
                 "nombre": "La Ciática que tengo",
-                "equipadores": "Roberto Sanchez, Oscar Zabala",
+                "equipadores": "Roberto Sanchez, Oscar Zavala",
                 "largo": "",
                 "chapas": "11+2",
                 "grado": "7a+",

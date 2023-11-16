@@ -28,7 +28,7 @@ export const Principal = () => {
                         Bienvenidos a la Guía de Escalada deportiva de la provincia de Tucuman, Argentina. 
                     </p>
                     <p>
-                        Actualmente, esta actividad se encuentra en pleno crecimiento, como en casi todo el norte argentino, gracias a la motivación y compromiso de escaladores, equipadores, escuelas de escalada local y la Asociación Argentina de Montaña (AAM) quienes mediante diversas iniciativas continúan promoviendo el deporte.
+                        Actualmente esta actividad se encuentra en pleno crecimiento, como en casi todo el norte argentino, gracias a la motivación y compromiso de escaladores, equipadores, escuelas de escalada local y la Asociación Argentina de Montaña (AAM) quienes mediante diversas iniciativas continúan promoviendo el deporte.
                     </p>
                     <p>
                         En la presente encontrarás no solo información técnica de los sectores y sus vías sino además, aspectos fundamentales sobre cómo desplazarte de manera segura en un ambiente de montaña, donde es preciso  conservar y proteger la biodiversidad en pos de lograr el desarrollo  de una actividad deportiva en armonía con el ambiente.
