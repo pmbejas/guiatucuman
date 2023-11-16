@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/guiatucuman/static/css/main.9ff31d22.css",
-    "main.js": "/guiatucuman/static/js/main.ee9c3c63.js",
+    "main.js": "/guiatucuman/static/js/main.9c7cfc27.js",
     "static/media/vias-el-purgatorio-nariz-izquierda.jpg": "/guiatucuman/static/media/vias-el-purgatorio-nariz-izquierda.321f8e04b4315230c251.jpg",
     "static/media/vias-el-purgatorio-chimenea1.jpg": "/guiatucuman/static/media/vias-el-purgatorio-chimenea1.e27cc4b8431c3114af83.jpg",
     "static/media/vias-el-purgatorio-pared-chocolate.jpg": "/guiatucuman/static/media/vias-el-purgatorio-pared-chocolate.41f277b854ac9db51062.jpg",
@@ -15,8 +15,9 @@
     "static/media/vias-el-purgatorio-chimenea2.jpg": "/guiatucuman/static/media/vias-el-purgatorio-chimenea2.f0e6b0d6bee38cf20fbe.jpg",
     "static/media/vias-viejas-imagen.jpg": "/guiatucuman/static/media/vias-viejas-imagen.db334f2bcd6baed06438.jpg",
     "static/media/vias-viejas-sector2.jpg": "/guiatucuman/static/media/vias-viejas-sector2.db334f2bcd6baed06438.jpg",
-    "static/media/vias-viejas-sector-general.jpg": "/guiatucuman/static/media/vias-viejas-sector-general.fd6a3f5784b446071818.jpg",
     "static/media/vias-viejas-sector3.jpg": "/guiatucuman/static/media/vias-viejas-sector3.fd6a3f5784b446071818.jpg",
+    "static/media/vias-viejas-general.jpg": "/guiatucuman/static/media/vias-viejas-general.c5b255aecb5f889fcb42.jpg",
+    "static/media/vias-viejas-sector-general.jpg": "/guiatucuman/static/media/vias-viejas-sector-general.20742daefd68be83475d.jpg",
     "static/media/la-varita-general.jpg": "/guiatucuman/static/media/la-varita-general.30e8b7f21f9fd614be16.jpg",
     "static/media/superiorLateral.jpg": "/guiatucuman/static/media/superiorLateral.30e8b7f21f9fd614be16.jpg",
     "static/media/la-bomba-general.jpg": "/guiatucuman/static/media/la-bomba-general.3e84878a90676de6212a.jpg",
@@ -134,10 +135,10 @@
     "static/media/logoAAM.svg": "/guiatucuman/static/media/logoAAM.28b64d1805132b9b1140bedd4c501fb3.svg",
     "index.html": "/guiatucuman/index.html",
     "main.9ff31d22.css.map": "/guiatucuman/static/css/main.9ff31d22.css.map",
-    "main.ee9c3c63.js.map": "/guiatucuman/static/js/main.ee9c3c63.js.map"
+    "main.9c7cfc27.js.map": "/guiatucuman/static/js/main.9c7cfc27.js.map"
   },
   "entrypoints": [
     "static/css/main.9ff31d22.css",
-    "static/js/main.ee9c3c63.js"
+    "static/js/main.9c7cfc27.js"
   ]
 }
