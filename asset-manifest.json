@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/guiatucuman/static/css/main.9ff31d22.css",
-    "main.js": "/guiatucuman/static/js/main.9c7cfc27.js",
+    "main.css": "/guiatucuman/static/css/main.97685f13.css",
+    "main.js": "/guiatucuman/static/js/main.7ddefdfa.js",
     "static/media/vias-el-purgatorio-nariz-izquierda.jpg": "/guiatucuman/static/media/vias-el-purgatorio-nariz-izquierda.321f8e04b4315230c251.jpg",
     "static/media/vias-el-purgatorio-chimenea1.jpg": "/guiatucuman/static/media/vias-el-purgatorio-chimenea1.e27cc4b8431c3114af83.jpg",
     "static/media/vias-el-purgatorio-pared-chocolate.jpg": "/guiatucuman/static/media/vias-el-purgatorio-pared-chocolate.41f277b854ac9db51062.jpg",
@@ -22,9 +22,11 @@
     "static/media/superiorLateral.jpg": "/guiatucuman/static/media/superiorLateral.30e8b7f21f9fd614be16.jpg",
     "static/media/la-bomba-general.jpg": "/guiatucuman/static/media/la-bomba-general.3e84878a90676de6212a.jpg",
     "static/media/vias-el-paraiso.jpg": "/guiatucuman/static/media/vias-el-paraiso.0aa5cb097f2ce79d19a0.jpg",
+    "static/media/rocodromo-general.jpg": "/guiatucuman/static/media/rocodromo-general.d8e59a18fed95da12acf.jpg",
     "static/media/vias-escuelita2.jpg": "/guiatucuman/static/media/vias-escuelita2.3e285a220ab4b1d245e0.jpg",
+    "static/media/vias-el-averno.jpg": "/guiatucuman/static/media/vias-el-averno.6a65a76f6c0e94b47e95.jpg",
     "static/media/quebrada-del-baron-imagen.jpg": "/guiatucuman/static/media/quebrada-del-baron-imagen.5c8759d164eb2a8a6f2c.jpg",
-    "static/media/rocodromo-general.jpg": "/guiatucuman/static/media/rocodromo-general.5c8759d164eb2a8a6f2c.jpg",
+    "static/media/rocodromo-general OLD.jpg": "/guiatucuman/static/media/rocodromo-general OLD.5c8759d164eb2a8a6f2c.jpg",
     "static/media/vias-placas-negras.jpg": "/guiatucuman/static/media/vias-placas-negras.58a50c0948233bc21aae.jpg",
     "static/media/vias-el-chivo-boulder2.jpg": "/guiatucuman/static/media/vias-el-chivo-boulder2.e620f17ece57acc63fe7.jpg",
     "static/media/el-jorobado-general.jpg": "/guiatucuman/static/media/el-jorobado-general.f175bbd9060f46c61ccc.jpg",
@@ -49,9 +51,11 @@
     "static/media/vias-el-corral.jpg": "/guiatucuman/static/media/vias-el-corral.911caa39a9e4bea379fd.jpg",
     "static/media/vias-meteorito.jpg": "/guiatucuman/static/media/vias-meteorito.169a03b497a645326ad4.jpg",
     "static/media/vias-escuelita1.jpg": "/guiatucuman/static/media/vias-escuelita1.c5ece6c11b88436c0cd5.jpg",
+    "static/media/vias-del-rio3.jpg": "/guiatucuman/static/media/vias-del-rio3.9ea8fe425c4ae67cb5a9.jpg",
     "static/media/el-averno-general.jpg": "/guiatucuman/static/media/el-averno-general.2e6714985439ce71c419.jpg",
-    "static/media/vias-el-averno.jpg": "/guiatucuman/static/media/vias-el-averno.2e6714985439ce71c419.jpg",
+    "static/media/vias-el-averno OLD.jpg": "/guiatucuman/static/media/vias-el-averno OLD.2e6714985439ce71c419.jpg",
     "static/media/vias-la-bomba.jpg": "/guiatucuman/static/media/vias-la-bomba.b78376769710659b1f1b.jpg",
+    "static/media/vias-del-rio2.jpg": "/guiatucuman/static/media/vias-del-rio2.d37bffc7b58524207c7b.jpg",
     "static/media/vias-alice-in-boulderland-vias2.jpg": "/guiatucuman/static/media/vias-alice-in-boulderland-vias2.5133fa7fca272d84aa65.jpg",
     "static/media/vias-alice-in-boulderland-boulder6.jpg": "/guiatucuman/static/media/vias-alice-in-boulderland-boulder6.fd9b3ca531f0dd0330c6.jpg",
     "static/media/placas-naranjas-general.jpg": "/guiatucuman/static/media/placas-naranjas-general.213685519d3a7243b46e.jpg",
@@ -75,6 +79,7 @@
     "static/media/vias-el-coimero2.jpg": "/guiatucuman/static/media/vias-el-coimero2.81eafb392a52f18e7fc4.jpg",
     "static/media/vias-la-calavera2.jpg": "/guiatucuman/static/media/vias-la-calavera2.f8656418cce264c393a6.jpg",
     "static/media/vias-depo.jpg": "/guiatucuman/static/media/vias-depo.09e82f1a7b345de9bb8f.jpg",
+    "static/media/vias-del-rio1.jpg": "/guiatucuman/static/media/vias-del-rio1.944d4d122f8b4afb2bcd.jpg",
     "static/media/vias-la-calavera3.jpg": "/guiatucuman/static/media/vias-la-calavera3.045437fe9cf552010db4.jpg",
     "static/media/vias-chivo-berrinche3.jpg": "/guiatucuman/static/media/vias-chivo-berrinche3.c2dbbce82be05c7ce0b8.jpg",
     "static/media/vias-alice-in-boulderland-boulder4.jpg": "/guiatucuman/static/media/vias-alice-in-boulderland-boulder4.341e5bc0e17aa34abef6.jpg",
@@ -88,7 +93,7 @@
     "static/media/mogote-izquierda.jpg": "/guiatucuman/static/media/mogote-izquierda.ef856b3ed68f3c3579e8.jpg",
     "static/media/lateralSuperior.jpg": "/guiatucuman/static/media/lateralSuperior.d33f2650c21162f34679.jpg",
     "static/media/el-purgatorio-pared-chocolate-general.jpg": "/guiatucuman/static/media/el-purgatorio-pared-chocolate-general.e37ae641c5ed0c72a095.jpg",
-    "static/media/vias-rocodromo1.jpg": "/guiatucuman/static/media/vias-rocodromo1.a29209fec1061e2f7d1d.jpg",
+    "static/media/vias-rocodromo1OLD.jpg": "/guiatucuman/static/media/vias-rocodromo1OLD.a29209fec1061e2f7d1d.jpg",
     "static/media/el-purgatorio-chimenea-general.jpg": "/guiatucuman/static/media/el-purgatorio-chimenea-general.5c09c456b4f053e16fab.jpg",
     "static/media/vias-nido-de-aguila-la-proa.jpg": "/guiatucuman/static/media/vias-nido-de-aguila-la-proa.7017aa8c19f04ded831e.jpg",
     "static/media/mapaGeneral.jpg": "/guiatucuman/static/media/mapaGeneral.5509ef858a65ec58e78b.jpg",
@@ -106,7 +111,8 @@
     "static/media/vias-la-varita.jpg": "/guiatucuman/static/media/vias-la-varita.c84d869c5bf400f23820.jpg",
     "static/media/placas-negras-general.jpg": "/guiatucuman/static/media/placas-negras-general.060006149e387a60a1e3.jpg",
     "static/media/nosotros.jpg": "/guiatucuman/static/media/nosotros.ce9e8d154a06c7229794.jpg",
-    "static/media/vias-rocodromo2.jpg": "/guiatucuman/static/media/vias-rocodromo2.c38561fcc2342770a43a.jpg",
+    "static/media/vias-rocodromo2OLD.jpg": "/guiatucuman/static/media/vias-rocodromo2OLD.c38561fcc2342770a43a.jpg",
+    "static/media/vias-rocodromo1.jpg": "/guiatucuman/static/media/vias-rocodromo1.860bf243db953a675215.jpg",
     "static/media/cuevita-general.jpg": "/guiatucuman/static/media/cuevita-general.beb503eea70f64e60e27.jpg",
     "static/media/del-rio-general.jpg": "/guiatucuman/static/media/del-rio-general.610c698dcbdd3c805a77.jpg",
     "static/media/el-paraiso-general.jpg": "/guiatucuman/static/media/el-paraiso-general.3811d2d8752ace2cdb7e.jpg",
@@ -114,6 +120,7 @@
     "static/media/pasillo-general.jpg": "/guiatucuman/static/media/pasillo-general.565be78ff86971e683d4.jpg",
     "static/media/el-purgatorio-pared-de-la-x-general.jpg": "/guiatucuman/static/media/el-purgatorio-pared-de-la-x-general.28f4c2e2316bbc549a9e.jpg",
     "static/media/sector-escuela-general.jpg": "/guiatucuman/static/media/sector-escuela-general.ee3ea534df6b9574e866.jpg",
+    "static/media/vias-rocodromo2.jpg": "/guiatucuman/static/media/vias-rocodromo2.c7bd1d10f388c1df2e3a.jpg",
     "static/media/mapa-los-corpitos.jpg": "/guiatucuman/static/media/mapa-los-corpitos.2d991177d922c6d96786.jpg",
     "static/media/el-rincon-general.jpg": "/guiatucuman/static/media/el-rincon-general.0f6ff9e4423e1ed74444.jpg",
     "static/media/el-corral-general.jpg": "/guiatucuman/static/media/el-corral-general.631c91390ae438072254.jpg",
@@ -134,11 +141,11 @@
     "static/media/warning-sign-triangle.png": "/guiatucuman/static/media/warning-sign-triangle.0479ce91487c847ad46f.png",
     "static/media/logoAAM.svg": "/guiatucuman/static/media/logoAAM.28b64d1805132b9b1140bedd4c501fb3.svg",
     "index.html": "/guiatucuman/index.html",
-    "main.9ff31d22.css.map": "/guiatucuman/static/css/main.9ff31d22.css.map",
-    "main.9c7cfc27.js.map": "/guiatucuman/static/js/main.9c7cfc27.js.map"
+    "main.97685f13.css.map": "/guiatucuman/static/css/main.97685f13.css.map",
+    "main.7ddefdfa.js.map": "/guiatucuman/static/js/main.7ddefdfa.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ff31d22.css",
-    "static/js/main.9c7cfc27.js"
+    "static/css/main.97685f13.css",
+    "static/js/main.7ddefdfa.js"
   ]
 }
