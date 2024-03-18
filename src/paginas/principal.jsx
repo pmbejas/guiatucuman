@@ -92,7 +92,7 @@ export const Principal = () => {
                                 texto="Es aconsejable utilizar el casco en ciertas aproximaciones caminando." />
                             <CardSugerencia 
                                 className="contenedor-alerta-card-informacion"
-                                texto="La escalada transcurre en lugares alejados y donde la ayuda no inmediata. Se recomienda tener conocimientos básicos de primeros auxilios." />
+                                texto="La escalada transcurre en lugares alejados y donde la ayuda no es inmediata. Se recomienda tener conocimientos básicos de primeros auxilios." />
                             <CardSugerencia 
                                 className="contenedor-alerta-card-informacion"
                                 texto="Se utiliza la escala de graduación francesa. Los grados son subjetivos y queda a criterio de cada uno saber escoger correctamente la línea a escalar." />

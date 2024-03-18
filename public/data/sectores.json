@@ -1026,7 +1026,7 @@
         "slugZona": "quebrada-del-baron",
         "nombre" : "Rocodromo",
         "slug":"rocodromo",
-        "subtitulo" : "3 vías de TRAD",
+        "subtitulo" : "4 vías de TRAD",
         "imagen" : "rocodromo-general",
         "imagenSector": 
         [ 
@@ -1040,40 +1040,40 @@
         "imagen3": "",
         "imagenLlegar": "quebrada-del-baron",
         "imagenMapa": "",
-        "descripcion": "3 vías de TRAD",
+        "descripcion": "4 vías de TRAD",
         "llegar": "Desde Tafí del Valle se debe seguir la ruta 307 hacia el Abra del Infiernillo. Unos kilómetros antes de llegar a este último, se encuentra la entrada al P.P.C.C donde existe una construcción. Desde allí se debe caminar aproximadamente 1:30 hr para llegar al sector de escalada deportiva, pasando primero por el puesto de la familia Diaz. Desde la casa, se debe seguir el río por su margen derecha hasta llegar a las vías. Para llegar al Rocódromo, se debe continuar quebrada arriba (3 horas de caminata).",
         "vias": 
         [
             {
-                "nombre": "Izquierda",
+                "nombre": "",
                 "equipadores": "",
                 "largo": "",
                 "chapas": "",
-                "grado": "L1 6a+, L2?",
+                "grado": "L1 6a, L2 6a / L1.1 5",
                 "observaciones":"Multilargo"
             },
             {
-                "nombre": "Variante Izquierda",
+                "nombre": "",
                 "equipadores": "",
                 "largo": "",
                 "chapas": "",
-                "grado": "L2 5+",
+                "grado": "L1 5+, L2 5+",
                 "observaciones":"Multilargo"
             },
             {
-                "nombre": "Centro",
+                "nombre": "",
                 "equipadores": "",
                 "largo": "",
                 "chapas": "",
-                "grado": "L1 5+ L2 6a",
+                "grado": "L1 5+, L2 5+",
                 "observaciones":"Multilargo"
             },
             {
-                "nombre": "Derecha",
+                "nombre": "",
                 "equipadores": "",
                 "largo": "",
                 "chapas": "",
-                "grado": "L1 5, L2 5+",
+                "grado": "L1 4+, L2 5",
                 "observaciones":"Multilargo"
             }
         ]
@@ -1587,7 +1587,7 @@
         "slugZona": "los-corpitos",
         "nombre" : "El Averno",
         "slug":"el-averno",
-        "subtitulo" : "7 vías entre 5 y 7a+",
+        "subtitulo" : "8 vías entre 5 y 7a+",
         "imagen" : "el-averno-general",
         "imagenSector": 
         [ 
@@ -1598,7 +1598,7 @@
         "imagen3": "",
         "imagenLlegar": "los-corpitos",
         "imagenMapa": "",
-        "descripcion": "7 vías entre 5 y 7a+",
+        "descripcion": "8 vías entre 5 y 7a+",
         "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y mojarse, en vez de buscar un punto donde saltar.",
         "vias": 
         [
@@ -1657,6 +1657,14 @@
                 "chapas": "5+2",
                 "grado": "5",
                 "observaciones":""
+            },
+            {
+                "nombre": "Machucasana",
+                "equipadores": "Ulises Saini, Victoria Salvadeo",
+                "largo": "",
+                "chapas": "7+2",
+                "grado": "7a",
+                "observaciones":""
             }
         ]
     },
@@ -1667,27 +1675,30 @@
         "slugZona": "los-corpitos",
         "nombre" : "Del Río",
         "slug":"del-rio",
-        "subtitulo" : "2 vías entre 6b y 6b+",
+        "subtitulo" : "7 vías entre 6a+ y 7b",
         "imagen" : "del-rio-general",
         "imagenSector": 
         [ 
             {
-                "nombreImagen": "cuevita-abajo"
+                "nombreImagen": "vias-del-rio1"
             },
             {
-                "nombreImagen": "cuevita-arriba"
+                "nombreImagen": "vias-del-rio2"
+            },
+            {
+                "nombreImagen": "vias-del-rio3"
             }
         ],
         "imagen3": "",
         "imagenLlegar": "los-corpitos",
         "imagenMapa": "",
-        "descripcion": "2 vías entre 6b y 6b+ | mts",
+        "descripcion": "7 vías entre 6a+ y 7b",
         "llegar": "Desde Tafí del Valle siguiendo la ruta 307 hacia Amaicha del Valle, 8 km después de pasar el Abra del Infiernillo, se encuentra el punto para dejar los autos (se recomienda precaución al manejar por esa zona debido a la densa niebla que suele estar presente). Desde aquí comienza una senda marcada con apachetas, que primero desciende hacia el río Amaicha, lo cruza y luego asciende hacia los sectores. La caminata lleva aproximadamente 30 minutos. En la época más lluviosa del año (verano), es probable que el río tenga más caudal, por lo que se recomienda cruzar con cuidado siendo preferible descalzarse y mojarse, en vez de buscar un punto donde saltar.",
         "vias": 
         [
             {
                 "nombre": "El Chame del 8",
-                "equipadores": "Roberto Sanchez, Ulises Kuznesov",
+                "equipadores": "Roberto Sanchez, Ulises Kusnezov",
                 "largo": "",
                 "chapas": "",
                 "grado": "6b+",
@@ -1695,10 +1706,50 @@
             },
             {
                 "nombre": "La Pichoneta",
-                "equipadores": "Ulises Kuznesov",
+                "equipadores": "Ulises Kusnezov",
                 "largo": "",
                 "chapas": "",
                 "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Devolveme los Parabolts",
+                "equipadores": "Ulises Saini",
+                "largo": "",
+                "chapas": "5+2",
+                "grado": "7b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Con Vos... No Se Puede Hablar",
+                "equipadores": "Victoria Salvadeo",
+                "largo": "",
+                "chapas": "6+2",
+                "grado": "7a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Garabato Tucumano",
+                "equipadores": "Ulises Saini, Victoria Salvadeo",
+                "largo": "",
+                "chapas": "6+2",
+                "grado": "6a+",
+                "observaciones":""
+            },
+            {
+                "nombre": "Se Apersonaron Los Mañeros",
+                "equipadores": "Ulises Saini",
+                "largo": "",
+                "chapas": "5+2",
+                "grado": "6b",
+                "observaciones":""
+            },
+            {
+                "nombre": "Apaguen Las Balizas Es Neblina",
+                "equipadores": "Ulises Saini, Victoria Salvadeo",
+                "largo": "",
+                "chapas": "5+2",
+                "grado": "6b+",
                 "observaciones":""
             }
         ]
