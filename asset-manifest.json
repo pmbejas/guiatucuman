@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/guiatucuman/static/css/main.97685f13.css",
-    "main.js": "/guiatucuman/static/js/main.7ddefdfa.js",
+    "main.js": "/guiatucuman/static/js/main.5ec8abbd.js",
     "static/media/vias-el-purgatorio-nariz-izquierda.jpg": "/guiatucuman/static/media/vias-el-purgatorio-nariz-izquierda.321f8e04b4315230c251.jpg",
     "static/media/vias-el-purgatorio-chimenea1.jpg": "/guiatucuman/static/media/vias-el-purgatorio-chimenea1.e27cc4b8431c3114af83.jpg",
     "static/media/vias-el-purgatorio-pared-chocolate.jpg": "/guiatucuman/static/media/vias-el-purgatorio-pared-chocolate.41f277b854ac9db51062.jpg",
@@ -142,10 +142,10 @@
     "static/media/logoAAM.svg": "/guiatucuman/static/media/logoAAM.28b64d1805132b9b1140bedd4c501fb3.svg",
     "index.html": "/guiatucuman/index.html",
     "main.97685f13.css.map": "/guiatucuman/static/css/main.97685f13.css.map",
-    "main.7ddefdfa.js.map": "/guiatucuman/static/js/main.7ddefdfa.js.map"
+    "main.5ec8abbd.js.map": "/guiatucuman/static/js/main.5ec8abbd.js.map"
   },
   "entrypoints": [
     "static/css/main.97685f13.css",
-    "static/js/main.7ddefdfa.js"
+    "static/js/main.5ec8abbd.js"
   ]
 }
