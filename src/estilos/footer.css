@@ -1,11 +1,13 @@
 .contenedor-footer {
-    display: flex;
-    flex-direction: row;
     color: var(--color-texto-claro);
-    padding-top: 30px;
-    width: 90%;
+    padding-top: 10px;
+    width: 95%;
 }
 
-.contenedor-footer--columna1 {
-
+.texto-link-footer {
+    color: var(--color-texto-claro);
+    font-size: 1em;
+    align-self: flex-start;
+    padding: 20px 0px;
+    text-decoration: none;
 }

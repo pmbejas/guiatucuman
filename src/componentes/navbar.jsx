@@ -132,11 +132,29 @@ export const NavBar = (props) => {
                             <span className="">Nosotros</span>
                         </div>
                     </Link>
-{/*                     <Link to="/notas" style={{ textDecoration: 'none' }}>
-                        <div className="texto-menu">
-                            <span className="">Notas</span>
-                        </div>
-                    </Link> */}
+                    <div className="">
+                        <a href="https://www.aamtuc.org"
+                            target="_blank"
+                            rel="noreferrer noopener">
+                            <img className="imagen-redes-sociales logoAAM" 
+                                src={logoAAM}
+                                alt="Canal de Youtube" />   
+                        </a>
+                        <a href="https://www.youtube.com/@asociacionargentinademonta9143"
+                            target="_blank"
+                            rel="noreferrer noopener">
+                            <img className="imagen-redes-sociales ms-2 me-2" 
+                                src={require('../img/youtube.png')} 
+                                alt="Canal de Youtube" />   
+                        </a>
+                        <a href="https://www.instagram.com/aam_tucuman"
+                            target="_blank"
+                            rel="noreferrer noopener">
+                            <img className="imagen-redes-sociales" 
+                                src={require('../img/instagram.png')} 
+                                alt="Pagina de Instagram" />
+                        </a>
+                    </div>
                 </div>
             </div>
         </nav>

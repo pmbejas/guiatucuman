@@ -18,12 +18,6 @@ export const Principal = () => {
         <div className="contenedor">
             <div className="seccion-superior">
                 <div className="contenedor-mitad">
-                    <h1>
-                        Guía de Escalada
-                    </h1>
-                    <h1>
-                        Tafí del Valle
-                    </h1>
                     <p>
                         Bienvenidos a la Guía de Escalada deportiva de la provincia de Tucuman, Argentina. 
                     </p>

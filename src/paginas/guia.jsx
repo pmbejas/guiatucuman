@@ -40,13 +40,13 @@ export const Guias = (props) => {
             <div className="seccion-zonas-escalada-guias">
                 <h1 className="mt-5">Zonas de Escalada</h1>
                 <div className="d-flex row gap-3 mt-3 justify-content-center mb-3">
-                    <a href="" className="col-11 col-md-4 m-0 p-0 gap-0" target="_blank">
+                    <a href="www.guiaescalada.com.ar" className="col-11 col-md-4 m-0 p-0 gap-0" target="_blank">
                         <img className="imagen-mapa" src={mapaGeneral} alt="Mapa General" />
                     </a>
-                    <a href="" className="col-11 col-md-4 m-0 p-0 gap-0">
+                    <a href="www.guiaescalada.com.ar" className="col-11 col-md-4 m-0 p-0 gap-0">
                     <img className="imagen-mapa" src={mapaInfiernillo} alt="Mapa General" />
                     </a>
-                    <a href="" className="col-11 col-md-4 m-0 p-0 gap-0">
+                    <a href="www.guiaescalada.com.ar" className="col-11 col-md-4 m-0 p-0 gap-0">
                         <img className="imagen-mapa" src={mapaValle} alt="Mapa General" />
                     </a>
                 </div>
