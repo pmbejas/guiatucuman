@@ -13,7 +13,7 @@ export const Zona = (props) => {
     const [zonas, setZonas] = useState({});
     const [sectores, setSectores] = useState([]);
     const [error, setError]=useState(null);
-    const [errorSectores, setErrorSectores]=useState(null);
+    const [errorSectores, setErrorSectores]=useState();
     
     useEffect(()=>{
         window.scrollTo({
