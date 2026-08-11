@@ -8,6 +8,10 @@
 # testing
 /coverage
 
+# Next.js build output y caché (nunca subir al repositorio)
+/.next
+/out
+
 # production
 /build
 
