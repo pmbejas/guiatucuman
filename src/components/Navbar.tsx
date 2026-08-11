@@ -4,7 +4,7 @@ import { useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useTranslations } from 'next-intl';
-import { SelectorIdioma } from './SelectorIdioma';
+import { SelectorIdioma } from '@/components/SelectorIdioma';
 import type { Zona } from '@/types/Guia';
 
 interface PropiedadesNavbar {
@@ -169,15 +169,15 @@ export function Navbar({ zonas }: PropiedadesNavbar) {
             </Link>
 
             <div className="con-submenu" style={{ width: '90%', alignItems: 'center', display: 'flex', flexDirection: 'column' }}>
-              <div
+              <button
                 className="texto-menu"
                 onClick={() => setSubmenuAbierto((a) => !a)}
-                role="button"
                 aria-expanded={submenuAbierto}
+                style={{ background: 'none', border: 'none', cursor: 'pointer', width: '100%', display: 'flex', justifyContent: 'center', gap: '4px' }}
               >
                 <span>{t('guia')}</span>
                 <span className="texto-menu-small">▼</span>
-              </div>
+              </button>
               {submenuAbierto && (
                 <div className="submenu" style={{ position: 'static', width: '100%', marginTop: 12 }}>
                   {zonas.map((zona) => (
