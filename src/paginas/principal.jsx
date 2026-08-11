@@ -22,7 +22,7 @@ export const Principal = () => {
                         Bienvenidos a la Guía de Escalada deportiva de la provincia de Tucuman, Argentina. 
                     </p>
                     <p>
-                        Actualmente esta actividad se encuentra en pleno crecimiento, como en casi todo el norte argentino, gracias a la motivación y compromiso de escaladores, equipadores, escuelas de escalada local y la Asociación Argentina de Montaña (AAM) quienes mediante diversas iniciativas continúan promoviendo el deporte.
+                        Actualmente esta actividad se encuentra en pleno crecimiento, como en casi todo el norte argentino, gracias a la motivación y compromiso de escaladores, equipadores, escuelas de escalada locales y la Asociación Argentina de Montaña (AAM) quienes mediante diversas iniciativas continúan promoviendo el deporte.
                     </p>
                     <p>
                         En la presente encontrarás no solo información técnica de los sectores y sus vías sino además, aspectos fundamentales sobre cómo desplazarte de manera segura en un ambiente de montaña, donde es preciso  conservar y proteger la biodiversidad en pos de lograr el desarrollo  de una actividad deportiva en armonía con el ambiente.
@@ -42,7 +42,7 @@ export const Principal = () => {
             
             <div className="seccion-medio">
                 <div className="seccion-sugerencias-guias">
-                    <h1>Aclaraciones y sugerencias</h1>
+                    <h2>Aclaraciones y sugerencias</h2>
                     <div className="seccion-alerta-guias">
                         <div className="seccion-alerta-contenido-guias">
                             <div className="seccion-alerta-contenido-guias-titulo">
@@ -100,7 +100,7 @@ export const Principal = () => {
                     </div>
                 </div>
                 <div className="seccion-sugerencias-guias">
-                    <h1>Cuidado del Lugar</h1>
+                    <h2>Cuidado del Lugar</h2>
                     <div className="seccion-alerta-guias bg-green">
                         <div className="seccion-alerta-contenido-guias bg-green">
                             <div className="seccion-alerta-contenido-guias-titulo bg-green">

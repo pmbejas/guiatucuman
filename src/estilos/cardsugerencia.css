@@ -6,7 +6,7 @@
     flex-direction: row;
     width: 45%;
     justify-content: flex-start;
-    align-items: center;
+    align-items: flex-start;
     background: none;
     color: black;
 }
@@ -14,7 +14,7 @@
 .contenedor-card-sugerencia--img {
     width: 35px;
     height: 35px;
-    margin-right: 5px;
+    margin-right: 10px;
 }
 
 @media (max-width: 768px) {
@@ -22,5 +22,7 @@
     .contenedor-card-sugerencia {
         width: 95%;
         margin-bottom: 15px;
+        padding-top: 0px;
+        padding-bottom: 0px;
     }
 }

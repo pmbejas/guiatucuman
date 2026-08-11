@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "corrales-del-infiernillo",
+    "descripcion": "Esta zona está muito perto da rota 307, sendo necessário caminhar alguns minutos e cruzar o rio para chegar lá. Foi equipada em 2019 e possui 8 vias distribuídas em 3 setores próximos. Encontra-se a quase 3000m de altitude. A rocha predominante é o granito. Como todas as zonas próximas ao Abra del Infiernillo, é uma boa opção quando o mau tempo impede escalar no Vale de Tafí.",
+    "llegar": "Do Abra del Infiernillo, continua-se pela rota 307 por aproximadamente 5 km, até chegar ao ponto de estacionamento. Dali, a caminhada nos convida a descer até o rio Amaicha e subi-lo por uns 100m, onde se deve dobrar à direita e continuar pela quebrada secundária que aparece. Ali encontram-se os setores 'Pasillo' primeiro, e 'Mogote' depois. O setor 'Cuevita' encontra-se acima do 'Pasillo', na encosta.",
+    "sectorAcampe": "Não existe um lugar definido ainda. Com criatividade, é possível encontrar um lugar plano perto do rio. Não é recomendado beber água do rio sem tratamento prévio, pois existem comunidades com muitos animais rio acima."
+  },
+  {
+    "slug": "el-rincon",
+    "descripcion": "Trata-se da zona com maior quantidade de vias e a mais visitada, devido à ampla oferta de graus e à proximidade com a rota 325.<br>Possui vários setores que serviram como cenário de um curso de equipadores gerenciado pela AAM em 2016, onde foram equipadas grande parte das rotas atuais, e conta em sua maioria com vias de pouca altura, mas desplomadas.<br>Este setor também é conhecido pelo nome de: mirador del cóndor, peñón del águila, las carreras, calavera e outros.",
+    "llegar": "A rota 325 é uma estrada turística de montanha não asfaltada que conecta as localidades de Tafí del Valle com El Mollar, atravessando o vale de Las Carreras e contornando o cerro El Pelao.<br>De El Mollar, avança-se pela rota 325 em direção à aldeia de El Rincón, continuando por ela até cruzar o Rio El Mollar, onde se deve deixar o veículo. Deste ponto, sobe-se a pé em direção aos setores. Se continuar 600m pela rota, como indo em direção ao Mirador del Cóndor, chega-se ao setor La Escuelita.",
+    "sectorAcampe": "É possível acampar na quebrada, ao lado do rio ou no posto de Don Romano no Mirador del Cóndor."
+  },
+  {
+    "slug": "el-remanso",
+    "descripcion": "Equipado em 2021, trata-se de um dos setores mais bonitos do vale, localizado em um bosque de amieiros com uma pequena cachoeira que divide a parede. Há 5 vias do 6b ao 7b+ e geralmente está à sombra.",
+    "llegar": "De El Mollar, deve-se seguir a rota 325 em direção a Tafí del Valle e a poucos metros de onde termina a aldeia de El Rincón, após passar por uma casa onde fabricam tijolos de adobe (Adobera Ibañez) e na curva, encontra-se o estacionamento. Existe uma gruta da Virgem do Vale do outro lado da rota e deve-se caminhar 5 minutos seguindo a trilha para cima pela margem direita (N) da quebrada.",
+    "sectorAcampe": "É possível acampar ao lado do veículo. A água disponível não inspira confiança para beber."
+  },
+  {
+    "slug": "los-corpitos",
+    "descripcion": "Trata-se do segundo setor com mais quantidade de vias e também o mais novo. Começou a ser equipado em 2022 e possui vários tipos de rocha de diversa qualidade, destacando-se a parede conhecida como 'Paraíso' (esta zona também é conhecida por esse nome). Esses setores devem sua importância por ser uma alternativa quando o mau tempo não permite escalar no vale de Tafí, já que as nuvens não conseguem passar o abra do infiernillo. Encontra-se a 2900 msnm.",
+    "llegar": "De Tafí del Valle seguindo a rota 307 em direção a Amaicha del Valle, 8 km após passar o Abra del Infiernillo, encontra-se o ponto para deixar os carros (recomenda-se precaução ao dirigir por essa zona devido à densa neblina que costuma estar presente). Daqui começa uma trilha marcada com apachetas, que primeiro desce em direção ao rio Amaicha, o cruza e depois sobe em direção aos setores. A caminhada leva aproximadamente 30 minutos. Na época mais chuvosa do ano (verão), é provável que o rio tenha mais caudal, por isso recomenda-se cruzar com cuidado, sendo preferível descalçar-se e molhar-se, em vez de buscar um ponto para saltar.",
+    "sectorAcampe": "Embora não exista um lugar definido, há um lugar confortável para acampar alguns metros rio acima (desde o ponto de cruzamento do rio), na mesma margem da trilha em uma plataforma. Não é recomendado beber água do rio sem tratamento prévio, pois existem comunidades com muitos animais rio acima."
+  },
+  {
+    "slug": "vias-viejas",
+    "descripcion": "Como o nome indica, trata-se das primeiras vias equipadas no Vale de Tafí (1997), e deve-se caminhar aproximadamente entre 45 minutos a 1 hora para chegar a elas. Caracterizam-se por ser uma placa técnica levemente desplomada.<br>A parede costuma estar à sombra durante todo o dia e possui 3 rotas de grau e uma de 5º para aquecer.",
+    "llegar": "O mais recomendável é acessar de Tafí del Valle seguindo a rota 325. No bairro Rodeo Grande, à altura da capela San Isidro Labrador, deve-se dobrar em direção às encostas do Cerro Muñoz (à direita) e continuar por uma estrada interna até onde ela termina, bem sobre um riacho. Deste ponto, cruza-se uma porteira e continua-se caminhando pela quebrada até chegar às vias.",
+    "sectorAcampe": "Não é recomendado. Existe água que circula com pouca força pela quebrada."
+  },
+  {
+    "slug": "chivo-berrinche",
+    "descripcion": "Trata-se de um setor que oferece vistas magníficas enquanto se escala, pois está localizado nas encostas leste do Cerro Pelao, em frente à Represa La Angostura. Além das vias equipadas, possui algumas vias de top-rope e alguns boulders, e embora seja um setor muito amigável para iniciantes, conta com uma linha proposta de 8a... a via que dá nome ao setor e que foi a primeira rota equipada do lugar, em 2006.",
+    "llegar": "De Tafí del Valle toma-se o caminho em direção ao bairro Ojo de Agua, passando perto do cemitério e seguindo a Represa La Angostura por sua margem oeste em direção a Casas Viejas (na rota 307, existe como referência a placa que indica o caminho para Casas Viejas). No ponto marcado, pode-se dobrar à direita e continuar por uma trilha que chega muito perto do setor. Dali, basta seguir a trilha por 5 minutos e cruzar uma porteira para chegar às vias.",
+    "sectorAcampe": "Nas proximidades do setor existem alguns lugares planos para acampar. A água presente, dependendo de onde for obtida, pode ou não ser adequada para beber."
+  },
+  {
+    "slug": "quebrada-del-baron",
+    "descripcion": "Este setor encontra-se a grande altitude e a 1:30 de caminhada, razões pelas quais não é muito visitado. Além disso, possui apenas duas vias de escalada esportiva, longas e de placa levemente positiva, equipadas em 2012. O grau de ambas é em torno do 6c e para visitá-las deve-se levar em conta o isolamento, o sol implacável e os efeitos da altitude. Continuando pela quebrada a uma altitude de 3700 msnm encontra-se o 'Rocódromo', lugar clássico para realizar escalada tradicional.<br>Ao contrário das outras zonas de escalada, esta encontra-se nas Cumbres Calchaquíes, dentro do Parque Provincial homônimo (P.P.C.C.).",
+    "llegar": "De Tafí del Valle deve-se seguir a rota 307 em direção ao Abra del Infiernillo. Alguns quilômetros antes de chegar a este último, encontra-se a entrada ao P.P.C.C onde existe uma construção. Dali deve-se caminhar aproximadamente 1:30 hr para chegar ao setor de escalada esportiva, passando primeiro pelo posto da família Diaz. Da casa, deve-se seguir o rio por sua margem direita até chegar às vias. Para chegar ao Rocódromo, deve-se continuar quebrada acima (3 horas de caminhada).",
+    "sectorAcampe": "Não é recomendado acampar nas imediações do setor esportivo. A água da quebrada é potável. No rocódromo o acampamento está definido ao lado de uma grande rocha, com cobertura e muros de pedra."
+  },
+  {
+    "slug": "alice-in-boulderland",
+    "descripcion": "Setor localizado ao pé do cerro Ñuñorco, principalmente de boulder e algumas vias. Está situado na quebrada, com as rochas distribuídas em ambos os lados. Todos os boulders propostos têm uma aproximação muito agradável e geralmente há espaço na base das vias. Pouca sombra e no verão o sol é implacável. Nem todos os grampos e âncoras existentes estão nas melhores condições.",
+    "llegar": "De El Mollar deve-se continuar pela rota 307 em direção a La Angostura, ou seja, em direção à parede da represa. Antes de chegar a ela, existe uma parada de ônibus com uma placa que diz 'Ñuñorco', onde se deve dobrar e começar a subir. Deve-se continuar por este caminho de terra, até onde termina, perto de algumas casas e uma tomada d'água. Para chegar ao setor, basta caminhar 5 minutos em direção à quebrada. Como referência, as rochas começam à altura dos tanques e piscinas, e deve-se subir pela quebrada para ir encontrando os diversos boulders.",
+    "sectorAcampe": "Não é recomendado. A quebrada carrega água."
+  }
+]

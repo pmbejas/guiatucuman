@@ -11,3 +11,24 @@
     padding: 20px 0px;
     text-decoration: none;
 }
+
+.texto-link-footer-contactos {
+    color: var(--color-texto-claro);
+    font-size: .9em;
+    align-self: flex-start;
+    padding: 20px 0px;
+    text-decoration: none;
+}
+
+.texto-link-footer-informacion {
+
+}
+
+.texto-link-footer-pmwebdeveloper {
+    color: var(--color-texto-claro);
+    font-size: .8em;
+    align-self: flex-start;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    text-decoration: none;
+}

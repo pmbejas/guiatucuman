@@ -34,7 +34,7 @@ export const Proyecto = () => {
                                     La AAM es un club de montañismo y escalada con sede en Yerba Buena, Tucumán y que posee entre sus bases fundacionales, el deseo de promover y desarrollar ambas actividades. Esta guía nos acerca un poco más a lograr ese objetivo. 
                                 </p>
                                 <p>
-                                    Invitamos a nuestros comprovincianos como así también a quienes nos visiten de otras provincias, a que disfruten  y hagan  uso de esta guía gratuita. Para cualquier sugerencia se solicita comunicarse al siguiente mail {<a href="mailto:guiaaamtuc@gmail.com" target="_blank" rel="noreferrer">guiaaamtuc@gmail.com</a>}.
+                                    Invitamos a nuestros comprovincianos como así también a quienes nos visiten de otras provincias, a que disfruten  y hagan  uso de esta guía gratuita. Para cualquier sugerencia se solicita comunicarse al siguiente mail {<a href="mailto:consulta@guiaescaladatucuman.com.ar" target="_blank" rel="noreferrer">consulta@guiaescaladatucuman.com.ar</a>}.
                                 </p>
                                 <p>
                                     No se puede dejar de agradecer, a quienes dedican su tiempo, dinero y esfuerzo para el equipe de nuevas vías, como así también, a quienes aportan a la causa con una ayuda económica.
@@ -75,7 +75,7 @@ export const Proyecto = () => {
                                 Matias Rohmer, Andres Quiroga, Roberto Sanchez, Ulises Saini, Victoria Salvadeo, José Góngora
                             </p>
                             <p>
-                                A quienes trabajaron para hacer realidad este proyecto: Pablo Bejas, Aylén Martínez, Jimena Bulacio, Victoria Salvadeo, Ulises Saini, Emiliano Soria Mansilla, y Ulises Kusnezov
+                                A quienes trabajaron para hacer realidad este proyecto: Pablo Bejas, Aylén Martínez, Jimena Bulacio, Victoria Salvadeo, Ulises Saini, Emiliano Soria Mansilla, Oscar Zavala Garro, y Ulises Kusnezov
                             </p>
                             <p>
                                 Y, por supuesto, a todos los socios de la AAM por su aporte constante al club.

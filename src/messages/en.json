@@ -1,0 +1,94 @@
+{
+  "navegacion": {
+    "inicio": "Home",
+    "guia": "Guide",
+    "nosotros": "About Us"
+  },
+  "principal": {
+    "bienvenida": "Welcome to the Sport Climbing Guide of the province of Tucumán, Argentina.",
+    "descripcion1": "This activity is currently growing rapidly, as in almost all of northern Argentina, thanks to the motivation and commitment of climbers, route developers, local climbing schools and the Argentine Mountain Association (AAM) who continue to promote the sport through various initiatives.",
+    "descripcion2": "Here you will find not only technical information about sectors and their routes, but also fundamental aspects about how to move safely in a mountain environment, where it is essential to conserve and protect biodiversity in order to achieve a sporting activity in harmony with the environment.",
+    "descripcion3": "In Tucumán, climbing is concentrated in the Tafí del Valle Department, specifically in the homonymous valley, and in the Abra del Infiernillo area.",
+    "botonGuia": "Online Guide",
+    "aclaracionesTitulo": "Clarifications and suggestions",
+    "alertaEscaladaTitulo": "Climbing is a risky sport.",
+    "alertaEscaladaTexto": "The authors of this guide are not responsible for its incorrect use, nor for incidents or accidents that may occur while practicing the activity. Climbing is a risky sport and this guide should only be used as a source of information, with the responsibility and safety of climbing lying with those who practice it.",
+    "cuidadoLugarTitulo": "Care of the Place",
+    "alertaNaturalezaTitulo": "Care and Respect for Nature.",
+    "alertaNaturalezaTexto": "We strongly urge you to practice low-impact standards, leaving the mountains cleaner than we found them and moving through them with the utmost respect for local flora and fauna.",
+    "sugerencias": {
+      "casco": "A helmet must be used both for climbing and for belaying.",
+      "chequeo": "Cross-checking before starting to climb is recommended.",
+      "maniobras": "Learn the maneuvers well, correct progression technique, protection placement and equipment use.",
+      "rapel": "You must rappel down all routes to extend the life of the anchors. It is essential to know rappel and descent maneuvers. Pay attention when performing them.",
+      "descuelgues": "In general, the anchors have two rings, although you may encounter a maillon. Please leave them there and do not take them.",
+      "rocasSueltas": "In the newer sectors, it is recommended to stay on the bolt line and be careful of loose rocks.",
+      "abrigo": "For most of the year, it is suggested to have a good jacket in your backpack.",
+      "malAltura": "Above 3000 meters above sea level, possible symptoms of altitude sickness should be taken into account.",
+      "agua": "Carry enough water and protect yourself from the sun.",
+      "cascoAproximacion": "It is advisable to wear a helmet on certain walking approaches.",
+      "primerosAuxilios": "Climbing takes place in remote places where help is not immediate. It is recommended to have basic first aid knowledge.",
+      "escala": "The French grading scale is used. Grades are subjective and it is up to each person to correctly choose the route to climb.",
+      "cuerda": "In general, routes are short and do not exceed 20m, so a 60m rope is sufficient to climb all routes. Even so, it is always recommended to tie a knot at the ends of the rope."
+    },
+    "cuidado": {
+      "conservacion": "Care for nature and conservation of the environment.",
+      "sendas": "Respect marked trails to minimize impact.",
+      "nidos": "If there are nests near or on the climbing route, do not climb it.",
+      "fuego": "No fires: these are very dry areas with low humidity and wind often blows; a small ignition can cause a forest fire.",
+      "musica": "Do not play music that disturbs the climbing area.",
+      "acampe": "Camp only in designated areas.",
+      "chinchillones": "On the walls, you may also encounter Chinchillones; do not scare them if you see one.",
+      "corrales": "If we see corrals, do not occupy them.",
+      "desmalezar": "Do not clear vegetation.",
+      "objetos": "Do not take objects, rocks, plants, flowers, etc.",
+      "mascotas": "Do not bring pets, such as dogs.",
+      "basuraOrganica": "Do not throw organic waste (fruit or vegetable remains, for example).",
+      "plasticos": "Do not throw plastic waste, ribbons, papers, cardboard, or cans.",
+      "colillas": "Do not throw cigarette butts.",
+      "basuraCasa": "Garbage goes home.",
+      "banio": "Toilet paper should be taken home in a waste bag."
+    }
+  },
+  "guia": {
+    "titulo": "Online Guide",
+    "descripcion1": "In the Department of Tafí del Valle there are around 150 climbing routes distributed across 8 main sectors.",
+    "descripcion2": "El Rincón and Los Corpitos concentrate the greatest number of routes and a wide variety of grades (between 5th and 8a).",
+    "descripcion3": "Climbing is practiced above 2000 m.a.s.l., reaching 2900 masl at Infiernillo, and even well above 3000 masl in Quebrada del Barón. Most of these sectors are located on the slopes of Cerro Muñoz and, notably, routes are generally short, so a 60m rope is sufficient to practice this beautiful sport.",
+    "descripcion4": "Finally, while it is possible to climb year-round, heavy rainfall during summer months and considerable cold in winter must be taken into account, with the Infiernillo area having a more stable climate than the Valley.",
+    "zonasEscalada": "Climbing Zones"
+  },
+  "zona": {
+    "comoLlegar": "How to Get There",
+    "zonaAcampe": "Camping Area",
+    "sectores": "Sectors",
+    "googleMaps": "Google Maps",
+    "trackWikiloc": "Wikiloc Track",
+    "archivoGPX": "GPX File"
+  },
+  "sector": {
+    "otrosSectores": "Other Sectors",
+    "comoLlegar": "How to Get There"
+  },
+  "proyecto": {
+    "titulo": "About Us",
+    "descripcion1": "This virtual guide came to life thanks to the efforts and work of the Argentine Mountain Association (A.A.M.), together with the help of local community climbers. It arose from the need to have a constantly updated guide, especially after the discovery and development of the Los Corpitos sector, the last one to open. The high motivation of some climbers to develop and equip a new climbing area was the trigger that showed us the need to have all information in one organized place.",
+    "descripcion2": "The AAM is a mountaineering and climbing club based in Yerba Buena, Tucumán, and one of its founding principles is the desire to promote and develop both activities. This guide brings us a little closer to achieving that goal.",
+    "descripcion3": "We invite our fellow provincial residents as well as those visiting from other provinces to enjoy and use this free guide. For any suggestions, please contact us at",
+    "descripcion4": "We cannot fail to thank those who dedicate their time, money and effort to developing new routes, as well as those who contribute to the cause with financial support.",
+    "descripcion5": "It should be noted that this guide would not have been possible without the great contribution of Pablo Bejas, as well as the information provided by those who preceded us in creating previous guides, taking as reference the one created in 2018 by Matias Rohmer and Andres Quiroga.",
+    "palestras": "If you want to do indoor climbing in Tucumán, the climbing gyms are:",
+    "agradecimientos": "Acknowledgements",
+    "agradecimientosGuias": "To those who preceded us and created previous guides: Matias Rohmer, Andres Quiroga, Roberto Sanchez, Ulises Saini, Victoria Salvadeo, José Góngora",
+    "agradecimientosEquipo": "To those who worked to make this project a reality: Pablo Bejas, Aylén Martínez, Jimena Bulacio, Victoria Salvadeo, Ulises Saini, Emiliano Soria Mansilla, Oscar Zavala Garro, and Ulises Kusnezov",
+    "agradecimientosSocios": "And, of course, to all AAM members for their constant contribution to the club."
+  },
+  "footer": {
+    "titulo": "Tucumán Climbing Guide",
+    "desarrollador": "Developed by PMWebdeveloper®"
+  },
+  "metadatos": {
+    "tituloSitio": "Tucumán Climbing Guide",
+    "descripcionSitio": "Sport climbing guide for the province of Tucumán, Argentina. Zones, sectors and routes in Tafí del Valle."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "navegacion": {
+    "inicio": "Início",
+    "guia": "Guia",
+    "nosotros": "Sobre Nós"
+  },
+  "principal": {
+    "bienvenida": "Bem-vindos ao Guia de Escalada esportiva da província de Tucumán, Argentina.",
+    "descripcion1": "Atualmente esta atividade está em pleno crescimento, como em quase todo o norte argentino, graças à motivação e ao comprometimento de escaladores, equipadores, escolas de escalada locais e a Associação Argentina de Montanha (AAM) que, por meio de diversas iniciativas, continuam promovendo o esporte.",
+    "descripcion2": "Aqui você encontrará não apenas informações técnicas sobre os setores e suas vias, mas também aspectos fundamentais sobre como se mover com segurança em um ambiente de montanha, onde é necessário conservar e proteger a biodiversidade para alcançar o desenvolvimento de uma atividade esportiva em harmonia com o meio ambiente.",
+    "descripcion3": "Em Tucumán, a escalada está concentrada no Departamento de Tafí del Valle, mais precisamente no vale homônimo, e na área do Abra del Infiernillo.",
+    "botonGuia": "Guia Online",
+    "aclaracionesTitulo": "Esclarecimentos e sugestões",
+    "alertaEscaladaTitulo": "A escalada é um esporte de risco.",
+    "alertaEscaladaTexto": "Os autores deste guia não são responsáveis pelo uso incorreto do mesmo, tampouco pelos incidentes ou acidentes que possam ocorrer durante a prática da atividade. A escalada é um esporte de risco e este guia deve ser utilizado apenas como fonte de informação, recaindo a responsabilidade e a segurança da escalada sobre quem a pratica.",
+    "cuidadoLugarTitulo": "Cuidado com o Lugar",
+    "alertaNaturalezaTitulo": "Cuidar e Respeitar a Natureza.",
+    "alertaNaturalezaTexto": "Pedimos encarecidamente que pratiquem as normas de baixo impacto, deixando as montanhas mais limpas do que as encontramos e nos movendo nelas com o máximo respeito pela flora e fauna local.",
+    "sugerencias": {
+      "casco": "É obrigatório usar capacete tanto para escalar quanto para dar segurança.",
+      "chequeo": "Recomenda-se a verificação cruzada antes de começar a escalar.",
+      "maniobras": "Aprender bem as manobras, técnica correta de progressão, colocação de proteção e uso do equipamento.",
+      "rapel": "Deve-se descer em rapel por todas as vias, para prolongar a vida das âncoras. É fundamental conhecer as manobras de rapel e descida. Prestar atenção no momento de realizá-las.",
+      "descuelgues": "Em geral, as âncoras possuem dois anéis, embora seja possível encontrar um maillon. Pede-se deixá-los ali e não retirá-los.",
+      "rocasSueltas": "Nos setores mais novos, recomenda-se manter-se na linha dos grampos e ter cuidado com as rochas soltas.",
+      "abrigo": "Para a maior parte do ano, sugere-se ter um bom agasalho na mochila.",
+      "malAltura": "Acima de 3000 metros sobre o nível do mar, deve-se levar em conta os possíveis sintomas do mal de altitude.",
+      "agua": "Levar água suficiente e se proteger do sol.",
+      "cascoAproximacion": "É aconselhável usar o capacete em certas aproximações a pé.",
+      "primerosAuxilios": "A escalada ocorre em lugares distantes onde a ajuda não é imediata. Recomenda-se ter conhecimentos básicos de primeiros socorros.",
+      "escala": "Utiliza-se a escala de graduação francesa. Os graus são subjetivos e cabe a cada um saber escolher corretamente a via a escalar.",
+      "cuerda": "Em geral, as vias são curtas e não ultrapassam 20m, portanto uma corda de 60m é suficiente para escalar todas as vias. Mesmo assim, recomenda-se sempre fazer um nó nas pontas da corda."
+    },
+    "cuidado": {
+      "conservacion": "Cuidar da natureza e conservar o meio ambiente.",
+      "sendas": "Respeitar as trilhas marcadas para minimizar o impacto.",
+      "nidos": "Se houver ninhos próximos ou na linha da via de escalada, não escalar.",
+      "fuego": "Proibido fazer fogo: são zonas muito secas com pouca umidade e geralmente com vento; portanto, uma pequena ignição pode causar um incêndio florestal.",
+      "musica": "Não tocar música que perturbe na área de escalada.",
+      "acampe": "Acampar apenas nas áreas designadas.",
+      "chinchillones": "Nas paredes, também podem ser encontrados Chinchillones; não assustá-los caso veja um.",
+      "corrales": "Se vir currais, não os ocupar.",
+      "desmalezar": "Não desbravar a vegetação.",
+      "objetos": "Não levar objetos, rochas, plantas, flores, etc.",
+      "mascotas": "Não trazer animais de estimação, como cães.",
+      "basuraOrganica": "Não jogar resíduos orgânicos (restos de frutas ou verduras, por exemplo).",
+      "plasticos": "Não jogar resíduos plásticos, fitas, papéis, papelão nem latas.",
+      "colillas": "Não jogar bitucas de cigarro.",
+      "basuraCasa": "O lixo volta para casa.",
+      "banio": "Os papéis usados para ir ao banheiro devem ser levados em um saco de lixo."
+    }
+  },
+  "guia": {
+    "titulo": "Guia Online",
+    "descripcion1": "No Departamento de Tafí del Valle existem cerca de 150 vias de escalada distribuídas em 8 setores principais.",
+    "descripcion2": "El Rincón e Los Corpitos concentram a maior quantidade de vias e grande variedade de graus (entre 5º e 8a).",
+    "descripcion3": "A escalada é praticada acima dos 2000 m.s.n.m., podendo chegar aos 2900 msnm no Infiernillo, e inclusive superar amplamente os 3000 msnm na Quebrada del Barón. A maioria destes setores está nos declives do Cerro Muñoz e, cabe destacar que em geral as vias costumam ser curtas, portanto uma corda de 60 mts é suficiente para praticar este lindo esporte.",
+    "descripcion4": "Por último, embora seja possível escalar durante todo o ano, deve-se levar em conta as altas precipitações durante o verão e o frio considerável no inverno, sendo o clima na área do infiernillo mais estável do que no Vale.",
+    "zonasEscalada": "Zonas de Escalada"
+  },
+  "zona": {
+    "comoLlegar": "Como Chegar",
+    "zonaAcampe": "Área de Acampamento",
+    "sectores": "Setores",
+    "googleMaps": "Google Maps",
+    "trackWikiloc": "Track Wikiloc",
+    "archivoGPX": "Arquivo GPX"
+  },
+  "sector": {
+    "otrosSectores": "Outros Setores",
+    "comoLlegar": "Como Chegar"
+  },
+  "proyecto": {
+    "titulo": "Sobre Nós",
+    "descripcion1": "Este guia virtual é uma realidade graças às gestões e ao trabalho da Associação Argentina de Montanha (A.A.M.), junto com a ajuda de escaladores da comunidade local. Surge da necessidade de ter um guia constantemente atualizado, especialmente após a descoberta e equipamento do setor Los Corpitos, o último a ser aberto.",
+    "descripcion2": "A AAM é um clube de montanhismo e escalada com sede em Yerba Buena, Tucumán, e tem entre suas bases fundacionais o desejo de promover e desenvolver ambas as atividades. Este guia nos aproxima um pouco mais de alcançar esse objetivo.",
+    "descripcion3": "Convidamos nossos compatriotas, assim como os visitantes de outras províncias, a que desfrutem e façam uso deste guia gratuito. Para qualquer sugestão, solicitamos contato pelo seguinte e-mail",
+    "descripcion4": "Não podemos deixar de agradecer àqueles que dedicam seu tempo, dinheiro e esforço para o equipamento de novas vias, assim como àqueles que contribuem com ajuda financeira.",
+    "descripcion5": "Vale destacar que este guia não seria realidade sem a grande contribuição de Pablo Bejas, assim como sem o aporte de informação de quem nos precedeu na elaboração de guias anteriores, tendo como referência o criado em 2018 por Matias Rohmer e Andres Quiroga.",
+    "palestras": "Se desejar fazer escalada indoor em Tucumán, as palestras são:",
+    "agradecimientos": "Agradecimentos",
+    "agradecimientosGuias": "Àqueles que nos precederam e elaboraram os guias anteriores: Matias Rohmer, Andres Quiroga, Roberto Sanchez, Ulises Saini, Victoria Salvadeo, José Góngora",
+    "agradecimientosEquipo": "Àqueles que trabalharam para tornar este projeto uma realidade: Pablo Bejas, Aylén Martínez, Jimena Bulacio, Victoria Salvadeo, Ulises Saini, Emiliano Soria Mansilla, Oscar Zavala Garro e Ulises Kusnezov",
+    "agradecimientosSocios": "E, claro, a todos os sócios da AAM pelo seu constante aporte ao clube."
+  },
+  "footer": {
+    "titulo": "Guia de Escalada Tucumán",
+    "desarrollador": "Developed by PMWebdeveloper®"
+  },
+  "metadatos": {
+    "tituloSitio": "Guia de Escalada Tucumán",
+    "descripcionSitio": "Guia de escalada esportiva da província de Tucumán, Argentina. Zonas, setores e vias em Tafí del Valle."
+  }
+}

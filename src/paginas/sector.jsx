@@ -44,7 +44,6 @@ export const Sector = (props) => {
                 </Link>
                 <h1>{sector.nombre}</h1>
                 {error === "" &&  <p>{parse(sector.descripcion)}</p>}
-                <a className="texto-link-sector" href="#como-llegar">Como llegar</a>
             </div>
             <div className="contenedor-contenido-zonas">
                 <div className="seccion-vias-sector">
