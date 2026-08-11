@@ -25,3 +25,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Lock file generado en Windows - el servidor de deploy genera el propio en Linux
+# Esto evita errores de npm ci por dependencias opcionales de plataforma faltantes
+package-lock.json
