@@ -11,6 +11,8 @@
 # Next.js build output y caché (nunca subir al repositorio)
 /.next
 /out
+.open-next
+/open-next
 
 # production
 /build
