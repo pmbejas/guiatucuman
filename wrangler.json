@@ -1,0 +1,12 @@
+{
+    "name": "guiatucuman",
+    "main": ".open-next/worker.js",
+    "compatibility_date": "2026-08-12",
+    "compatibility_flags": [
+        "nodejs_compat"
+    ],
+    "assets": {
+        "directory": ".open-next/assets",
+        "binding": "ASSETS"
+    }
+}
