@@ -1,7 +1,10 @@
 import type { Zona, Sector } from '@/types/Guia';
 import { getLocale } from 'next-intl/server';
-import path from 'path';
-import { promises as fs } from 'fs';
+
+// 1. Importamos los datos JSON estáticamente para que el compilador los incluya
+// directamente en el código de Cloudflare (sin usar 'fs').
+import zonasData from '../../public/data/zonas.json';
+import sectoresData from '../../public/data/sectores.json';
 
 /**
  * Campos de texto que se pueden traducir en una zona.
@@ -14,13 +17,19 @@ interface TraduccionZona {
 }
 
 /**
- * Lee un archivo JSON desde la carpeta public del servidor.
+ * Diccionario para cargar las traducciones de forma dinámica pero predecible
+ * para el compilador (ya que no podemos leer rutas variables con fs).
  */
-async function leerArchivoJson<T>(rutaRelativa: string): Promise<T> {
-  const rutaCompleta = path.join(process.cwd(), 'public', rutaRelativa);
-  const contenido = await fs.readFile(rutaCompleta, 'utf-8');
-  return JSON.parse(contenido) as T;
-}
+const cargarTraduccion = async (idioma: string): Promise<TraduccionZona[]> => {
+  switch (idioma) {
+    case 'en':
+      return (await import('../../public/data/traducciones/zonas.en.json')).default;
+    case 'pt':
+      return (await import('../../public/data/traducciones/zonas.pt.json')).default;
+    default:
+      throw new Error('Idioma no soportado');
+  }
+};
 
 /**
  * Obtiene todas las zonas del JSON base y aplica las traducciones
@@ -29,7 +38,7 @@ async function leerArchivoJson<T>(rutaRelativa: string): Promise<T> {
  */
 export async function obtenerZonas(): Promise<Zona[]> {
   try {
-    const zonas = await leerArchivoJson<Zona[]>('data/zonas.json');
+    const zonas = zonasData as Zona[];
     const idioma = await getLocale();
 
     if (idioma === 'es') {
@@ -37,9 +46,7 @@ export async function obtenerZonas(): Promise<Zona[]> {
     }
 
     try {
-      const traducciones = await leerArchivoJson<TraduccionZona[]>(
-        `data/traducciones/zonas.${idioma}.json`
-      );
+      const traducciones = await cargarTraduccion(idioma);
 
       // Mergeamos cada zona con su traducción correspondiente (por slug)
       return zonas.map((zona) => {
@@ -58,19 +65,19 @@ export async function obtenerZonas(): Promise<Zona[]> {
       return zonas;
     }
   } catch (error) {
-    console.error('Error al leer zonas.json:', error);
+    console.error('Error al cargar zonas.json:', error);
     return [];
   }
 }
 
 /**
- * Lee el archivo sectores.json desde el sistema de archivos del servidor.
+ * Lee el archivo sectores.json directamente desde la importación estática.
  */
 export async function obtenerSectores(): Promise<Sector[]> {
   try {
-    return await leerArchivoJson<Sector[]>('data/sectores.json');
+    return sectoresData as Sector[];
   } catch (error) {
-    console.error('Error al leer sectores.json:', error);
+    console.error('Error al procesar sectores.json:', error);
     return [];
   }
 }
